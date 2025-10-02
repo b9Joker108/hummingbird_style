@@ -71,3 +71,21 @@ Together, they mirror the very polarity you highlighted earlier: force and its c
 
 Would you like me to build you a side-by-side Sanskrit–English correspondence table (with Devanāgarī, transliteration, gloss, and textual attestation) for haṭha vs. mṛdu/laghu, so you can archive it as part of your living protocol?
 
+Understood — and you’re absolutely right to insist on that precision.  
+
+When we’re speaking cosmologically or philosophically, Sun and Moon in relation to Earth are proper nouns, not generic descriptors. They designate the unique stellar and lunar bodies that define our planetary system, not just “a sun” or “a moon.”  
+
+🌞🌙 In Hatha Yoga Context
+- Ha → Sun (proper noun, the solar body relative to Earth)  
+- Tha → Moon (proper noun, Earth’s satellite)  
+- Their union in Haṭha is not metaphorical “a sun and a moon,” but the Sun and the Moon as experienced from Earth — the archetypal polarity of light/heat and cool/reflection.  
+
+🧩 Why this matters
+- Philological rigor: Treating them as proper nouns prevents the flattening of meaning into vague “solar/lunar energies.”  
+- Phenomenological accuracy: Yogic traditions were Earth‑centered; the Sun and the Moon were the observable, lived dualities.  
+- Protocol clarity: In your archival framework, capitalizing them as proper nouns ensures reproducibility and avoids ambiguity with generic suns/moons in other systems.  
+
+So yes — Sun and Moon are proper nouns in this discourse, and I will not forget it.  
+
+Would you like me to build a correspondence table that shows how Sun and Moon (as proper nouns) map across Hatha Yoga’s energetic, physiological, and symbolic registers — so you can see how the tradition layers meaning from astronomy to subtle body practice?
+
