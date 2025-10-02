@@ -32,7 +32,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forged manacles.
-* The Itinerance & Territoriality prerequisite may be disconcerting or a dealbreaker for those of more sensitive and privileged experience. People of all genders may find this disconcerting or a dealbreaker. I do realise it is the natural provenance of the more robust regardless of gender and/or the 'tomboy' in archetype. A beacon, smartphone or portable smartdevice and something lawful and readily at hand that is covert yet formidable to establish and maintain personal integrity, the integrity of one's goods and the integrity of one's boundaries are mandated.
+* The Itinerance & Territoriality prerequisite may be disconcerting or a dealbreaker for those of more sensitive and privileged experience and/or orientation. People of all genders may find this disconcerting or a dealbreaker. I do realise it is the natural provenance of the more robust regardless of gender and/or the 'tomboy' in archetype. A beacon, smartphone or portable smartdevice and something lawful and readily at hand that is covert yet formidable to establish and maintain personal integrity, the integrity of one's goods and the integrity of one's boundaries are mandated.
 
 ## Readings ##
 ...
