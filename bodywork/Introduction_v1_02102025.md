@@ -26,7 +26,7 @@ After 'Sadhana-of-the-Python', a maha-avadhuta (Avadhuta AND Nyonpa, discretely)
 *  Leverage: levers (first, second and third class) and complex levers
 *  Wheels-within-Wheels
 *  Wayfinding
-*  Itinerance and Territoriality {Short, Medium and Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale Path (Old Norse)}
+*  Itinerance and Territoriality {Short, Medium and/or Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale-Path (Old Norse) and Great Whale-Path (Old Norse)}
 *  Habituation
 *  Designated Readings
 
