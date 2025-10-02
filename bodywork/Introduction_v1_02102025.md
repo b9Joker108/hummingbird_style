@@ -40,7 +40,7 @@ After 'Sadhana-of-the-Python', a maha-avadhuta (Avadhuta AND Nyonpa, discretely)
 * https://en.wikipedia.org/wiki/Hermann_Hesse A novel by Hesse either in the German or translation.
 
 ## Designated Mandatory Readings ##
-* Either graze all at your leisure
+* Either graze all (or any) at your leisure
 * Medium Graze circa nine (9) according to your capacity
 * Deep Graze circa five (5) with short piece (any modality) of reflection (artwork, written or performative), on content and learnings
 * Know circa three (3) well and ponderously
