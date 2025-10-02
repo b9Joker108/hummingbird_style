@@ -36,7 +36,7 @@ After 'Sadhana-of-the-Python', a maha-avadhuta (Avadhuta AND Nyonpa, discretely)
 
 ## Readings ##
 * https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe The English book or its translation (not the English Wikipedia article) and three (3) critical articles of same or brief intertextualities as determined by my person.
-* 
+* https://en.wikipedia.org/wiki/The_Jungle_Book The entire English stories of Jungle Book I and II or their translations (not the English Wikipedia article).
 
 ## Designated Mandatory Readings ##
 * Either graze all
