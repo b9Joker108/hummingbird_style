@@ -1,5 +1,7 @@
 # Introduction #
 
+After 'Sadhana of the Python' a maha-avadhuta (avadhuta AND nyonpa) and a lifetime of concerted saturation in Dharmic doscoy$se and sadhana, Sri Nagahari-dasa, has resolved to teach.
+
 ## Prerequisites ##
 
 * Personal Sovereignty in a sovereign Cosmic Manifestation
