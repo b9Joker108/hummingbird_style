@@ -179,3 +179,52 @@ Citations:
 [20] 707-Peripheral blood stem cell (PBSC) mobilisation ... https://www.eviq.org.au/haematology-and-bmt/blood-and-marrow-transplant/mobilisation/707-peripheral-blood-stem-cell-pbsc-mobilisation
 
 
+Itinerance and Territoriality {Short, Medium and/or Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale-Path (Old Norse) and Great Whale-Path (Old Norse)}
+
+Itinerance and territoriality, as subsuming experiences such as homelessness—whether by force of circumstance or intentional persona—can be explored through anthropological, historical, and mythological readings. The Old Norse "Whale-Path" (hval-leið) and "Great Whale-Path" serve as potent metaphors for long-term wandering, maritime traversal, and existential fluidity across territories[1][2][3].
+
+### Modes of Itinerance and Territoriality
+
+- **Short-term and Medium-term Itinerance**: Individuals adapting to displacement or choosing temporary itinerancy often develop highly localised spatial practices, learning to exploit “the architecture of modern life for survival out-of-doors,” such as public parks or urban beaches[4][5]. Survival relies on informal social networks and constant adaptation, echoing Norse seafarers navigating both known and unknown waters[4][6].
+- **Long-term Experience**: Some assume enduring itinerant roles, forming subcultural identities and practices. This can involve intentional “persona” building—akin to taking on the role of wanderer or outcast as a self-fashioning gesture, and sometimes entails a spiritual or philosophical embrace of rootlessness[4][7].
+- **Subsuming Homelessness**: Ethnographies highlight that homelessness is not mere absence of dwelling but a negotiation of territory and identity, with some cultivating independence outside conventional shelter, others suffering from “spiritual homelessness” due to severed ties to homeland and kin, especially in Indigenous contexts[7][8].
+
+### Old Norse Whale-Path
+
+- **Symbolism**: The Whale-Path in Old Norse literature refers to oceanic travel—a metaphor for journeying, exile, and the liminal existence between known shores. The "Great Whale-Path" enhances this symbolism, marking the ocean as both barrier and passage, a domain of the itinerant and exiled[1][2][3].
+- **Connection to Identity**: The Norse tradition valorized seafaring, piracy, and voluntary exile. In myth and saga, the wanderer’s movement is both a search for identity and an existential crossing—the world as a series of territories, each with its own codes, risks, and meanings[1].
+- **Modern Reflection**: The motif of the Whale-Path connects ancient itinerance (sea journeying, exile) with contemporary experiences of territory, rootlessness, and adaptation, underscoring the existential depth of voluntary or forced wandering[2][3].
+
+### Critique and Comparative Perspective
+
+- Theoretical models, such as Lefebvre’s theory of space and Porteous’s territorial core, frame homelessness and itinerance as dynamic negotiations between public and private space, territory, and belonging[5][9].
+- Anthropological accounts contest reductive views that equate homelessness with pathology, showing that itinerancy can involve rational, adaptive, and even “philosophically intentional” choices[4][10].
+- Indigenous studies introduce “spiritual homelessness” as a specific deprivation distinct from purely physical displacement, highlighting the role that tradition and relational place play in identity and territorial belonging[7][8].
+
+***
+
+In sum, the experience of itinerance—whether through necessity or persona—reflects multivalent adaptations to territory and space, deeply connected to mythic narratives (the Great Whale-Path), subcultural strategies, and spatial theory. Readings from Old Norse suggest the wanderer as both existential voyager and territorial negotiator, subsuming homelessness into broader cycles of adaptation and transformation[1][5][7][2][3].
+
+Citations:
+[1] Constructions of Viking Identity in Twentieth Century Britain https://etheses.whiterose.ac.uk/id/eprint/13992/1/245899.pdf
+[2] Mysterious new behaviour seen in whales may be recorded in ... https://news.flinders.edu.au/blog/2023/03/03/mysterious-new-behaviour-seen-in-whales-may-be-recorded-in-ancient-manuscripts/
+[3] This medieval Norse sea monster was actually a whale ... https://www.reddit.com/r/Norse/comments/11jushv/this_medieval_norse_sea_monster_was_actually_a/
+[4] Braving homelessness on the ethnographic street with ... https://eprints.whiterose.ac.uk/id/eprint/84275/2/critiqueofanth2%5B1%5D.pdf
+[5] The Challenge of Homelessness to Spatial Practices https://homelesshub.ca/resource/challenge-homelessness-spatial-practices/
+[6] Homeless crack cocaine users: Territories and ... https://www.sciencedirect.com/science/article/abs/pii/S0277953618305422
+[7] differing relations to Tradition amongst australian indigenous ... https://iaste.org/wp-content/uploads/2012/09/2015/09/Memmott_TDSR_26.2.pdf
+[8] Urban Indigenous homelessness: much more than housing https://www.ahuri.edu.au/sites/default/files/documents/2022-08/AHURI-Final-Report-383-Urban-Indigenous-homelessness-much-more-than-housing_1.pdf
+[9] Home: The Territorial Core https://www.jstor.org/stable/213649
+[10] Review Essay: Ethnography and Understanding ... https://www.feantsaresearch.org/public/user/Observatory/2021/EJH_15-2/EJH_15-2_BR2_1.pdf
+[11] Solving Homelessness from a Complex Systems Perspective https://pmc.ncbi.nlm.nih.gov/articles/PMC6445694/
+[12] How these women are mapping ancient whale migration ... https://www.sbs.com.au/news/article/whale-migration-mapping-project-reveals-indigenous-songlines/7nqere56s
+[13] Homelessness in a Global Historical Context - Oxford Academic https://academic.oup.com/book/40306/chapter/346789973
+[14] What leads to homeless shelter re-entry? An exploration ... https://pmc.ncbi.nlm.nih.gov/articles/PMC6972122/
+[15] Sámi Prehistories https://www.diva-portal.org/smash/get/diva2:241109/FULLTEXT01.pdf
+[16] Toward Understanding Homelessness: The 2007 National ... https://aspe.hhs.gov/reports/toward-understanding-homelessness-2007-national-symposium-homelessness-research-historical-0
+[17] Pathways into homelessness https://www.jstor.org/stable/26146145
+[18] Geatland Forever https://scandinavianaggression.com/2021/03/geatland-forever.html
+[19] BLUE CORRIDORS OF THE EASTERN PACIFIC OCEAN https://files.worldwildlife.org/wwfcmsprod/files/Publication/file/5yu9ohroh2_WWF_AU_Whale_Report_digital_preview_spreads_EN.pdf
+[20] Killing Time: A Relational Theory of Homeless Addiction https://discovery.ucl.ac.uk/10049034/1/Burraway_ID_thesis.pdf
+
+
