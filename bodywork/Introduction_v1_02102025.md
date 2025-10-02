@@ -12,6 +12,9 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 * Basic knowledge of appropriate hydration and appropriate fats and oils
   * After significant sedentary non-activity and/or convalescence from significant illness, injury, psychic or emotional shock or other somesuch:
       * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) months at minimum to penetrate into the bonemarrow of the human complex which is the fundamental benchmark
+*  Lines-of-Sight
+*  Lay-of-the-land (Lines-of-Site)
+*  Siting
 *  Affordances
 *  Anchors
 *  Bindings
