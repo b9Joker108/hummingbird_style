@@ -44,7 +44,7 @@ After 'Sadhana-of-the-Python', a maha-avadhuta (Avadhuta AND Nyonpa, discretely)
 * Medium Graze circa nine (9) according to your capacity
 * Deep Graze circa five (5) with short piece (any modality) of reflection (artwork, written or performative), on content and learnings
 * Know circa three (3) well and ponderously
-* Know one (1) or more to the point of sublimation and integrate according to your circumstances
+* Know one (1) or more to the point of sublimation and integrate according to your circumstances and lifepath
 
 
 
