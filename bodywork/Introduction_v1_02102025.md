@@ -35,7 +35,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 * The Itinerance & Territoriality prerequisite may be disconcerting or a dealbreaker for those of more sensitive and privileged experience and/or orientation. People of all genders may find this disconcerting and/or a dealbreaker. I do realise it is the natural provenance of the more robust regardless of gender and/or the 'tomboy' or tactical in archetype or skillset. A beacon, smartphone and/or portable smartdevice or other somesuch and something lawful and readily at hand that is covert yet formidable to establish and maintain personal integrity, the integrity of one's goods and the integrity of one's boundaries is and are mandated without reservation. I know of no living entity and/or sentient being that does not endeavour to preserve themselves and/or their loved-ones, tribe, kind, kith-or-kin in matters or states of adversity through appropriate force and appropriate means available to them.
 
 ## Readings ##
-* https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe The English book or its translation (not the English Wikipedia article) and three (3) critical articles of same determined by my person.
+* https://en.wikipedia.org/wiki/The_Lion,_the_Witch_and_the_Wardrobe The English book or its translation (not the English Wikipedia article) and three (3) critical articles of same or brief intertextualities as determined by my person.
 * 
 
 ## Designated Mandatory Readings ##
