@@ -7,6 +7,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 * Personal Sovereignty in a sovereign Cosmic Manifestation
 * Personal Knowledge Management (PKM) and a deep and rigorous triangulation (progressive) of all entries of import
 * Restoration and renewal to one's very marrow: actual and metaphorical
+* Lifeforce
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
 * Elements {Mahabhuta (Indic and Indic lowands); Five Pure Lights (Himalayan highlands); Five Elements (SE Asia; E Asian; Salt & Water (Voodou); Fire & Ice (Old Norse); Valency/Periodic Table}
 * Basic knowledge of hormones in relation to human biochemistry
