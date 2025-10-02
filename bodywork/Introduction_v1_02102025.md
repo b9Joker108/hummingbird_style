@@ -26,9 +26,10 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 *  Wheels-within-Wheels
 *  Wayfinding
 *  Itinerance and Territoriality {Short, Medium and Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale Path (Old Norse)}
+*  Habituation
 
 ## Caveats ##
-* With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forced manacles.
+* With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forged manacles.
 
 ## Scaffolding/Notes for Reworking ##
 
