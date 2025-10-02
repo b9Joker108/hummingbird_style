@@ -38,10 +38,10 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 
 ## Designated Mandatory Readings ##
 * Either graze all
-* Medium Graze circa five (9)
+* Medium Graze circa nine (9)
 * Deep Graze circa five (5)
-* Know circa two (2) well
-* Know circa one (1) to the point of sublimation
+* Know circa three (3) well
+* Know one (1) or more to the point of sublimation and integrate according to your circumstances
 
 
 
