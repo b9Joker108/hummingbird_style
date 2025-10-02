@@ -1,6 +1,6 @@
 # Introduction #
 
-After 'Sadhana of the Python' a maha-avadhuta (avadhuta AND nyonpa) and a lifetime of concerted saturation in Dharmic doscoy$se and sadhana, Sri Nagahari-dasa, has resolved to teach.
+After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) and a lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), Sri Nagahari-dasa, has resolved to teach.
 
 ## Prerequisites ##
 
