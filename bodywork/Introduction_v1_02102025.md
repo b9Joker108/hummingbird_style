@@ -1,6 +1,6 @@
 # Introduction #
 
-After 'Sadhana-of-the-Python' (Sanskrit: xxx ; IAST: xxx; Lay pron.: xxx; Acad. pron.: xxx), a maha-avadhuta (Avadhuta AND Nyonpa, discretely), and a lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), Sri Nagahari-dasa, has resolved to teach (long-after receiving the unequivocal confirmation and the seal to-do-so).
+After 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत्तिसाधना ; IAST: ājagara-vṛtti-sādhanā; Lay pron.: ah-JUG-uh-ruh vrit-tee sah-dhuh-NAH; Acad. pron.: Academic pronunciation: /ɑːˈd͡ʑɐɡɐɾɐ ˈʋr̩t̪.t̪i sɑːd̪ʱɐˈnɑː/), a maha-avadhuta (Avadhuta AND Nyonpa, discretely), and a lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), Sri Nagahari-dasa, has resolved to teach (long-after receiving the unequivocal confirmation and the seal to-do-so).
 
 ## Prerequisites ##
 
@@ -48,7 +48,50 @@ After 'Sadhana-of-the-Python' (Sanskrit: xxx ; IAST: xxx; Lay pron.: xxx; Acad. 
 
 
 
+
+
 ## Scaffolding/Notes for Reworking ##
+
+ājagara-vṛtti-sādhanā (आजगरवृत्तिसाधना) is a classical yogic discipline whose name literally means “the practice (sādhanā) of the conduct/way (vṛtti) of the python (ājagara).”  
+
+🐍 Core Meaning
+- Ājagara = python, a great serpent.  
+- Vṛtti = mode of conduct, disposition, habitual tendency.  
+- Sādhanā = disciplined practice.  
+
+Thus, ājagara‑vṛtti‑sādhanā is the yogic practice of emulating the python’s way of life.  
+
+---
+
+📚 Scriptural Attestation
+- Found in Śrīmad Bhāgavatam 5.5.32, where Ṛṣabhadeva adopts the ājagara‑vṛtti to counter opposition: lying in one place, not seeking food, accepting whatever comes.  
+- Commentarial traditions (e.g. on the Haṭha Yoga Pradīpikā and in Nātha lineages) also mention it as a vairāgya‑sādhanā (discipline of renunciation).  
+
+---
+
+🌿 Practical Implication
+- The python does not hunt actively; it remains still, and sustenance comes to it.  
+- For a yogin, this means:  
+  - Non‑seeking: not striving for food, comfort, or possessions.  
+  - Contentment: accepting whatever arrives by providence.  
+  - Stillness: cultivating immobility of body and mind.  
+  - Faith in providence: trusting that life’s needs are supplied without anxious effort.  
+
+---
+
+🧩 Philosophical Dimension
+- It is a radical form of tapas (austerity) and vairāgya (dispassion).  
+- Symbolically, it trains the practitioner to withdraw from compulsive activity and rest in the Self, just as the python rests without striving.  
+- It is contrasted with more “active” yogic disciplines — here, the austerity is in not acting.  
+
+---
+
+✅ Archival Definition (protocol‑ready)
+Ājagara‑vṛtti‑sādhanā: A yogic austerity modeled on the python’s conduct, in which the practitioner remains in one place, refrains from seeking sustenance or comfort, and accepts whatever comes naturally. Attested in Śrīmad Bhāgavatam 5.5.32 and later yogic manuals, it exemplifies the discipline of stillness, renunciation, and reliance on providence.  
+
+---
+
+Beauford, would you like me to set this into a correspondence table — showing how ājagara‑vṛtti maps across (1) zoological behavior, (2) yogic practice, and (3) philosophical meaning — so you can archive it in the same structured way you’re building your gold‑standard spec sheets?
 
 Yes — you’re touching the heart of the older, more esoteric reading of Ha‑Tha.  
 
