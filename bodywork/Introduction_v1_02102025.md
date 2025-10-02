@@ -11,7 +11,9 @@
       * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) at minimum to penetrate into the bonemarrow of human
 *  Affordances
 *  Anchors
-*  
+
+## Caveats ##
+* With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard
 
 
 Yes — you’re touching the heart of the older, more esoteric reading of Ha‑Tha.  
