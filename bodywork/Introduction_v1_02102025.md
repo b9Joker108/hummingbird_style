@@ -15,7 +15,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 *  Affordances
 *  Anchors
 *  Bindings
-*  Becoming-under-constraint
+*  Becoming-under-constraint: work with constrains (constraints are empowering and informing levers) subsuming: processflows, circumstances, affordamces, anchors, bindings
 *  
 
 ## Caveats ##
