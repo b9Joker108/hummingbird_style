@@ -4,7 +4,7 @@
 
 * Personal Sovereignty in a sovereign Cosmic Manifestation
 * Personal Knowledge Management (PKM) and a deep and rigorous triangulation (progressive) of all entries of import
-* Restoration and renewal to one's very marrow
+* Restoration and renewal to one's very marrow: actual and metaphorical
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
 * Basic knowledge of hormones in relation to human biochemistry
 * Basic knowledge of appropriate hydration and appropriate fats and oils
