@@ -8,7 +8,7 @@
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
 * Basic knowledge of appropriate hydration and appropriate fats and oils
   * After significant sedentary non-activity and/or convalescence from significant illness, injury, psychic or emotional shock or other somesuch:
-      * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) at minimum to penetrate into the bonemarrow of human
+      * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) months at minimum to penetrate into the bonemarrow of the human complex which is the fundamental benchmark
 *  Affordances
 *  Anchors
 
