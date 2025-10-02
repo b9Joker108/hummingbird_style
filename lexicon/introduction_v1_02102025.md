@@ -2,6 +2,7 @@
 
 ## Prerequisites ##
 
+* Personal Knowledge Management (PKM) and a deep and rigorous triangulation (progressive) of all entries of import
 * Basic knowledge of hormones in relation to human biochemistry
 * Basic knowledge of appropriate hydration and appropriate fats and oils
   * After significant sedentary non-activity and/or convalescence from significant convalescence:
