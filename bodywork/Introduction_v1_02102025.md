@@ -42,6 +42,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * 
 
 ## Designated Mandatory Readings ##
+Choose one (1) according to your conscience and determination:
 * Either graze all (or any) at your leisure
 * Medium Graze circa nine (9) according to your capacity
 * Deep Graze circa five (5) with short piece (any modality) of reflection (artwork, written or performative), on content and learnings
