@@ -8,7 +8,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 * Personal Knowledge Management (PKM) and a deep and rigorous triangulation (progressive) of all entries of import
 * Restoration and renewal to one's very marrow: actual and metaphorical
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
-* Elements {Mahabhuta; Five Pure Lights; Salt & Water (Voodou); Valency/Periodic Table}
+* Elements {Mahabhuta (Indic and Indic lowands); Five Pure Lights (Himalayan highlands); Five Elements (SE Asia; E Asia8n Salt & Water (Voodou); Valency/Periodic Table}
 * Basic knowledge of hormones in relation to human biochemistry
 * Basic knowledge of appropriate hydration and appropriate fats and oils
   * After significant sedentary non-activity and/or convalescence from significant illness, injury, psychic or emotional shock or other somesuch:
