@@ -13,7 +13,7 @@
 *  Anchors
 
 ## Caveats ##
-* With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard
+* With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice
 
 ## Scaffolding/Notes for Reworking ##
 
