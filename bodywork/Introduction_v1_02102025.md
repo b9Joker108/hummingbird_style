@@ -15,6 +15,7 @@
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard
 
+## Scaffolding/Notes for Reworking ##
 
 Yes — you’re touching the heart of the older, more esoteric reading of Ha‑Tha.  
 
