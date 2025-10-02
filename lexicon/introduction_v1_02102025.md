@@ -8,6 +8,6 @@
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
 * Basic knowledge of appropriate hydration and appropriate fats and oils
   * After significant sedentary non-activity and/or convalescence from significant convalescence:
-      * 3 months protocol of SOTA hydration and qualitative oil turnover in the bodymind. It takes circa 3 m(nths to penetrate into thevbonemarrow
+      * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) at minimum to penetrate into the bonemarrow of human
 *  Affordances
 *  
