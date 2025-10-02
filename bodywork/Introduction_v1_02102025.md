@@ -28,9 +28,22 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 *  Wayfinding
 *  Itinerance and Territoriality {Short, Medium and Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale Path (Old Norse)}
 *  Habituation
+*  Designated Readings
 
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forged manacles.
+
+## Readings ##
+...
+
+## Designated Mandatory Readings ##
+* Either graze all
+* Medium Graze circa five (9)
+* Deep Graze circa five (5)
+* Know circa two (2) well
+* Know circa one (1) to the point of sublimation
+
+
 
 ## Scaffolding/Notes for Reworking ##
 
