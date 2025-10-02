@@ -1,6 +1,6 @@
 # Introduction #
 
-After 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत्तिसाधना ; IAST: ājagara-vṛtti-sādhanā; Lay pron.: ah-JUG-uh-ruh vrit-tee sah-dhuh-NAH; Acad. pron./IPA: /ɑːˈd͡ʑɐɡɐɾɐ ˈʋr̩t̪.t̪i sɑːd̪ʱɐˈnɑː/), and a lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), a maha-avadhuta ([Avadhuta](https://en.wikipedia.org/wiki/Avadhuta) AND [Nyonpa](https://en.wikipedia.org/wiki/Ny%C3%B6npa), discretely), Sri Nagahari-dasa, has been both charged and has slowly resolved to teach (long-after receiving the unequivocal confirmation and the seal to-do-so).
+After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत्तिसाधना ; IAST: ājagara-vṛtti-sādhanā; Lay pron.: ah-JUG-uh-ruh vrit-tee sah-dhuh-NAH; Acad. pron./IPA: /ɑːˈd͡ʑɐɡɐɾɐ ˈʋr̩t̪.t̪i sɑːd̪ʱɐˈnɑː/), as crest-jewell and capstone of a dedicated adult lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), a maha-avadhuta ([Avadhuta](https://en.wikipedia.org/wiki/Avadhuta) AND [Nyonpa](https://en.wikipedia.org/wiki/Ny%C3%B6npa), discretely), Sri Nagahari-dasa, has been both charged and has slowly resolved to teach (long-after receiving the unequivocal confirmation and the seal to-do-so).
 
 ## Prerequisites ##
 
