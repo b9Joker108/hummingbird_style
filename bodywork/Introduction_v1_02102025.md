@@ -17,7 +17,8 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 *  Bindings
 *  Becoming-under-constraint: work with constraints/challenges (constraints are empowering and informing levers) subsuming: processflows, circumstances, affordances, anchors, bindings
 *  Support/Without Support
-*  Leverage: levers and complex levers
+*  Leverage: levers (first, second and third class) and complex levers
+*  Wheels-within-Wheels
 
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forced manacles.
