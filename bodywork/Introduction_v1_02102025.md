@@ -17,6 +17,7 @@ After 'Sadhana-of-the-Python' a maha-avadhuta (Avadhuta AND Nyonpa, discretely) 
 *  Lines-of-Sight
 *  Lay-of-the-Land (Lines-of-Site)
 *  Siting (Orienting-in-Awareness throuthout all Four States)
+*  Recon (Traversing-in-Awareness throuthout all Four States)
 *  Affordances
 *  Anchors
 *  Bindings
