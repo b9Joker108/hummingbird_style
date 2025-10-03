@@ -84,6 +84,12 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Greasing-the-Groove
 * Dexter / Sinister
    * https://en.wikipedia.org/wiki/Dexter_and_sinister
+* Grease-the-Groove
+* Simple-and-Sinister
+* Inversions
+* Earning-your-Wings
+* Circulation
+* Pancha-Kosha
 * 
 
 ## Caveats ##
