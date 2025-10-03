@@ -91,8 +91,10 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Circulation
 * Pancha-Kosha
 * Permeability / Vulnerability / Barrier / Shield / Fortification
-* 
-* 
+* Balancework
+* Contact Improvisation
+   * https://en.wikipedia.org/wiki/Contact_improvisation
+
 
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forged manacles.
