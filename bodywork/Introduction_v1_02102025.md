@@ -56,7 +56,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Static Stretching (SS)
 * Dynamic Stretching (DS)
 * Stretching with Support/Assisted
-* Cooling Down (Agonists/Antagonists/Shadow/Complements)
+* Cooling Down (Agonists/Antagonists/Shadow/Complements/Holons/Gestault)
 * Load/Loading
 * Time-Under-Tension (TUT)
 * Basic Knowledge of the Human Exercise Sciences
