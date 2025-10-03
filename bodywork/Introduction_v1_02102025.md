@@ -10,8 +10,14 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Lifeforce/Vitalforce
 * Basic breathwork in relation to the human bodymind complex and human biological and exercise sciences
 * Elements {Mahabhuta (Indic and Indic lowands); Five Pure Lights (Himalayan highlands); Five Elements (SE Asia; E Asian; Salt & Water (Voodou); Fire & Ice (Old Norse); Valency/Periodic Table}
-* Basic knowledge of hormones in relation to human biochemistry
+* Basic Knowledge of Chemistry
+* Basic Knowledge of Biochemistry
+* Basic Knowledge of Human Biochemistry
+* Basic knowledge of Endochrinology and hormones in relation to human biochemistry
 * Basic knowledge of appropriate hydration and appropriate fats and oils
+* Basic knowledge of protein and amino acids
+* Basic knowledge of: Carbohydrates; Starches; Sugars. 
+* Basic Nutrition and Sustenance (Macronutrients & Micronutrients)
   * After significant sedentary non-activity and/or convalescence from significant illness, injury, psychic or emotional shock or other somesuch:
       * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) months at minimum to penetrate into the bonemarrow of the human complex which is the fundamental benchmark
 *  Lines-of-Sight
