@@ -70,6 +70,8 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Never Leave Base-of-Operations (especially into unknown territory) without a Magico-Intentional Snack & a Hydrational Elixir
 * Human Cultural Universals and Cultural Relativity
 * Gamify & Gamification Theory
+* Essence-Function
+* Jewell-Net-of-Indra
 * 
 
 ## Caveats ##
