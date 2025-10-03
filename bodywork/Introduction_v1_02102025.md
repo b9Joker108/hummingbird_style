@@ -30,7 +30,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 *  Somatosphere / Kinetosphere
 *  Music/Structured-Sound (that makes YOU move: Outer & Inner sound/music; Embody Sound)
 *  Dancify (Beginner's Mind; Tabula Rasa; Baby Steps)
-*  Juggling / Juggle-Arts / Imparial Arts / Martial Arts / Internal Arts
+*  Juggling / Juggle-Arts / Impartial Arts / Martial Arts / Internal Arts
 *  Wheels-within-Wheels
 *  Wayfinding
 *  Trancify
