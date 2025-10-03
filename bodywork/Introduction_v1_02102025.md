@@ -2,6 +2,11 @@
 
 After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत्तिसाधना ; IAST: ājagara-vṛtti-sādhanā; Lay pron.: ah-JUG-uh-ruh vrit-tee sah-dhuh-NAH; Acad. pron./IPA: /ɑːˈd͡ʑɐɡɐɾɐ ˈʋr̩t̪.t̪i sɑːd̪ʱɐˈnɑː/), as crest-jewell and capstone of a dedicated adult lifetime of concerted saturation in Dharmic discourse (theory) and sadhana (practice), a maha-avadhuta ([Avadhuta](https://en.wikipedia.org/wiki/Avadhuta) AND [Nyonpa](https://en.wikipedia.org/wiki/Ny%C3%B6npa), discretely), Sri Nagahari-dasa, has been both charged and has slowly resolved to teach (long-after receiving the unequivocal confirmation and the seal to-do-so).
 
+**Wounded Healer: Heal Thyself**
+
+I have redressed, repaired, mitigated or cured personal obstructions to my personal heath beyond count. The earliest was was before my memory, which commenced at 11 years old. Which, is when I first remember remembering. Prior to this, triangulated from elder indimatesv I understand I incessantly rigorously exercised (somesay, exorcized), my left fully-lazy eye (somesay, the Evil Eye, which is a Christian demonization of an ancient and traditional phenomenon). Normalising it a few short weeks.
+
+
 ## Prerequisites ##
 
 * Personal Sovereignty in a sovereign Cosmic Manifestation
