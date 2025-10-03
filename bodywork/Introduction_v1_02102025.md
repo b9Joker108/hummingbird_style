@@ -27,7 +27,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 *  Leverage: levers (first, second and third class) and complex levers
 *  Planes of movement
 *  Somatosphere / Kinetosphere
-*  Music/Structured-Sound (that makes YOU move: Outer & Inner; Embody Sound)
+*  Music/Structured-Sound (that makes YOU move: Outer & Inner sound/music; Embody Sound)
 *  Dancify
 *  Wheels-within-Wheels
 *  Wayfinding
