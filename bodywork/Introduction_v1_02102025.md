@@ -28,9 +28,10 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 *  Planes of movement
 *  Somatosphere / Kinetosphere
 *  Music/Structured-Sound (that makes YOU move: Outer & Inner sound/music; Embody Sound)
-*  Dancify
+*  Dancify (Beginner's Mind; Tabula Rasa; Baby Steps)
 *  Wheels-within-Wheels
 *  Wayfinding
+*  Trancify
 *  Itinerance and Territoriality {Short, Medium and/or Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale-Path (Old Norse) and Great Whale-Path (Old Norse)}
 *  Habituation
 *  Designated Readings
