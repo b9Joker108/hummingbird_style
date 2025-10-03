@@ -76,6 +76,8 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Demon / Genius / Demonisation / Daemon / Daimon / Virtues / Muses / Personification / Emergence / Ishta-devata / Yidam / Deitywork / Altarwork / Votary / Devotion
    * https://en.wikipedia.org/wiki/Daimonion_(Socrates)
 * Sacrifice
+* Fasting (mindfully/intentionally/magico-intentionality)
+* Feasting (mindfully/intentionally/magico-intentionality)
 * 
 
 ## Caveats ##
