@@ -72,7 +72,9 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Gamify & Gamification Theory
 * Essence-Function
 * Jewell-Net-of-Indra
-* Demon / Genius / Demonisation / Daemon / Daimon / Virtues / Muses / Personification / Emergence / Ishta-devata / Yidam / Deitywork / Altarwork
+* Demon / Genius / Demonisation / Daemon / Daimon / Virtues / Muses / Personification / Emergence / Ishta-devata / Yidam / Deitywork / Altarwork / Votary / Devotion
+* Sacrifice
+* 
 
 ## Caveats ##
 * With this style of bodywork, you will cry tears spontaneously of unique constitution and instantiated emotional chord or cadence progressively as standard and you will never be in the same emotional river twice. Savour each emotional chord and cadence. This is challenging. Understand the progressive tears as a safety valve of pressure release processing inherent and/or karmic destabilizing emotions and their mind-forged manacles.
