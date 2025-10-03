@@ -107,7 +107,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * https://en.wikipedia.org/wiki/The_Jungle_Book The entire English shortstory collections of Jungle Book I and II or their translations (not the English Wikipedia article).
 * https://en.wikipedia.org/wiki/Hermann_Hesse A novel by Hesse either in the German or translation.
 * The Fontana (or The New Fontana) Dictionary of Modern Thought
-* Judith, Anodea (2004, 1996). 'Eastern Body, Western Mind: Psychology and the Chakra System as a Path to the Self.' \[Note: First published 1996, Berkeley, California, U.S.A.: Celestial Arts, ISBN 0898159952; revised edition 2004, Berkeley, California, U.S.A.: Celestial Arts, ISBN 1587612259.]. Berkeley, California, U.S.A.: Celestial Arts. ISBN 1587612259. Wishy-washy in places, but no less useful for the discerning critic and bodyworker of standard.
+* Judith, Anodea (2004, 1996). 'Eastern Body, Western Mind: Psychology and the Chakra System as a Path to the Self.' \[Note: First published 1996, Berkeley, California, U.S.A.: Celestial Arts, ISBN 0898159952; revised edition 2004, Berkeley, California, U.S.A.: Celestial Arts, ISBN 1587612259.]. Berkeley, California, U.S.A.: Celestial Arts. ISBN 1587612259. Wishy-washy in places, but no less useful for the discerning critic and bodyworker of standard, given that.
 
 ## Designated Mandatory Readings ##
 Choose one (1) according to your conscience and determination (and the seal is binding):
