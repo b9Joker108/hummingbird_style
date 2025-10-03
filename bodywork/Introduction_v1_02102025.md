@@ -29,11 +29,13 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 *  Bindings (Nyasa, Mudra, Bandha, Mahabandha)
 *  Becoming-under-constraint: work with constraints/challenges (constraints are empowering and informing levers) subsuming: processflows, circumstances, affordances, anchors, bindings
 *  Support/Without Support
-*  
-*  ...
+*  Basic Human Anatomy
+*  Basic Hunan Physiology
+*  Basic Human Biomechanics
 *  Leverage: levers (first, second and third class) and complex levers
 *  Planes of movement
 *  Somatosphere / Kinetosphere
+*  Basic Physics
 *  Music/Structured-Sound (that makes YOU move: Outer & Inner sound/music; Embody Sound)
 *  Dancify (Beginner's Mind; Tabula Rasa; Baby Steps)
 *  Juggling / Juggle-Arts / Impartial Arts / Martial Arts / Internal Arts
