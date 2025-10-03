@@ -73,6 +73,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Essence-Function
 * Jewell-Net-of-Indra
 * Demon / Genius / Demonisation / Daemon / Daimon / Virtues / Muses / Personification / Emergence / Ishta-devata / Yidam / Deitywork / Altarwork / Votary / Devotion
+   * https://en.wikipedia.org/wiki/Daimonion_(Socrates)
 * Sacrifice
 * 
 
