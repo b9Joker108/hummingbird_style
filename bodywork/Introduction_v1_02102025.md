@@ -92,7 +92,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Pancha-Kosha
 * Permeability / Vulnerability / Barrier / Shield / Fortification
 * Balancework
-* Train-till-\[at-the-pount-of]-failure-(of-form)
+* Train-till-\[at-the-point-of]-failure-(of-form)
 * Train-till-Vocal-Submission
 * Contact Improvisation
    * https://en.wikipedia.org/wiki/Contact_improvisation
