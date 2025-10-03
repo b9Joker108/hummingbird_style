@@ -90,6 +90,8 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Earning-your-Wings
 * Circulation
 * Pancha-Kosha
+* Permeability / Vulnerability / Barrier / Shield / Fortification
+* 
 * 
 
 ## Caveats ##
