@@ -21,6 +21,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
   * After significant sedentary non-activity and/or convalescence from significant illness, injury, psychic or emotional shock or other somesuch:
       * 3 months protocol of SOTA qualitative hydration and qualitative oil turnover in the bodymind complex. It takes circa three (3) months at minimum to penetrate into the bonemarrow of the human complex which is the fundamental benchmark
 *  Lines-of-Sight
+*  Drishti
 *  Lay-of-the-Land (Lines-of-Site)
 *  Siting (Orienting-in-Awareness throuthout all Four States)
 *  Recon (Traversing-in-Awareness throuthout all Four States)
