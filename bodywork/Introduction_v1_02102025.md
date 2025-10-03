@@ -19,11 +19,16 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 *  Siting (Orienting-in-Awareness throuthout all Four States)
 *  Recon (Traversing-in-Awareness throuthout all Four States)
 *  Affordances
-*  Anchors
-*  Bindings
+*  Anchors (Nyasa & Mudras)
+*  Bindings (Nyasa, Mudra, Bandha, Mahabandha)
 *  Becoming-under-constraint: work with constraints/challenges (constraints are empowering and informing levers) subsuming: processflows, circumstances, affordances, anchors, bindings
 *  Support/Without Support
+*  ...
 *  Leverage: levers (first, second and third class) and complex levers
+*  Planes of movement
+*  Somatosphere / Kinetosphere
+*  Music/Structured-Sound (that makes YOU move: Outer & Inner; Embody Sound)
+*  Dancify
 *  Wheels-within-Wheels
 *  Wayfinding
 *  Itinerance and Territoriality {Short, Medium and/or Longterm Experience; subsuming homelessness; either through force-of-circumstance and/or intentional assumption of persona of the homeless/itinerant; Readings: Whale-Path (Old Norse) and Great Whale-Path (Old Norse)}
