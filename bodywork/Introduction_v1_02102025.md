@@ -79,7 +79,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 * Fasting (mindfully/intentionally/magico-intentionality)
 * Feasting (mindfully/intentionally/magico-intentionality)
 * Trending Towards Unbalance (cravings then as a strong general rule further unbalance)
-* Trending Towards Balance (cravings then as a strong general rule balance)
+* Trending Towards Balance (cravings then as a **~~strong~~** general rule balance)
 * Protocols
 * Greasing-the-Groove
 * Dexter / Sinister
