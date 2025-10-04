@@ -45,4 +45,8 @@ Gradually increase the challenge as you get stronger.
 **Use Guided Workouts: Consider using guided sessions or working with an expert to ensure you are performing exercises correctly and safely.**
 
 
+# References & Readings #
 
+* https://www.strongfirst.com/get-started-kettlebell-training/
+
+* 
