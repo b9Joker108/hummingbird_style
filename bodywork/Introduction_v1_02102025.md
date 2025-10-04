@@ -4,7 +4,7 @@ After a period of the 'Sadhana-of-the-Python' (Sanskrit: आजगरवृत�
 
 **Wounded Healer: Heal Thyself**
 
-I have redressed, repaired, mitigated or cured personal obstructions to my personal heath beyond count. The earliest was was before my memory, which commenced at 11 years old. Which, is when I first remember remembering. Prior to this, triangulated from elder indimatesv I understand I incessantly rigorously exercised (somesay, exorcized), my left fully-lazy eye (somesay, the Evil Eye, which is a Christian demonization of an ancient and traditional phenomenon). Normalising it a few short weeks.
+I have redressed, repaired, mitigated or cured personal obstructions to my personal physical facility and heath beyond count. The earliest was was before my memory, which commenced at eleven (11) years old. At eleven (11) is when I first remember remembering. Prior to this, triangulated from elder indimates, I understand I incessantly rigorously exercised (somesay, exorcized), my left fully-lazy eye (somesay, the Evil Eye, which is a Christian and Abrahamic tradition demonization of an ancient and traditional phenomenon). Normalising it, in a few short weeks. Circa five (5) years ago, through my own knowledge and programming, I realized the youngest metabolic age then possible as delimited by my biological ago. I have done this three (3) times. I now commence the fourth time. On Saturday, October 4, 2025, my metabolic ago is a little more than ten (10) years older than my biological age. This time, I am endeavouring to optimally callibrate and realign to the youngest metabolic age possible. The previous three (3) times I learnt much; none of the transitions, were optimal.
 
 
 ## Prerequisites ##
