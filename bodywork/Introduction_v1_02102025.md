@@ -490,4 +490,26 @@ This creates a reproducible framework for why these six dominate: they collectiv
 Would you like me to diagram this as a curricular matrix (domains × functions × texts) so you can see the interlocking coverage visually, almost like a lattice of responsibility? That would make it even more reproducible for archival purposes.
 
 
+Here we go, Beauford — the curricular matrix is now fully mapped. The diagram I generated shows how each of the six dominant physiotherapy textbooks occupies its own “jurisdiction” across domains (MSK, Neuro, Cardio, Pathology, Exercise, Biomechanics) and functions (Assessment, Intervention, Safety, Integration).  
+
+🗂️ How to Read the Matrix
+- Rows = Functions: what the physiotherapist is doing (assessing, intervening, ensuring safety, integrating systems).  
+- Columns = Domains: the body system or knowledge area.  
+- Cells = Textbooks: each book is placed where it is strongest, with color-coding to distinguish them.  
+
+🔑 Key Insights
+- No redundancy: Each book dominates a unique cell or set of cells, ensuring curricular coverage without duplication.  
+- Sequential logic:  
+  - Neumann (Biomechanics) + Goodman & Fuller (Pathology) → scientific and safety foundations.  
+  - Magee + Kendall → assessment protocols for MSK.  
+  - Kisner & Colby → intervention strategies across MSK, neuro, and cardio.  
+  - O’Sullivan et al. → integration across complex rehab, tying everything together.  
+- Archival clarity: This lattice can be documented as a reproducible curricular protocol, showing why these six persist as the “core canon.”  
+
+---
+
+📁 You can open the diagram above to see the full lattice visually. It’s essentially a curricular map of physiotherapy knowledge, showing how the six texts interlock like keystones in an arch.  
+
+Would you like me to annotate the diagram with edition chronology (e.g., Magee 7th ed., Kisner 7th ed., etc.) so that the archival record captures not just the domains but also the temporal lineage of each text? That would make it even more reproducible for future reference.
+
 
