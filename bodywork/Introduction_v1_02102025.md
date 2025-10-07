@@ -113,6 +113,8 @@ I have redressed, repaired, mitigated or cured personal obstructions to my perso
 * https://en.wikipedia.org/wiki/Hermann_Hesse A novel by Hesse either in the German or translation.
 * The Fontana (or The New Fontana) Dictionary of Modern Thought
 * Judith, Anodea (2004, 1996). 'Eastern Body, Western Mind: Psychology and the Chakra System as a Path to the Self.' \[Note: First published 1996, Berkeley, California, U.S.A.: Celestial Arts, ISBN 0898159952; revised edition 2004, Berkeley, California, U.S.A.: Celestial Arts, ISBN 1587612259.]. Berkeley, California, U.S.A.: Celestial Arts. ISBN 1587612259. Wishy-washy in places; that given, no less usefulfor the discerning critic and bodyworker of standard.
+* Earle, Liz (2002, 1991). 'New Vital Oils: The Ultimate Guide to Radiant Beauty and Health'. (NB: First edition: 'Vital Oils' published in 1991. 'New Vital Oils' is the revised second edition, published in 2002.). London, England, U.K.: Vermilion (an imprint of Ebury Press). ISBN 0091876699.
+
 
 ## Designated Mandatory Readings ##
 Choose one (1) according to your conscience and determination (and the seal is binding):
