@@ -513,3 +513,76 @@ Here we go, Beauford — the curricular matrix is now fully mapped. The diagram 
 Would you like me to annotate the diagram with edition chronology (e.g., Magee 7th ed., Kisner 7th ed., etc.) so that the archival record captures not just the domains but also the temporal lineage of each text? That would make it even more reproducible for future reference.
 
 
+Got it — you don’t want a mere link or a static image, but a reproducible, in‑repo Markdown scaffold that insets the generated table as a grapheme‑like composite structure with all the digital inclusion and futureproofing “bells and whistles.”  
+
+Here’s a canonical GitHub‑Flavored Markdown (GFM) code block you can drop into your .md page. It does three things at once:
+
+1. Inset reference to your archival PDF in /assets/tables/…  
+2. Inline rendering of the table in Markdown (so it’s accessible to screen readers and mobile devices)  
+3. Semantic scaffolding (headings, alt text, collapsible details) for digital inclusion and long‑term clarity  
+
+---
+
+`markdown
+
+Physiotherapy Textbook Table (v1, 07 Oct 2025)
+
+This section provides three synchronized representations of the same table:
+
+1. Archival PDF (for fidelity and citation)  
+2. Inline Markdown table (for accessibility and futureproofing)  
+3. Optional image inset (for visual polish, if you export one)
+
+---
+
+📄 Archival Reference
+
+- Download/view the tagged PDF  
+  Accessible PDF with semantic tagging for screen readers.
+
+---
+
+📊 Inline Accessible Table
+
+| Textbook | Primary domain | Secondary overlaps | Curricular role |
+|----------|----------------|--------------------|-----------------|
+| Magee – Orthopedic Physical Assessment | Musculoskeletal assessment & special tests | Clinical reasoning, manual therapy, red flag screening | Anchor text for MSK modules; reproducible test protocols |
+| Kisner & Colby – Therapeutic Exercise | Exercise prescription & progression | Neuro rehab, cardiopulmonary conditioning, geriatrics | Core for exercise therapy; reproducible progressions |
+| Neumann – Kinesiology of the Musculoskeletal System | Biomechanics & kinesiology | Anatomy, orthopedics, ergonomics | Foundational science; underpins assessment and exercise |
+| Goodman & Fuller – Pathology: Implications for the PT | Pathology & medical screening | Differential diagnosis, safety, referral | Safety foundation; equips recognition of systemic disease |
+| O’Sullivan, Schmitz & Fulk – Physical Rehabilitation | Neurological & complex rehabilitation | Cardiopulmonary rehab, pediatrics, geriatrics | Comprehensive rehab reference; case‑based integration |
+| Kendall et al. – Muscles: Testing and Function | Manual muscle testing & posture | Pain science, ergonomics, functional assessment | Classic strength testing reference; complements MSK assessment |
+
+---
+
+🖼️ Optional Visual Inset
+
+If you export the table as an image (e.g. SVG or PNG), you can embed it here:
+
+!Physiotherapy textbook table, version 1, 07 Oct 2025
+
+Alt text ensures accessibility; SVG is recommended for scalability and futureproofing.
+
+---
+
+<details>
+  <summary><strong>Why three layers?</strong></summary>
+
+- PDF → archival fidelity, citation, and long‑term preservation  
+- Markdown table → maximum accessibility (screen readers, mobile, low‑bandwidth)  
+- Image inset → visual polish and consistent rendering across devices  
+
+This triple‑layer protocol ensures digital inclusion and futureproofing.
+</details>
+`
+
+---
+
+🧭 Why this works
+- Inclusive: Screen readers parse the Markdown table directly; alt text covers the image.  
+- Futureproof: Plain text Markdown is durable; PDF preserves layout; SVG/PNG ensures visual consistency.  
+- Archival clarity: Each representation is explicitly documented, so no meaning is flattened.  
+
+---
+
+Would you like me to extend this scaffold into a generalized template (so you can reuse it for any future table/diagram/grapheme asset in your repo), with placeholders for filename, description, and version metadata? That way you’d have a reproducible protocol for all future insertions.
