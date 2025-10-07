@@ -445,4 +445,49 @@ If you were to document this rigorously for an archival protocol, you’d want t
 Would you like me to extend this into a comparative correspondence table—mapping each book to its primary domain (MSK, neuro, pathology, exercise, etc.), so you can see how they interlock into a complete physiotherapy curriculum? That would give you a reproducible framework for why these six dominate as a set.
 
 
+Perfect — let’s build the correspondence table so you can see how these six texts interlock into a coherent physiotherapy curriculum. I’ll map each to its primary domain, secondary overlaps, and curricular role. This way, you can treat them as a reproducible “core set” rather than isolated titles.
+
+---
+
+📚 Comparative Correspondence Table of Dominant Physiotherapy Texts
+
+| Textbook | Primary Domain | Secondary Overlaps | Curricular Role |
+|----------|----------------|--------------------|-----------------|
+| Magee – Orthopedic Physical Assessment | Musculoskeletal assessment & special tests | Clinical reasoning, manual therapy, red flag screening | Anchor text for MSK modules; provides reproducible test protocols and decision-making frameworks |
+| Kisner & Colby – Therapeutic Exercise | Exercise prescription & progression | Neurological rehab, cardiopulmonary conditioning, geriatrics | Core for exercise therapy courses; bridges biomechanics to applied rehab; provides reproducible exercise progressions |
+| Neumann – Kinesiology of the Musculoskeletal System | Biomechanics & kinesiology | Anatomy, orthopedics, ergonomics | Foundational science text; underpins both assessment (Magee) and exercise (Kisner); provides reproducible diagrams and movement models |
+| Goodman & Fuller – Pathology: Implications for the Physical Therapist | Pathology & medical screening | Differential diagnosis, safety, referral | Ensures safe practice; equips students to recognize systemic disease; curricular “gatekeeper” for clinical placements |
+| O’Sullivan, Schmitz & Fulk – Physical Rehabilitation | Neurological & complex rehabilitation | Cardiopulmonary rehab, pediatrics, geriatrics | Comprehensive rehab reference; case-based; integrates across systems; often the “capstone” text in later years |
+| Kendall et al. – Muscles: Testing and Function | Manual muscle testing & posture | Pain science, ergonomics, functional assessment | Classic reference; still used for reproducible strength testing protocols; complements Magee and Neumann in MSK stream |
+
+---
+
+🧭 How They Interlock
+
+- Foundational Sciences:  
+  - Neumann (kinesiology) + Goodman & Fuller (pathology) → establish safe, evidence-based foundations.  
+- Assessment Core:  
+  - Magee (orthopedic assessment) + Kendall (muscle testing) → provide reproducible, protocol-driven evaluation methods.  
+- Intervention Core:  
+  - Kisner & Colby (therapeutic exercise) → prescribes interventions grounded in biomechanics and pathology.  
+- Systems & Integration:  
+  - O’Sullivan et al. (rehabilitation) → integrates across neuro, cardio, and complex rehab, applying all prior domains.  
+
+---
+
+🔍 Archival/Protocol Note
+
+If you were codifying this for archival stewardship, you could structure it as a curricular matrix:
+
+- Axis 1 (Domains): MSK, Neuro, Cardio, Pathology, Exercise, Biomechanics.  
+- Axis 2 (Functions): Assessment, Intervention, Safety, Integration.  
+- Axis 3 (Texts): Each book mapped to its strongest cell(s).  
+
+This creates a reproducible framework for why these six dominate: they collectively cover all essential domains without redundancy, each text having a clear curricular “jurisdiction.”
+
+---
+
+Would you like me to diagram this as a curricular matrix (domains × functions × texts) so you can see the interlocking coverage visually, almost like a lattice of responsibility? That would make it even more reproducible for archival purposes.
+
+
 
