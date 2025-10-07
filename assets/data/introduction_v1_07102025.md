@@ -90,7 +90,7 @@ Since you want a source of truth in JSON, here’s a structured representation y
 
 Would you like me to also draft a Markdown + JSON dual‑protocol scaffold (so every time you add a new matrix, you automatically have both the human‑readable .md and the machine‑readable .json in sync)? That would give you a reproducible workflow for your /assets hierarchy.
 
-Excellent — let’s go back to first principles and treat JSON as what it really is: a serialization format for structured data. If you want to use a .json file as the source of truth* for your curricular matrices (or any other assets), here’s what you need to know.
+Excellent — let’s go back to first principles and treat JSON as what it really is: a serialization format for structured data. If you want to use a \*.json file as the source of truth for your curricular matrices (or any other assets), here’s what you need to know.
 
 ---
 
