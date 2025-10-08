@@ -114,6 +114,7 @@ I have redressed, repaired, mitigated or cured personal obstructions to my perso
 * The Fontana (or The New Fontana) Dictionary of Modern Thought
 * Judith, Anodea (2004, 1996). 'Eastern Body, Western Mind: Psychology and the Chakra System as a Path to the Self.' \[Note: First published 1996, Berkeley, California, U.S.A.: Celestial Arts, ISBN 0898159952; revised edition 2004, Berkeley, California, U.S.A.: Celestial Arts, ISBN 1587612259.]. Berkeley, California, U.S.A.: Celestial Arts. ISBN 1587612259. Wishy-washy in places; that given, no less usefulfor the discerning critic and bodyworker of standard.
 * Earle, Liz (2002, 1991). 'New Vital Oils: The Ultimate Guide to Radiant Beauty and Health'. (NB: First edition: 'Vital Oils' published in 1991. 'New Vital Oils' is the revised second edition, published in 2002.). London, England, U.K.: Vermilion (an imprint of Ebury Press). ISBN 0091876699.
+* Tsatsouline, Pavel (2019, 2013). 'Kettlebell: Simple & Sinister'. Revised and Updated Edition. (NB: First edition published in 2013.). Reno, Nevada, U.S.A.: StrongFirst, Inc. ISBN 9780989892438.
 
 
 ## Designated Mandatory Readings ##
