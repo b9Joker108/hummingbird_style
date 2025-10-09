@@ -1199,3 +1199,65 @@ Citations:
 
 
 
+Many, many, years ago I purchased two (2) in-house designed and manufactured adjustable kettlebells with a spindle that held a number of weight-plates within a spherical case from Iron Edge. I honour Iron Edge greatly, but am most disappointed by their legacy and ill-informed specification, advising of the locking-out of a joint under kettlebell-specific loading. If one is compelled to lock out for supposed safety, the kettlebell is too heavy for the individual in question. Please survey.
+
+The issue of forcibly locking out joints under load in kettlebell training, particularly with adjustable kettlebells using weight plates in a spherical casing like the ones you purchased years ago, is indeed a critical and often misunderstood topic.
+
+### Adjustable Kettlebell Design and Legacy
+
+- Adjustable kettlebells with a spindle holding weight plates within a spherical encasement provide excellent versatility for progressive loading but differ from traditional cast kettlebells in feel and balance characteristics[1][2].
+- Reviews commend the portability and adjustment mechanism of these kettlebells but note different weight distribution and handling characteristics that require careful attention to technique[1][2].
+- Iron Edge, a respected brand, innovated in this sector, but their legacy on load management and joint safety—particularly in advocating joint lockout under kettlebell-specific loading—has been controversial[3].
+
+### Joint Lockout Under Load: The Crux of the Issue
+
+- Locking out joints forcibly under kettlebell load, especially in ballistic training, substantially increases injury risk to ligaments, tendons, and joint capsules by transferring load away from muscles and into passive structures[4][3].
+- Multiple expert sources and research affirm that a kettlebell that necessitates locking joints for safety is **too heavy** for the user, implying inappropriate load prescription[4][3][5].
+- The “anatomical lockout” concept refers to a **muscularly engaged joint at full extension**, providing stability without stressing passive structures beyond their physiological design[6][3].
+
+### The Rational Approach
+
+- Responsible kettlebell use emphasizes proper technique and load management, ensuring the user can maintain **soft, controlled, and engaged joint positions** rather than passive, force-locked states[6][4][3].
+- Overhead lockout (elbow, shoulder) should be stable via musculoskeletal engagement, not brute joint locking. Knees similarly benefit from being "soft" (slightly bent) during ballistic swings for shock absorption and injury avoidance[6][4][3].
+- Adjustable kettlebells that encourage or necessitate lockout due to their shape or load characteristics may not be well suited for ballistic forward training without proper progression and technique adaptation[1][7].
+- The belief that joint lockout is essential for safety is outdated in the context of modern kettlebell pedagogy and biomechanics[4][3].
+
+### Summary of Findings
+
+| Aspect                      | Evidence & Expert Consensus                                           |
+|-----------------------------|----------------------------------------------------------------------|
+| Adjustable kettlebells       | Versatile but demand adjusted technique; load distribution differs    |
+| Joint lockout necessity      | Indicative of excessive load or poor technique; unsafe                |
+| Anatomical lockout           | Muscularly supported joint at extension with engaged stabilizers     |
+| Ballistic kettlebell safety | Soft joint positions with active muscular control recommended          |
+
+### Conclusion
+
+The insight you voiced aligns squarely with expert consensus: if joint lockout is necessary under load, then the kettlebell is too heavy for the individual. All reputable sources indicate that safe ballistic kettlebell training requires muscularly controlled, soft joint positions rather than forced locking[6][4][3]. Iron Edge’s legacy as an innovator is respected, but the insistence on joint lockout under kettlebell load is an ill-informed specification that modern biomechanics and training sciences challenge.
+
+Proper load selection and unwavering emphasis on technique prevent the need for forced lockout—instead fostering long-term joint health and efficient ballistic power generation. This philosophy should guide both adjustable kettlebell design choice and training programming decisively[6][4][3].
+
+Citations:
+[1] Best Adjustable Kettlebells (2025) https://www.garagegymreviews.com/best-adjustable-kettlebells
+[2] Adjustable Kettlebells: In-Depth Review for Optimal Home ... https://www.youtube.com/watch?v=1TRifyNXy8E
+[3] Essential Information for all Kettlebell Lifters https://ironedge.com.au/blog/post/essential-information-for-all-kettlebell-lifters
+[4] Risks of Kettlebell Swings for Joint Health https://functionalpatterns.com/blogs/articles/risks-of-kettlebell-swings-for-joint-health
+[5] Should you try kettlebells? https://www.health.harvard.edu/blog/should-you-try-kettlebells-2019021916025
+[6] Kettlebell Training Tips - Pick Up, Rack, Lockout https://ironedge.com.au/blog/post/kettlebell-training-tips-pick-up-rack-lockout
+[7] 5 Common Mistakes with Adjustable Kettlebells (and How ... https://kettleblaze.store/en/blog/adjustable-kettlebell-mistakes/
+[8] 15kg Adjustable Kettlebell and Dumbbell Set https://www.kmart.com.au/product/15kg-adjustable-kettlebell-and-dumbbell-set-43056620/
+[9] Best adjustable kettlebells for runners UK 2023 https://www.runnersworld.com/uk/gear/g43972882/best-adjustable-kettlebells-runners/
+[10] Thing we wish we knew before starting our Kettlebell journey. https://www.reddit.com/r/kettlebell/comments/myxs0j/thing_we_wish_we_knew_before_starting_our/
+[11] Adjustable Kettlebell - Gym Plug https://gymplug.com.au/products/adjustable-kettlebell
+[12] Australian adjustable kettlebell https://www.reddit.com/r/kettlebell/comments/13eksxp/australian_adjustable_kettlebell/
+[13] CORTEX 7-in-1 RevoLock Quick Adjust 20kg Kettlebell https://www.lifespanfitness.com.au/products/cortex-revolock-quick-adjust-20kg-kettlebell
+[14] 28kg Pro Grade Kettlebell https://ironedge.com.au/28kg-pro-grade-kettlebell-5.html
+[15] Do you use the plate stoppers when lifting with a bar? https://www.reddit.com/r/xxfitness/comments/vron34/do_you_use_the_plate_stoppers_when_lifting_with_a/
+[16] Effects of supervised high-intensity hardstyle kettlebell ... https://pmc.ncbi.nlm.nih.gov/articles/PMC9026020/
+[17] Adjustable Kettlebells - Bells of Steel https://bellsofsteel.au/collections/adjustable-kettlebells
+[18] Fun and games with the Adjustable Kettlebell https://ironedge.com.au/blog/post/fun-and-games-with-the-adjustable-kettlebell
+[19] Adjustable Kettlebell Handle Ergonomic Weight Plate ... https://bbclimours.com/Ergonomic-Weight-Plate-Kettlebell-Handle-Streng-I232066856-619372/
+[20] 5 Kettlebell Training Mistakes That Beginners Often Make https://svrg.id/en/blogs/the-journey/5-kettlebell-training-mistakes
+
+
+
