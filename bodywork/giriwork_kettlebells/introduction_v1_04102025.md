@@ -1151,3 +1151,51 @@ Citations:
 
 
 
+Functional Movement Training is fundamentally a foundation and entry-level protocol to the Human Movement,  and Physiotherapy and Exercise Sciences to inform functionality that is basic and widely normalised in regards to human activity. It should clearly be understood in that elementary context.
+
+Functional Movement Training (FMT) is fundamentally an entry-level foundational protocol within human movement sciences, physiotherapy, and exercise sciences. It is designed to establish basic, normalized functional capacity rooted in natural human activities. This foundational understanding is critical for correctly positioning FMT within the broader health, rehabilitation, and athletic performance domains.
+
+### Core Definition and Context
+
+- Functional Movement Training targets the body's ability to carry out everyday movements effectively and efficiently, focusing on multi-joint, multi-muscle integration rather than isolated muscle training[1][2].
+- Its aim is to build strength, coordination, balance, flexibility, and stability with an emphasis on improving activities that are universally normal and common in daily life, such as squatting, lifting, pushing, pulling, walking, and rotating[1][2][3].
+- Originating from rehabilitation principles, FMT functions as the foundational level where movement quality is established, which informs higher-level protocols and complex training modalities[2][6].
+
+### Elementary and Normalized Human Movement
+
+- The scope of FMT is intentionally kept elementary and universally applicable to ensure normalizing proper movement patterns that are foundational to more advanced or sport-specific functional tasks[5][6].
+- This includes fundamental movement patterns frequently referenced as locomotion, level changes (e.g., sit to stand), push/pull, and rotation—movements that form the basis of both everyday living and athletic pursuits[7][8][9].
+- The training is designed to restore or instill movement harmony, coordination, and joint integrity in wide populations, including sedentary individuals, rehabilitation patients, elderly, and athletes at the initiation phase[2][5].
+
+### Positioning Within Human Movement and Physiotherapy
+
+- FMT is not an advanced or specialized training system but rather the foundational entry point wherein human movement competency is established and deficits addressed before progression[5][6].
+- Physiotherapists employ FMT principles to assess, correct, and enhance basic movement quality as prerequisite steps toward more sport-specific or ballistic training protocols[2].
+- The approach emphasizes naturalistic and normalized movements which underpin functional independence, injury prevention, and movement efficiency at daily life activity level[1][3].
+
+### Summary
+
+| Aspect                    | Description                                                                                       |
+|---------------------------|-------------------------------------------------------------------------------------------------|
+| Role                      | Foundation and entry-level movement competency protocol                                         |
+| Scope                     | Basic, normalized human movement (squatting, lifting, pushing, pulling, walking, rotation)     |
+| Target Population         | Wide-ranging: sedentary, elderly, rehabilitation, athletic beginners                            |
+| Position in Exercise Science | Precursor to advanced, sport-specific, ballistic, or performance-based movement training       |
+| Purpose                   | Establish natural, efficient movement patterns to inform higher-level training and rehab       |
+
+In essence, Functional Movement Training should be clearly understood and respected as a foundational, elementary framework upon which broader, complex, and specialized movement and exercise sciences build. It informs the "human movement baseline" fundamental to all physiotherapy, exercise prescription, and functional performance training[1][2][6].
+
+Citations:
+[1] Understanding Functional Training Principles https://www.keytolife.net.au/understanding-functional-training-principles
+[2] What is Functional Movement Training? https://www.wellmeright.com/glossary/functional-movement-training
+[3] What Is Functional Strength Training? Key Benefits & Tips ... https://hydrow.com/blog/what-is-functional-strength-training/
+[4] Functional Movement Training for Athletes: Enhancing ... https://thrivehealthsystems.com/functional-movement-training-for-athletes-enhancing-performance-and-recovery/
+[5] Integrate Functional Training for Peak Fitness https://surfsportsmyo.com.au/blog/functional-fitness-integration-personal-training/
+[6] The Evolution of Functional Training https://biomechanicseducation.com/the-evolution-of-functional-training/
+[7] The Four Key Principles Of Functional Training - Coach https://www.coachweb.com/fitness/3822/the-four-key-principles-of-functional-training
+[8] The Seven Fundamental Human Movements - Strength Matters https://strengthmatters.com/seven-fundamental-human-movements/
+[9] The Seven Functional Movement Patterns + Video ... https://www.opexfit.com/blog/seven-functional-movement-patterns
+[10] Understanding the 6 Physiological Principles of Fitness ... https://create.fit/blogs/principles-of-fitness-training/
+
+
+
