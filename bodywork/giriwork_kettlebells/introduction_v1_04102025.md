@@ -1262,7 +1262,7 @@ Citations:
 
 
 
-The great balance of prevailing Occupational Health and Safety and Manual Handling legislation, codes of conduct and practice directly inform kettlebell training with one marked caveat, the knees do not initially elevate the load, the load is elevated by the posterior chain and hip-hinge. Please survey.
+The great balance of prevailing Occupational Health and Safety and Manual Handling legislation, codes of conduct and practice directly inform kettlebell training with one marked caveat, the knees do not initially elevate the load, the load is elevated by the posterior chain and hip-hinge and at the end of the movement pattern with load, the load as strong general principle, is off-loaded in comparable fashion. Please survey.
 
 Occupational Health and Safety (OHS) and Manual Handling legislation, codes of conduct, and related practice guidelines strongly inform kettlebell training, emphasizing safety and effective load management. Your caveat—correctly stating that initially, the knees do not elevate the load, and instead, the posterior chain and hip hinge predominantly drive load elevation—is fully supported and consistent with prevailing expert consensus and OHS principles.
 
