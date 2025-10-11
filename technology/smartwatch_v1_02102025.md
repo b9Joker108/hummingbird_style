@@ -625,7 +625,7 @@ Citations:
 
 
 
-Why would a company in their 2025 model smartphone with an excellent hardware tech spec install Android 9 or 10 on their device?
+Why would a company in their 2025 model smartwatch with an excellent hardware tech spec install Android 9 or 10 on their device?
 
 In 2025, many companies still release devices—with even high specs—running older Android versions like 9 or 10 due to several factors: 
 
