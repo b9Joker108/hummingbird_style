@@ -672,6 +672,227 @@ Citations:
 
 
 
+# Why Would a 2025 Smartwatch With Excellent Hardware Ship With Android 9 or 10?  
+**An In-Depth Analysis of Technical, Business and Strategic Drivers**
+
+---
+
+## Introduction
+
+The global smartwatch market in 2025 exhibits remarkable technological growth, intense competition, and a proliferation of models featuring outstanding hardware specifications. With vibrant AMOLED displays, multi-day battery longevity, advanced biometric sensors, and cutting-edge connectivity, the latest smartwatches rival smartphones in complexity and capability[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://9meters.com/technology/watches/best-smartwatch-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1"). Despite this, an intriguing phenomenon persists: manufacturers sometimes launch premium or upper-midrange smartwatch models running older Android operating systems, specifically Android 9 ("Pie") or Android 10 ("Queen Cake"), even when their hardware could clearly support newer Android releases like 13 ("Tiramisu"), 14 ("Upside Down Cake"), or even 16 ("Baklava")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://endoflife.date/android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+This report examines the myriad reasons for such decisions, integrating technical, strategic, and business lenses. Specifically, it explores licensing challenges, certification and ecosystem hurdles (notably for Google Mobile Services and Wear OS), firmware and driver dependencies, UI and customization priorities, the substantial financial and resource implications of updating, regulatory landscapes, battery life optimization, security update policies, market targeting, app ecosystem concerns, and more. The report also provides concrete examples from the current market, demonstrating that—despite industry progress toward standardization—older Android versions still play a significant role in new smartwatch launches.
+
+---
+
+## 1. Licensing Constraints for Android 9/10 on New Hardware
+
+A central consideration for smartwatch OEMs is the licensing situation tied to Android and, specifically, Google Mobile Services (GMS). GMS delivers the Play Store and Google’s proprietary service suite, but is only licensed for devices that meet strict compliance and OS recency requirements. As of 2025, Google typically only authorizes GMS certification for devices running the current and immediately previous major versions of Android—meaning attempts to license GMS on Android 9 or 10 in 2025 will almost certainly be rejected[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/docs/quality-guidelines/wear-app-quality?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://bayton.org/android/why-devices-omit-gms/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6").
+
+Furthermore, since Android 13 and 14, Google made compliance even stricter for Wear OS devices:
+
+- **Apps targeting Android 10 or lower** are not discoverable on the Play Store for devices running Wear OS versions based on later Android builds.
+- All new or updated Play Store submissions must target at least Android 13 (API level 33) or Android 14 (API level 34) for wearable devices; Wear OS 4 and 5 require these versions as base OS.
+- Google no longer offers GMS licensing for devices debuting with two-versions-old Android releases[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/docs/quality-guidelines/wear-app-quality?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5").
+
+For manufacturers wishing to leverage the AOSP (Android Open Source Project) version of Android, bypassing GMS is possible, but their watches cannot preload the Play Store, Google Assistant, Google Maps, or other signature Google apps. This "non-GMS" route is much more common among Asian ODMs, white-label, or B2B-focused manufacturers, especially in markets less dependent on Google’s software ecosystem[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+In summary, many smartwatches running Android 9 or 10 in 2025 will either:
+- *Not include* GMS (and thus ship without Google apps, Play Store, and tight Android phone integration), or
+- Be limited to selling in regions or via channels where GMS is not essential.
+- Rely on sideloading, third-party app stores, or proprietary marketplaces[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://bayton.org/android/why-devices-omit-gms/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/wear/releases/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7").
+
+**Business Impact:**  
+Choosing older Android versions sharply limits access to Google’s mobile ecosystem, but may allow faster market entry and lower cost for manufacturers who prioritize control, customization, or time-to-market over app richness.
+
+---
+
+## 2. Google Mobile Services and Wear OS Certification
+
+Closely linked to licensing issues is the intense certification process for Wear OS, particularly when GMS is requested. Google's compatibility program demands devices pass an ever-growing suite of tests (including CTS, CTS Verifier, CAT, GTS) and enforce restrictions around hardware conformance, security, and software update guarantees[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://source.android.com/docs/compatibility/9/android-9-cdd?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "8")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/wear/releases/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/docs/quality-guidelines/wear-app-quality?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5").
+
+Since mid-2024:
+- **Wear OS certification is only feasible for devices based on the latest Android platform (or at most, n-1).** Devices on Android 9 or 10 cannot pass and thus cannot access Wear OS-branded updates, features, or Play Store listings.
+- Google’s roll-out of Watch Face Format (WFF) and associated toolchains (replacing legacy watch face engines) creates compatibility hurdles for watches on older Android; these platforms cannot support the new UI paradigms, which are now mandatory for Play Store watch face submissions by 2026[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidauthority.com/wear-os-losing-legacy-watch-face-support-3567216/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "9").
+- OEMs must guarantee security patch compliance and timely updates for GMS-certified smartwatches, adding cost and development risk. Many smaller brands or ODMs producing Android 9 or 10 watches cannot guarantee such support, further disqualifying them from certification[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://endoflife.date/android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/wear/releases/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/docs/quality-guidelines/wear-app-quality?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4").
+
+For business-oriented or niche watches (e.g., healthcare, fitness, or regionally-customized devices), acquiring Wear OS certification may not be a cost-effective or essential priority. Some luxury or specialty smartwatch makers (such as TAG Heuer in 2025) now abandon Wear OS in favor of their own Android-based OSes to bypass these constraints and focus on custom integration[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://9to5google.com/2025/10/10/wear-os-is-ignoring-ios-so-tag-heuer-made-its-own-android-based-smartwatch-os/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "10").
+
+---
+
+## 3. Driver and Firmware Compatibility
+
+**Technical inertia** remains one of the dominant reasons for sticking to older Android versions—especially for device families based on mature or well-documented hardware platforms. Smartwatches often use SoCs (typically from Qualcomm, MediaTek, or proprietary chipmakers) that debut with specific Android OS support and a prevalidated driver stack. Porting their firmware to newer versions can introduce daunting hurdles:
+
+- **Closed-source or infrequently updated drivers:** Qualcomm, for instance, often provides GPU driver support (Adreno) for no more than six months post-launch, sometimes only for the OS the device originally shipped with. Upgrading to a newer Android version without new drivers is challenging and may require significant reverse engineering or risk severe instability[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/snapdragon-driver-update-module.4685775/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+- **Modem and sensor firmware:** Health and fitness sensors (PPG, SpO₂, ECG, GPS) depend on vendor-specific firmware and kernel modules released for known-good Android versions. Jumping to a new OS may necessitate re-certification of these firmware stacks, and may cause regressions in health data accuracy or stability[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://9meters.com/technology/watches/best-smartwatch-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+- **Kernel version limitations:** Many wearables run highly customized kernels and Board Support Packages locked to specific Android releases. Backporting vendor features and patches is costly and error-prone[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/snapdragon-driver-update-module.4685775/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "11").
+
+Manufacturers pursuing a rapid product cycle, or leveraging proven hardware reference designs from ODM partners, may thus prefer not to risk device stability by leaping to untested OS versions. Many ODMs in Asia, such as Kingwear and Microwear, maintain entire product families on Android 9 or 10 precisely because their component suppliers and manufacturing lines are validated for those OS releases[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+
+---
+
+## 4. Custom UI and Platform Customization
+
+Smartwatch brands targeting unique experiences—whether for branding, vertical-market needs, or hyper-customization—enjoy far more flexibility on older versions of Android. Android 9 and 10 remain vastly more "open" in practice than newer releases, for a few reasons:
+
+- **UI/UX customization:** Google’s newer Wear OS releases and associated Jetpack libraries strongly enforce standardized UI patterns, making deep customization harder without high engineering effort. Android 9/10-based watches can still use proprietary launchers, themes, or even entirely custom app frameworks[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/wear/releases/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "7")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://9meters.com/technology/watches/best-smartwatch-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "1").
+- **Deeper system-level access:** Restrictions on use of certain APIs, method call patterns, and permission models in the latest Android versions (see the movement to "scoped storage" and enforcement of privileged APIs) can break heavily customized legacy watch software. For example, third-party OEMs building specialized sports-tracking, medical, or industrial watches may stick to Android 9/10 for optimal flexibility.
+- **Compatibility with modified or third-party ROMs:** Rooting, unlocking, and custom firmware development are simpler with Android 9/10, making these platforms attractive to enthusiast and B2B segments requiring device-side modifications[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://github.com/Simon1511/WearableSpoof?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "13")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/app-mod-galaxy-wearable-patch-for-samsung-phones-with-custom-roms.4208143/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+
+---
+
+## 5. Development and Testing Cost
+
+The move to a newer Android version is not a simple binary update. Porting, optimizing, and validating a smartwatch platform on a new major OS is laborious, incurring direct and indirect costs for:
+
+- **Revalidating all device functions:** This includes not only health sensors, radios, and power management, but also system and companion apps, connectivity with Android/iOS phones, and security features. Each change can introduce new bugs or performance regressions[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://fastercapital.com/content/Cost-of-validation--The-Cost-of-Validation--A-Practical-Guide-for-Software-Developers.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15").
+- **Regulatory retesting:** Significant platform changes often require re-certification of devices for CE, FCC, RoHS, and other standards—especially if firmware or power behavior changes (see below section).
+- **End-to-end QA and user testing:** Small brands or ODMs may not have the engineering depth to repeatedly update, test, and stabilize firmware/app stacks at the pace Google and top OEMs impose for GMS/Wear OS watches. This is a major motivator for launching multiple models on a single, stable (if dated) Android codebase[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://fastercapital.com/content/Cost-of-validation--The-Cost-of-Validation--A-Practical-Guide-for-Software-Developers.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "15").
+
+For ODMs and white-label businesses with razor-thin margins, these savings can be the difference between viability and bankruptcy. Updating a device family to a new platform also risks creating incompatibilities with previously-deployed software in business or specialized use cases, which can be problematic for large enterprise customers or B2B deployments.
+
+---
+
+## 6. Certification and Regulatory Compliance
+
+Smartwatches purporting to offer advanced health metrics (ECG, SpO₂, arrhythmia warnings, etc.) and medical device functions face a complex regulatory maze, especially in countries like the US (FDA), EU (MDR), India (CDSCO), and others[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://umatechnology.org/fda-clarifies-when-health-and-fitness-wearables-should-be-considered-medical-devices/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "16")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://operonstrategist.com/wearable-technology-in-healthcare/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17"). Device certification is not a "once and done" process; any meaningful change to the OS, particularly one that alters sensor management, battery life, or Bluetooth performance, may trigger a need for recertification:
+
+- Watch OEMs may opt to ship new hardware with the same validated software image when their device’s most valuable selling point is its regulatory clearance.
+- Revalidating with new OS versions—even for non-medical but safety-related functions (e.g., fall detection or emergency contact)—is costly and can result in lengthy delays to market.
+- Certain regions may also require local in-country software validation, which is far easier with frozen, mature, stable platforms that have already been through customs and import approval processes[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://operonstrategist.com/wearable-technology-in-healthcare/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "17")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+---
+
+## 7. Battery Life and Performance Optimization
+
+Despite overall hardware improvements, smartwatch form factors are still heavily constrained by battery size and power efficiency requirements[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidcentral.com/how-extend-battery-life-wear-os?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "18")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/training/wearables/apps/power?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "19"). Certain Android OS releases are well-known by brands and power users to have more predictable or efficient handling of background tasks, wakelocks, sensor polling, and networking. OEMs may choose Android 9/10 because:
+
+- Their engineers have already finely tuned battery life and sensor performance for these versions, and lack confidence a major upgrade won’t introduce an unpredictable drain.
+- Newer Android versions, with increased service activity (including for background health and AI functions), may shorten battery life or require major rework of power optimization techniques.
+- They wish to avoid introducing potential power-related regressions, particularly for watches advertising multi-day or multi-week endurance[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidcentral.com/how-extend-battery-life-wear-os?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "18")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.zdnet.com/article/10-settings-i-changed-on-my-wearos-smartwatch-to-improve-battery-life/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "20").
+
+Moreover, many budget- and mid-tier smartwatches compete on battery life as a key differentiator[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidcentral.com/how-extend-battery-life-wear-os?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "18")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3"). Sticking to a known OS build makes this much easier to achieve.
+
+---
+
+## 8. Security Update Lifecycle and Support
+
+While using the latest Android brings security advantages, shipping devices with Android 9/10 in 2025 runs counter to mainstream infosec best practices. Nevertheless, in certain markets, especially for non-GMS devices and rapid-turnaround ODM products:
+
+- OEMs know that the expected lifecycle is short and can prioritize stability over future update access.
+- Not all manufacturers provide rigorous end-user support for OTA software updates after initial deployment—the device is sold "as is" for the expected lifespan and then replaced[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://thetechylife.com/is-android-9-still-supported/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "21")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://endoflife.date/android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "2").
+- For GMS-certified watches, monthly security update guarantees are enforced, but non-GMS watches can avoid this obligation (albeit at cost to the end customer's security).
+
+Some ODM and B2B deployments offer custom update pipelines, side-stepping Google’s patch cadence, especially for business or kiosk-style deployments where update disruption could cause more problems than it solves.
+
+---
+
+## 9. Market Segmentation and Consumer Targeting
+
+Depending on the watch's intended audience, different trade-offs make sense. Major Wear OS devices from Samsung, Google, Garmin, Huawei, and others target tech-savvy, Google-integrated consumers, for whom GMS and app access are paramount[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.gearbrain.com/best-android-smartwatches-2025-2671695922.html?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "22"). However, another major segment consists of:
+
+- **Budget- and mid-price buyers:** In emerging markets, ultra-low cost or "universal" smartwatches (sometimes misrepresented as "Wear OS" but in fact running Android 9/10 AOSP) can offer rich features via their own app stores for a fraction of the cost of major-brand watches. These buyers may value battery life, call/SMS functionality, local content, and fitness tracking over access to the full Google ecosystem[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.accio.com/business/trend-of-affordable-fully-android-smart-watches?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+- **Enterprise, niche, and specialty markets:** Scenarios such as medical, industrial, security, or outdoor/rugged watches may require prioritization of custom apps or regulatory stability over Google integration or frequent feature updates.
+- **Markets with weak Google presence:** In China, Russia, and other countries where GMS is unavailable or restricted, non-GMS Android smartwatches are the norm[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://bayton.org/android/why-devices-omit-gms/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "6")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.esper.io/blog/gms-vs-non-gms-for-android?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "5")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+For these segments, the risks and limitations of using an older Android version are outweighed by the benefits of stability, cost, and control.
+
+---
+
+## 10. Legacy App Ecosystem Stability
+
+Another strategic motive is support for a legacy (but stable and well-supported) app ecosystem, often built atop tried-and-tested APIs and libraries that may not have been updated or maintained for the latest Android releases. Some factors include:
+
+- **Proprietary or vertical market apps:** Specialized companion apps may only work with older Android versions, making it safer to stick to Android 9/10.
+- **Third-party or sideloaded apps:** Some watchmakers use customized or sideloaded Android apps (e.g., old versions of Facebook Messenger, custom mail clients), which may not function correctly or may be blocked in newer Android builds due to Google Play Protect or deprecation of APIs[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12").
+- **Customer familiarity:** Existing users and enterprise customers may have deployed fleets of devices on Android 9/10 and wish to minimize the need for retraining, migration, and QA of their in-house solutions.
+
+---
+
+## 11. Supply Chain and Component Validation Timelines
+
+Modern smartwatch production often involves complex coordination between component suppliers, firmware vendors, ODMs, and regional certification bodies. When a mature supply chain is validated for a particular Android OS and sensor/firmware combo, both OEMs and ODM partners are reluctant to risk last-minute schedule slips or non-compliance by switching to a brand-new platform:
+
+- **Component validation:** All sensors, radios, and firmware must be validated together. An update to Android often means all components must be retested to guarantee compliance with applicable standards (e.g., CE, FCC, RoHS) and platform stability[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.expertmarketresearch.com.au/reports/australia-smartwatch-market?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "24").
+- **ODM/White-label flexibility:** Many high-volume manufacturers offer "off-the-shelf" Android 9/10 solutions that can be lightly customized (e.g., new cases, localized firmware, app preloads) for rapid deployment to new customers[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.accio.com/business/trend-of-affordable-fully-android-smart-watches?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "23").
+- **Regional regulatory delay:** Certification in some markets can take months, and any change to the OS can reset the testing clock.
+
+---
+
+## 12. OEM Update Policy and Fragmentation
+
+The realities of the Android ecosystem mean that only major brands provide more than 2 years of timely OS version upgrades and security patches to their smartwatches[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidcentral.com/wearables/long-wear-os-5-update-delay-feels-like-bad-sign?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidpolice.com/5-wear-os-annoyances-google-can-no-longer-ignore/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "26"). Most budget and mid-tier OEMs ship devices with a single fixed Android version, with no expectation of future full-OS upgrades:
+
+- **Stable deployment:** Shipping a "frozen" firmware image, even if older, ensures stability for customers averse to frequent change.
+- **Avoiding abrupt fragmentation:** Since some major watches receive OS upgrades much later than headline Google/Samsung models, many secondary brands prefer to stabilize on a "last fully validated" Android and leave it unchanged.
+
+Inconsistencies in update rollout between OEMs (and even within product lines) also incentivize some to stay with older, stable builds that their support teams and supply chains fully understand[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidcentral.com/wearables/long-wear-os-5-update-delay-feels-like-bad-sign?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "25")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://r2.community.samsung.com/t5/Wearables/Issues-with-Watch-Updates/td-p/18155888?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "27")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.androidpolice.com/5-wear-os-annoyances-google-can-no-longer-ignore/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "26").
+
+---
+
+## 13. Examples of 2025 Smartwatches Running Android 9/10 Despite High-End Hardware
+
+Several major ODMs and white-label/brand partners launch smartwatches in 2025 that fit this profile. Key players include:
+
+| Manufacturer | Model/Program Type           | Android Version | Hardware Specs                                        | Compliance                             | Notes                                         |
+|--------------|-----------------------------|-----------------|------------------------------------------------------|----------------------------------------|-----------------------------------------------|
+| Longcheer    | Operator/White-label        | Android 9/10    | AMOLED, GPS, IP68/5ATM, barometer, compass            | UN38.3/IEC62133, CE/FCC/RoHS           | Strong RF, multi-region rollout[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3")       |
+| Microwear    | OEM/ODM/White-label         | Android 9/10    | AMOLED, GPS, IP68/5ATM, HR/SpO₂/sleep                 | CE/FCC/RoHS/BIS/KC/UKCA, UN38.3/IEC62133| E-com-friendly, wearable cloud API            |
+| Kingwear     | OEM/ODM/White-label         | Android 9/10    | AMOLED, GPS, IP68/5ATM                                | ISO9001, CE/FCC/RoHS/3C/BIS/KC         | Multi-SoC, 20M+ units/year, HaWoFit integration|
+| Samsung      | Galaxy Watch Ultra (localized/patched) | Android 9/10    | High-end (paired with S25 Ultra)                      | -                                      | Sideloaded apps, uses older APKs              |
+| Samsung      | Galaxy Watch 4 (custom firmware)        | Android 9/10    | High-end                                             | -                                      | Sideloaded apps for compatibility             |
+
+**Device Table Explanation:**
+
+- **Longcheer, Microwear, and Kingwear** specialize in high-volume, ODM smartwatches. They typically offer customizable hardware with powerful SoCs, AMOLED displays, full GPS/BT/HR suites, and water resistance, but run Android 9 or 10 for all the reasons outlined above.
+- **Samsung Galaxy Watch Ultra and Galaxy Watch 4**: While official firmware runs newer Android versions, the enthusiast/enterprise market continues to use custom ROMs or legacy firmwares (patched or sideloaded), specifically to maintain compatibility with sideloaded apps and to avoid enforced updates or restrictions[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/official-list-of-sideloaded-apps-and-workarounds-for-wear-os-tested-on-galaxy-watch.4379825/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "12")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/guide-galaxy-wearable-samsung-gear-android-aosp.4632721/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "28")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://xdaforums.com/t/app-mod-galaxy-wearable-patch-for-samsung-phones-with-custom-roms.4208143/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "14").
+
+Some region-specific watches (e.g., in Australia, the Xolair X1 or Karmic K-360) also illustrate this approach, though explicit OS version is sometimes obfuscated, especially in price-sensitive or rapidly iterating segments[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://www.expertmarketresearch.com.au/reports/australia-smartwatch-market?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "24")[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://istarfit.com/smartwatch-oem-odm-suppliers-2025-top10/?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "3").
+
+---
+
+### Additional Table: 2025 Android Smartwatches with (Officially or Unofficially) Outdated OS
+
+| Device Name                | Hardware Specs              | Android Version | Notes                                                        |
+|----------------------------|-----------------------------|-----------------|--------------------------------------------------------------|
+| Samsung Galaxy Watch Ultra   | High-end, multi-sensor      | Android 9/10    | Used with older APKs for compatibility, customized firmware  |
+| Samsung Galaxy Watch 4       | High-end                    | Android 9/10    | Custom ROMs for sideloaded messaging, mail, fitness apps     |
+
+---
+
+## 14. Analysis of Risks and Trade-Offs
+
+While the above strategies are rational for certain business models and consumer segments, they introduce important risks:
+
+- **Security vulnerabilities:** Devices on Android 9/10 no longer receive official security patches, leaving users exposed to known threats (unless significant investment is made for backporting).
+- **Loss of Play Store and mainstream app access:** As of late-2023, apps targeting older SDKs are hidden from Play Store on newer hardware, and new app releases require API level 33+ targeting. This locks legacy watches out of much of the ongoing Android app ecosystem[43dcd9a7-70db-4a1f-b0ae-981daa162054](https://developer.android.com/docs/quality-guidelines/wear-app-quality?citationMarker=43dcd9a7-70db-4a1f-b0ae-981daa162054 "4").
+- **Incompatibility with major phone features:** As both Android phones and associated services (e.g., Find My Device, Health Connect, Wallet) move to require tighter integration/recency, these devices grow increasingly isolated from the broader Android ecosystem.
+- **Customer dissatisfaction:** When advertised features (like voice commands, payments, advanced fitness tracking) are unavailable or unreliable compared to top-tier models, reputational risk or returns can increase—particularly if end-users were misled to believe their watch was "Wear OS" when it is a non-GMS AOSP device.
+
+---
+
+## 15. Conclusion: The Inevitable Duality in the 2025 Smartwatch Market
+
+Despite rapid evolution in smartwatch hardware and software, business and technical inertia—combined with regional and market segmentation, regulatory friction, and supply chain realities—mean that many premium or mid-tier smartwatches will continue to ship with Android 9 or 10 in 2025. These decisions are rational for manufacturers balancing cost, regulatory compliance, and speed-to-market against the advantage of running the very latest OS.
+
+Top-tier brands (Google, Samsung, OnePlus, etc.) continue to drive Wear OS forward and offer consumers the latest features—at a price premium and with greater restrictions on customization. On the other hand, ODMs, white-label specialists, vertical/niche brands, and cost-focused vendors are likely to persist with mature Android OS images as long as component, ecosystem, and regulatory conditions allow.
+
+**For business buyers or specialized users:**  
+A smartwatch with Android 9 or 10 may offer a stable, customizable, and cost-effective platform—if you understand the limitations on app access, security, and future-proofing.
+
+**For mainstream consumers:**  
+Choosing a newer OS Wear OS device (13+) ensures access to Google services, apps, and feature-rich health integration, but at a higher price and stricter software control.
+
+The split in strategy reflects the continued diversity—and fragmentation—at the heart of the global Android smartwatch ecosystem in 2025. Both approaches have found enduring market niches, and both are likely to persist for the foreseeable future.
+
+---
+
+**Key Takeaway:**  
+A smartwatch in 2025 with top-end specs but Android 9 or 10 almost always reflects a calculated trade-off: speed, control, or market reach won out over ecosystem integration, update security, and the latest features. These choices remain core to the stratification and diversity of the smartwatch market, ensuring no “best” universal approach will dominate every niche any time soon.
+
+
+
 T-Rex 3 Ultra. GPS Smart Watch 10ATM Waterproof Built-in Dual-band GNSS Compass Military Sport Smartwatch Men 2025 New For Xiaomi Ultra. KAVSUMI T-REX 3 Ultra
 
 
