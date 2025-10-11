@@ -464,12 +464,14 @@ This section defines the current (Q4 2025) gold standard for wearable sensors an
 1.4 Inertial Measurement Unit (IMU)
 
  * SOTA Benchmark: A 6-axis IMU combining a high-dynamic-range 3-axis accelerometer (capable of detecting forces up to 32-g or higher for impact detection) and a 3-axis gyroscope. Fused with a magnetometer (compass) for full 9-axis orientation tracking.
+  
  * Key Derived Metrics:
    * Step Count
    * Activity Type classification (running, swimming, etc.)
    * Fall/Crash Detection
    * Repetition Counting (e.g., for weight training)
    * Running Dynamics (Cadence, Ground Contact Time, Vertical Oscillation)
+  
  * Data Types & Formats:
    * Raw Accelerometer/Gyroscope Data:
      * Data Type: Array of Double for [x, y, z] axes.
@@ -480,21 +482,25 @@ This section defines the current (Q4 2025) gold standard for wearable sensors an
 2.0 The Programmability Spectrum & API Models
 
 "Programmability" is not monolithic. Access is tiered, with a direct trade-off between data granularity, power consumption, and ease of use.
+
  * Tier 1: Direct Hardware Access (The Researcher's Tier)
    * Description: Accessing the raw, unfiltered data stream directly from the sensor controller. For example, getting the individual photon counts from the PPG's photodiodes or the raw XYZ vector stream from the accelerometer at 100Hz.
    * Enabling SDK/API: SensorManager (on Wear OS) or equivalent low-level C/C++ libraries on more open platforms.
    * Use Case: Developing novel biometric algorithms (e.g., a new sleep staging model, a custom activity classifier).
    * Gotcha: Highest power consumption. Requires significant signal processing knowledge. Often restricted by the platform for stability reasons.
+
  * Tier 2: Real-Time Processed Stream (The App Developer's Tier)
    * Description: The platform handles the raw signal processing and provides a clean, real-time stream of processed metrics. You don't get the raw PPG signal, but you get a reliable heart rate value every second.
    * Enabling SDK/API: HealthKit HKWorkoutSession (Apple), Wear OS MeasureClient (Google).
    * Use Case: Building a workout app that shows live HR, pace, and distance.
    * Gotcha: You are reliant on the platform's "black box" algorithms. You can't change how HR is calculated.
+
  * Tier 3: Batched Historical Query (The Dashboard Tier)
    * Description: Asynchronous querying of the central, on-device health database. This is not for real-time applications but for analyzing data that has already been collected and stored.
    * Enabling SDK/API: HealthKit HKSampleQuery (Apple), Health Connect API ReadRecords (Google).
    * Use Case: Building a dashboard that shows the user's average resting heart rate over the last month.
    * Gotcha: Access may be delayed, and data is often down-sampled to save space (e.g., you get the min/max/avg HR for a 5-minute period, not every single beat).
+
  * Tier 4: Cloud API Query (The Enterprise Tier)
    * Description: Requesting user data from the vendor's cloud servers after it has been synced from the watch.
    * Enabling SDK/API: Garmin Health API, Fitbit Web API.
