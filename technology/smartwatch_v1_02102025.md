@@ -1068,10 +1068,6 @@ Your comparison to "If a metric is not a metric: It is not a metric!" perfectly 
 
 
 
-Beauford A. Stenberg  
-beauford.a.stenberg@gmail.com  
-October 12, 2025
-
 
 # Smartwatch Industry Insights
 
