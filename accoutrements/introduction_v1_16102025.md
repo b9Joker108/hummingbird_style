@@ -42,3 +42,73 @@ Next Steps
 Let me know if you’d like a reproducible script to validate your YAML or JSON category file against these new nodes!
 
 
+Direct Answer
+#load-carry/frames is the node for structural support systems—rigid or semi-rigid skeletons that distribute pack loads across your body.  
+
+---
+
+1. What Belongs Under /load-carry/frames
+- external backpack frames (aluminium ladder, composite sheet)  
+- internal frame sheets and stays  
+- exoskeleton belts and hip-belt frames  
+- load-lifter and compression-strap assemblies  
+
+---
+
+2. Proposed Subcategory Structure
+
+```yaml
+load-carry:
+  frames:
+    external:
+      ladder-frames: []
+      sheet-frames: []
+    internal:
+      stays: []
+      frame-sheets: []
+    exoskeleton:
+      belts: []
+      load-lifter-straps: []
+```
+
+---
+
+3. Example Items
+
+- external/ladder-frames  
+  - Lowe Alpine CADOMOTIC aluminium ladder  
+  - Mystery Ranch composite sheet insert  
+
+- internal/frame-sheets  
+  - Osprey ThermoForm PE sheet  
+  - DIY polypropylene stay set  
+
+- exoskeleton/belts  
+  - Arc’teryx Bora hip-belt  
+  - Kifaru load-bearing belt module  
+
+---
+
+4. Key Metadata for Each Frame Entry
+- material; weight (g); max-load (kg)  
+- dimensions (L×W×T)  
+- attachment-interface (mol­le; daisy-chain; custom)  
+- manufacture-date; vendor; part-number  
+- cleaning/inspection protocol version  
+
+---
+
+5. Validating Your Category Tree
+Assuming you store your tree in categories.yaml, here’s a tiny yq check for existence of load-carry.frames:  
+
+```bash
+yq e '.["load-carry"] | has("frames")' categories.yaml
+```  
+
+A result of true confirms the node; false means it’s missing or mis-nested.  
+
+---
+
+Next, you might script a diff between your live inventory and this taxonomy to catch un-categorized items. Let me know if you’d like a reproducible Zsh snippet for that!
+
+
