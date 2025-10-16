@@ -71,3 +71,30 @@ If you’re mapping out palpation sites or EMG electrode placements, it helps to
 
 Marking these as separate nodes in your protocol ensures precision when documenting muscle activation patterns, fascicle angles, or hypertrophy assessments.
 
+Direct Answer
+Medial head: Caput mediale musculi gastrocnemii  
+Lateral head: Caput laterale musculi gastrocnemii  
+
+---  
+
+Nomenclature Details
+- English term: medial head of the gastrocnemius  
+- Latin term: Caput mediale musculi gastrocnemii  
+- English term: lateral head of the gastrocnemius  
+- Latin term: Caput laterale musculi gastrocnemii  
+
+---  
+
+Anatomical Origins
+The medial head originates from the posterior surface of the medial femoral condyle, and the lateral head from the posterior surface of the lateral femoral condyle.  
+
+---  
+
+Usage in Documentation
+For precision in palpation protocols, EMG mapping, or atlas references, abbreviate as “CMG” (Caput Mediale Gastrocnemii) and “CLG” (Caput Laterale Gastrocnemii), aligning with Terminologia Anatomica conventions.
+
+# References and Readings #
+
+* https://www.physio-pedia.com/Gastrocnemius?lang=en
+
+* 
