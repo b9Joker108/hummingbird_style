@@ -324,3 +324,95 @@ Citations:
 
 
 
+Indonesia and the Phillipines?
+
+Included below is a focused, historically and culturally triangulated YAML addition detailing traditional and folk circus and jugglearts from Indonesia and the Philippines within broader Islander and Archipelago forms. These emphasize their unique influences, ritual uses, and stylistic particularities:
+
+```yaml
+Indonesia_and_Philippines_Traditional_Circus_and_Jugglearts:
+  Indonesia:
+    - Silat_Performance_and_Juggling:
+        Description: "Martial dance forms combining weapon manipulations (keris, sticks), acrobatic flips, and rhythmic body isolations"
+        Cultural_Context: "Village rites, healing ceremonies, self-defense theater"
+        Craftsmanship: "Integration with gamelan music and shadow puppetry (wayang)"
+    - Balinese_and_Javanese_Performative_Acrobatics:
+        Traits: "Temple festival acrobatic displays, high-balancing acts, and rhythmic juggling involving coins, balls, rings"
+        Function: "Sacred dance, community celebration, social storytelling"
+    - Folk_Movement_and_Object_Manipulation:
+        Examples: ["Poi-inspired rope twirling", "Coconut shell balancing and toss games"]
+        Regional_Roles: "Children's community games, courtly entertainment"
+  Philippines:
+    - Arnis_Eskrima_Stick_Manipulation_and_Juggling:
+        Description: "Martial weapon control integrated with rhythmic juggling, throwing, and catching of sticks and bolos"
+        Social_Role: "Warrior training, street performance, communal festivals"
+    - Indigenous_Street_Jugglearts_and_Balancing_Fairs:
+        Features: "Knives, machetes, and fire juggling; bamboo balancing and acrobatic partner displays"
+        Usage: "Ritualized festivity, livelihood performance"
+    - Traditional_Dance_and_Object_Play:
+        Examples: ["Tinikling-inspired pole balancing combined with foot dexterity and object tossing"]
+        Cultural_Significance: "Celebration and courtship rituals, symbolic storytelling"
+    - Tribal_and_Islander_Play_Performance:
+        Regions: ["Cordillera", "Mindanao", "Visayas"]
+        Characteristics: "Body isolation, rhythmic hand manipulation with everyday objects, connected to animistic rites"
+```
+
+Both Indonesian and Philippine traditions show deep interlinkages between martial performance, ritualized play, rhythmic accompaniment, and community bonding. These forms are dynamic, blending martial, festive, and pedagogical roles, contributing richly to the global "little" traditions of circus and jugglearts with island archipelago specificity [1][2].
+
+Citations:
+[1] The invisible plant technology of Prehistoric Southeast Asia: Indirect evidence for basket and rope making at Tabon Cave, Philippines, 39–33,000 years ago https://dx.plos.org/10.1371/journal.pone.0281415
+[2] Developing a holistic and collaborative approach for the archaeology of Australian South Sea Islanders in Queensland https://onlinelibrary.wiley.com/doi/10.1002/arco.5330
+
+
+Now, Greater India and Greater Himalaya please ...
+
+Here is a historically and culturally triangulated YAML taxonomy focusing on traditional and folk circus and jugglearts from Greater India and the Greater Himalaya region, emphasizing their ritual, martial, and performative roles within local cultural ecologies:
+
+```yaml
+Greater_India_and_Greater_Himalaya_Circus_and_Jugglearts:
+  Greater_India:
+    - Malla_Yuddha_and_Acrobatics:
+        Description: "Ancient wrestling combined with partner balancing and aerial lifts"
+        Cultural_Context: "Temple festivals, royal courts, and folk fairs"
+        Martial_Connections: "Training for battlefield agility and spiritual discipline"
+    - Traditional_Street_Acrobatics_and_Circus:
+        Examples: ["Jhulna (rope swinging)", "Chakra and danda juggling", "Elephant balancing acts"]
+        Function: "Village celebrations, pilgrimage entertainments, itinerant performer traditions"
+    - Juggling_and_Manipulative_Arts:
+        Tools: ["Clubs (gada and danda)", "Torches and rings", "Animal-like mimicry and balancing"]
+        Social_Role: "Temple offerings, religious storytelling, skill display"
+    - Kathakali_and_Folk_Performative_Movement:
+        Features: "Controlled hand gestures, body control with rhythmic percussion"
+        Integration: "Movement discipline informing performative juggling"
+  Greater_Himalaya:
+    - Tibetan_and_Bhutanese_Performance_Arts:
+        Ritual_Acrobatics: "Cham dance performances including acrobatic leaps and staff manipulations"
+        Symbolism: "Spiritual warfare, deity embodiment, exorcism rites"
+        Jugglearts: "Prayer wheel spinning, subtle object manipulation in ritual context"
+    - Nepali_Martial_and_Festive_Movement:
+        Types: ["Dandi Naach (stick dance)", "Balance and tumbling from Sherpa and Newar cultures"]
+        Context: "Harvest festivals, warrior remembrances"
+    - Ladakhi_and_Kashmiri_Performance_Genres:
+        Description: "Traditional wrestling exhibitions combined with aerial balancing and rhythmic hand routines"
+        Usage: "Ritual invocation, social cohesion"
+    - Himalayan_Folk_and_Shamanic_Play:
+        Features: "Object tossing with indigenous materials, mimicry of animal motion"
+        Ritual_Functions: "Healing, community rite of passage, trance induction"
+
+  Cross-Regional_Syncretic_Festivals_and_Multi-Modal_Systems:
+    - Kumbh_Mela_and_Pilgrimage_Performers:
+        Practices: "Eclectic juggling, acrobatic storytelling, animal taming"
+        Role: "Mass spectacle and religious entertainment"
+    - Himalayan_Bon_and_Tantric_Movement:
+        Elements: "Breath-synchronized body isolations, subtle manipulative gestures"
+        Spiritual_Context: "Energy flow cultivation and ritual embodiment"
+```
+
+This taxonomy highlights the diverse and integrative nature of circus and jugglearts across Greater India and the Greater Himalaya. These traditions are deeply embedded in religious, martial, and community life, and remain vibrant in ritual festivals, temple performances, and folk celebrations, demonstrating both regionally unique and cross-cutting lineage continuities [1][2][3][4].
+
+Citations:
+[1] Proposed identification of physiological classification and theoretical mechanisms of yogāsanas https://pmc.ncbi.nlm.nih.gov/articles/PMC8724855/
+[2] The History and Origin of Yoga System https://www.ijfmr.com/papers/2023/3/2908.pdf
+[3] Etched in Stone: Sixteenth-century Visual and Material Evidence of Śaiva Ascetics and Yogis in Complex Non-seated Āsanas at Vijayanagara https://journalofyogastudies.org/index.php/JoYS/article/download/2018.v1.Powell.EtchedinStone/3
+[4] Researching the performative interface in Rapa Nui: bridging Indigenous knowledges, colonial histories and contemporary performances https://pmc.ncbi.nlm.nih.gov/articles/PMC11968658/
+
+
