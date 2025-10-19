@@ -416,3 +416,94 @@ Citations:
 [4] Researching the performative interface in Rapa Nui: bridging Indigenous knowledges, colonial histories and contemporary performances https://pmc.ncbi.nlm.nih.gov/articles/PMC11968658/
 
 
+Now, please a deep and triangulated inclusion of Internal Arts with a global purview
+
+A deep, globally triangulated taxonomy of internal arts reflects centuries of philosophical, therapeutic, martial, and meditative synthesis across cultures. Internal arts focus on the cultivation of intrinsic energy, mindfulness, structural alignment, and subtle neuromuscular and energetic coordination.
+
+```yaml
+Internal_Arts_Global_Taxonomy:
+  East_Asian_Traditions:
+    - Chinese_Internal_Arts:
+        Core_Forms:
+          - Taijiquan (Tai Chi Chuan):
+              Origin: "Chen Village, 17th century CE"
+              Focus: "Soft, slow movements promoting Qi flow and Yin-Yang balance"
+              Lineages: ["Chen", "Yang", "Wu", "Sun"]
+          - Xingyiquan:
+              Principles: "Linear explosive power aligned with the Five Elements"
+          - Baguazhang:
+              Characteristics: "Circular walking patterns, spiraling energy, evasive footwork"
+        Practices: ["Qigong", "Daoist meditative movement", "Neigong internal skill"]
+    - Japanese_Internal_Arts:
+        Examples:
+          - Aikido:
+              Founder: "Morihei Ueshiba, early 20th century"
+              Features: "Harmony of spirit and movement, joint locks, redirection"
+          - Daito-ryu Aiki-jujutsu:
+              Historical_Source: "Samurai-era combat art focusing on subtle internal power"
+          - Shin Shin Toitsu Do (Japanese yoga):
+              Emphasis: "Mind-body coordination, energy refinement"
+    - Korean_Internal_Arts:
+        - Sunmudo:
+            Origins: "Korean Buddhist monastic martial-meditative system"
+            Synthesis: "Dynamic meditation, breath control, martial technique"
+        - Taekkyeon (as internal component):
+            Notes: "Fluid, dance-like footwork with emphasis on rhythmic breathing"
+  
+  South_Asian_and_Indic_Internal_Arts:
+    - Yoga and Pranayama Traditions:
+        Scriptural_Bases: ["Patanjali Yoga Sutras", "Hatha Yoga Pradipika", "Upanishads"]
+        Core_Concepts: "Prana (life force), chakras (energy centers), bandhas (locks), mudras (seals)"
+        Practices: ["Kundalini awakening", "Nadis (energy channel) purification", "Meditative absorption"]
+    - Tibetan_and_Himalayan_Internal_Methods:
+        Systems: ["Tsa lung (lung cleansing yogas)", "Tummo (inner fire meditation)", "Trul khor (movement and breath exercises)"]
+        Tradition_Basis: "Bon and Vajrayana Buddhist synthesis for energetic and psychic transformation"
+  
+  Southeast_Asian_Internal_Arts:
+    - Traditional_Malay_Healing_and_Movement:
+        Characteristics: "Integration of martial discipline with breath and energy-work"
+    - Indonesian_And_Filipino_Integrated_Internal_Martial_Arts:
+        Elements: "Breath control in Silat and Eskrima, internal flow manipulation"
+  
+  Western_and_Modern_Adaptations:
+    - Western_Adapted_Internal_Practices:
+        Forms: ["Contemporary Qigong", "Mindfulness-based movement therapy", "Somatic movement arts"]
+        Focus: "Neuromuscular re-education, psychophysical integration"
+    - Integrative_Systems:
+        Examples: ["Functional Movement Yoga", "Body-mind centering", "Internal martial arts fusion"]
+  
+  Contemporary_Research_and_Technological_Integration:
+    - Neurobiological_Study_of_Internal_Arts:
+        Insights: "Effects on autonomic regulation, proprioception, neuroplasticity"
+    - Biofeedback_and_Sensor_Enhanced_Practice:
+        Approaches: "Wearables for movement and breath optimization"
+    - Global_Holistic_Health_Applications:
+        Settings: "Rehabilitation, mental health, stress reduction"
+
+```
+
+This comprehensive taxonomy integrates classical lineages—Chinese Wushu’s internal styles, Japanese Budo internal components, Indic yogic and tantric energy arts, Himalayan Vajrayana yogas—with contemporary Western scientific adaptations and technology-enhanced practice. It recognizes internal arts as a transdisciplinary field with martial, meditative, therapeutic, and artistic dimensions, central to mind-body cultural heritage worldwide [2][3][19].
+
+Citations:
+[1] Technology and Internal Auditing: An Overview of Performance Effects https://www.ssrn.com/abstract=5255858
+[2] I am not a Sportsman: the characteristics of identity construction in Traditional Chinese Martial Arts groups https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2414867
+[3] Global research on Chinese martial arts (1974–2025): A bibliometric and visualization-based analysis using Web of Science https://journals.lww.com/10.1097/MD.0000000000043769
+[4] Morocco overview https://www.semanticscholar.org/paper/1e1932eb323b50ceedbac877dd0a40360ac6a656
+[5] From traditional packaging to smart bio-packaging for food safety: a review https://link.springer.com/10.1007/s41207-024-00627-8
+[6] Multiport Power Converters in EV: An overview https://ieeexplore.ieee.org/document/10520443/
+[7] Electrical Models for EV’s Batteries: An Overview and Mathematical Design of RC Network https://link.springer.com/10.1007/s40031-022-00852-1
+[8] Arts in Modern Ghanaian Festival: Kwahu Easter in Context https://www.ijfmr.com/research-paper.php?id=11619
+[9] Overview of the Role of Rhizobacteria in Plant Salt Stress Tolerance https://www.mdpi.com/2073-4395/11/9/1759
+[10] THE WINE SECTOR MANAGEMENT IN PORTUGAL: AN OVERVIEW ON ITS THREE-DIMENSIONAL SUSTAINABILITY https://msdjournal.org/article/the-wine-sector-management-in-portugal-an-overview-on-its-three-dimensional-sustainability/
+[11] Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01320/pdf
+[12] Animalistic style in creative practices of contemporary artists and creative industries https://www.shs-conferences.org/articles/shsconf/pdf/2023/13/shsconf_cildiah2023_00067.pdf
+[13] Spatial Distribution Characteristics and Sustainable Inheritance Strategies of National Traditional Fine Arts Intangible Cultural Heritage in China https://www.mdpi.com/2071-1050/16/11/4488/pdf?version=1716626332
+[14] Indigenous and Traditional Visual Artistic Practices: Implications for Art Therapy Clinical Practice and Research https://pmc.ncbi.nlm.nih.gov/articles/PMC7308491/
+[15] Supporting youth mental health with arts-based strategies: a global perspective https://pmc.ncbi.nlm.nih.gov/articles/PMC10763059/
+[16] What are the active ingredients of ‘arts in health’ activities? Development of the INgredients iN ArTs in hEalth (INNATE) Framework https://wellcomeopenresearch.org/articles/7-10/v2/pdf
+[17] Arts in health revisited: A sketch of art practices in ancient and contemporary Chinese healthcare from an intercultural perspective https://www.tandfonline.com/doi/full/10.1080/23311983.2016.1256116
+[18] Strengthening National Identity Through The Learning of East Culture-Based Art Education https://journal.unnes.ac.id/nju/index.php/harmonia/article/download/21711/10603
+[19] Arts-based therapies, practices, and interventions in health https://pmc.ncbi.nlm.nih.gov/articles/PMC10548758/
+[20] Editorial: The Psychological and Physiological Benefits of the Arts https://www.frontiersin.org/articles/10.3389/fpsyg.2022.840089/pdf
+
+
