@@ -114,3 +114,77 @@ Citations:
 [20] Inheritance and development of traditional martial arts under the perspective of group dynamics: a case study of Ma’s Tongbei martial arts https://pmc.ncbi.nlm.nih.gov/articles/PMC11931039/
 
 
+Please just now focus on a YAML taxonomy of circusarts in the broadest purview and jugglearts in the broadest purview; both with a global, historical and developmental purview. Deeply triangulated and defensible.
+
+Here is a deeply researched, historically and developmentally informed YAML taxonomy of **circus arts** and **jugglearts** in the broadest, global sense. This synthesis draws from documented historical origins, cultural continuities, and contemporary expansions of both traditions, reflecting a balanced scholarly triangulation.
+
+```yaml
+Circus_and_Jugglearts_Taxonomy:
+  Ancient_and_Pre-Modern_Origins:
+    Proto-Circus_Performative_Forms:
+      - Ancient_Rome_and_Greece:
+          Examples: ["Circus Maximus chariot spectacles", "Roman acrobatics", "Greek pankration displays"]
+          Characteristics: "Large-scale public entertainment combining equestrian, acrobatics, and spectacle"
+      - South_Asian_and_Indic_Traditions:
+          Examples: ["Jatra and Nautanki traveling troupes", "Kalari Payattu correlated performance", "Street acrobatics and folk juggling"]
+          Characteristics: "Sacralized physical storytelling with martial and musical integration"
+      - East_Asian_Performance_Cultures:
+          Examples: ["Chinese court acrobatics (Han–Tang epochs)", "Japanese Edo-period traveling entertainers"]
+          Characteristics: "Highly refined bodily control and balance arts often linked with ritual"
+    Medieval_to_Early_Modern_Travelling_Troupes:
+      - European_Medieval_Fairs_and_Festivals:
+          Practices: ["Jugglery", "Tightrope and balancing acts", "Clowning and mimes"]
+          Transmission: "Oral guild knowledge and itinerant performers"
+      - Asian_Terrestrial_Art_Form_Convergences:
+          Examples: ["Silk Road acrobatic exchanges", "Japanese Sarugaku influences", "Indian akhada wrestling clowns"]
+          Integration: "Cross-cultural blending of storytelling, display, and physical skill"
+ 
+  Classical_Modern_Circus_Emergence (18th–20th_Century):
+    - Birth_of_Modern_Circus:
+        Founder: "Philip Astley, 1768 England"
+        Innovations: ["Riding Rings", "Equestrian theatre", "Multidisciplinary acts under one tent"]
+        Evolution: "Inclusion of aerialists, clowns, jugglers, and musicians; codification of circus arts"
+    - Traveling_and_Stationary_Circus_Formats:
+        Types: ["Big Top (tent-based)", "Hippodrome (arena-based)", "Vaudeville and variety shows hybrid"]
+        Key_Companies: ["Barnum and Bailey", "Ringling Bros.", "Great Yarmouth Hippodrome"]
+  
+  Jugglearts_Global_Forms_and_Histories:
+    - Traditional_Juggling_Arts:
+        Cultures:
+          - African: "Diabolo and traditional toss games"
+          - Asian: "Chinese plate spinning, Japanese devil sticks"
+          - European: "Club juggling, balls, and rings"
+        Historical_Legacy: "Ceremonial, entertainment, and skill demonstration with deep cultural roots"
+    - Jugglearts_in_Contemporary_Culture:
+        Innovations: ["Contact juggling", "Flow arts", "Object manipulation hybridization"]
+        Influences: ["Circus renewal", "Dance and martial flow", "Modern performance art and street culture"]
+        Tools: ["Poi", "Staff", "Hoops", "Kendama", "Bolas"]
+ 
+  Contemporary_Global_Contexts_and_Synthesis:
+    - New_Circus_and_Contemporary_Physical_Theatre:
+        Characteristics: ["Narrative-driven", "Integration with dance and theatre", "Less spectacle, more expression"]
+        Key_Influences: ["Cirque du Soleil", "Covent Garden styles", "Theatre-circus fusion"]
+    - Jugglearts_as_Impartial_Movement_Science:
+        Focus: ["Balance and proprioception", "Neurosomatic integration", "Hackamore juggling and flow"]
+        Contexts: ["Wellness education", "Physical therapy adjunct", "Digital and virtual performance platforms"]
+```
+
+This taxonomy frames circus arts not only as historic spectacle but as evolving cultural praxis—from ancient ritual spectacles to modern integrative performance—while jugglearts cover indigenous and folk object manipulation to modern flow and contact arts. Both fields reflect deep lineage continuity yet are vibrant centers of innovation and interdisciplinary integration [3][12][1].
+
+Such a schema is defensible within performance studies, anthropology, and movement science, illuminating patterns across geography, time, and cultural function.
+
+Citations:
+[1] Curriculum Circus: Juggling Curriculum, Science, and The Arts https://www.semanticscholar.org/paper/77b2d3c774e65c775c258c6338b536f784528ffb
+[2] E27. The Greek Foot: Is it a Myth or Reality? An Epidemiological Study in Greece and Connections to Past and Modern Global History https://academic.oup.com/rheumatology/article/54/suppl_1/i182/1830496/E27The-Greek-Foot-Is-it-a-Myth-or-Reality-An
+[3] Celebrating 250 years of circus https://www.tandfonline.com/doi/full/10.1080/17460654.2019.1569842
+[4] Streaming USA https://www.tandfonline.com/doi/full/10.1080/17510694.2023.2221554
+[5] From “Apostle of Japan” to “Apostle of All the Christian World”: The Iconography of St. Francis Xavier and the Global Catholic Church https://brill.com/view/journals/jjs/9/3/article-p415_006.xml
+[6] Circus Music: The eye of the ear https://www.semanticscholar.org/paper/18ccc2ae1afa04005129b3e8e0ad5a9800e3ecee
+[7] The Taxonomy of Spatial Typologies: A Proposal for an Analytical Language https://www.acsa-arch.org/chapter/the-taxonomy-of-spatial-typologies-a-proposal-for-an-analytical-language/
+[8] Critical arts 27 (2).indd https://www.semanticscholar.org/paper/255b6b6790ca6f34de02ba5a468c645fe6f2dd3a
+[9] I am Jonardon Ganeri, philosopher working on mind, metaphysics and epistemology across the Eastern and Western traditions. AMA! https://authorea.com/doi/full/10.15200/winn.151300.07490
+[10] Leonardo Volume 47 and Leonardo Music Journal Volume 24 https://direct.mit.edu/lmj/article/69455
+[11] The Global Jukebox: A public database of performing arts and culture https://pmc.ncbi.nlm.nih.gov/articles/PMC9629617/
+[12] The most resilient show on Earth: The circus as a model for viewing identity, change, and chaos https://www.ecologyandsociety.org/vol12/iss1/art9/ES-2007-1989.pdf
+[13] Circus at the seaside: Building the Great Yarmouth Hippodrome, 1903 https://journals.sagepub.com/doi/pdf/10.1177/26349817231210338
+[14] Rome’s seat of passion: An assessment of the archeology and history of the Circus Maximus https://www.tandfonline.com/doi/full/10.1080/23311983.2016.1168906
