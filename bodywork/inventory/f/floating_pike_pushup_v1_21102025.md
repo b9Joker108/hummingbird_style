@@ -4,7 +4,7 @@ Floating Pike Push-Up: Survey and Report
 
 Introduction
 
-The floating pike push-up is an advanced calisthenics variation that elevates the feet off the ground at the bottom of a pike push-up, amplifying shoulder load and demand for balance. Practitioners use it to bridge the gap between pike push-ups and handstand push-ups, developing both strength and proprioception in the shoulder girdle. This report synthesizes tutorials, forum insights, and expert guides into a structured overview, highlighting biomechanics, technique, progressions, common pitfalls, and programming recommendations.
+The floating pike push-up is a variation that elevates the feet off the ground at the bottom of a pike push-up, amplifying shoulder load and demand for balance. Practitioners use it to bridge the gap between pike push-ups and handstand push-ups, developing both strength and proprioception in the shoulder girdle. This report synthesizes tutorials, forum insights, and expert guides into a structured overview, highlighting biomechanics, technique, progressions, common pitfalls, and programming recommendations.
 
 ---
 
