@@ -1,4 +1,4 @@
-# Introduction to Stance in Bodywork #
+# Introduction to Stanceforms in Bodywork #
 
 Out of all forms of bodywork (subsuming martial), which has the most sophisticated codification and usage of foundational and primary stances organised into a valuable typology and schema?
 
