@@ -1,4 +1,6 @@
-# Disclaimer #
+# Statement of Disclaimer #
+
+We live in an increasingly letigious world due to a complex of arrising factors in the Human Condition. Though the xxx subsume elements of disclaimation, I feel and it is my considered opinion, that have an express and dedicated Statement of Disclaimer, is best practice and foregrounds transparency and sovereignty for all parties and stakeholders in a 360 degrees purview. I feel, this should be understood to champion the integrity of this REPOSITORY and its contents, not abscond from responsibility for its production, publication and dissemination.
 
 By using this xxx repository (hereafter as referred to the "REPOSITORY"), you (hereafter referred to as the "User") signify your agreement to these Terms and Conditions. If you do not agree to all of these Terms and Conditions of use, do not use the REPOSITORY!
 
