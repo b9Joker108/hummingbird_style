@@ -1,6 +1,6 @@
 # Utthita Ashwa Sanchalanasana #
 
-## Orthography ##
+## Nomenclature, Orthography and Etymology ##
 
 'Utthita Ashwa Sanchalanasana' (Sanskrit: उत्तित अश्व संचलनासन , उत्थिता अश्व संचलानासन ; IAST: utthita aśva saṃcalanāsana, utthitā aśva saṃcalānāsana)
 
@@ -12,6 +12,58 @@ Literal breakdown and meaning
 - Sanchalana — moving, riding or locomotion  
 - Āsana — posture or seat  
 Literal sense: “Extended horse-riding posture” commonly rendered in English as High Lunge or Runner’s Lunge.
+
+Form and transliteration
+
+- Devanagari: संचलानासन  
+- IAST: Sañcalānāsana
+
+---
+
+Morphology and etymology
+
+- Root: cal- — “to move, stir, go.”  
+- Prefix: sam- → sañ- by nasal assimilation before palatal c; this yields the intensified sense “together, well, thoroughly” and in compounds often conveys coordinated or purposeful motion.  
+- Nominal suffix: -ana / -āna — a productive action/result noun-former from verbal roots. Here, cal + āna → calāna “moving, locomotion, driving,” and with the prefix it becomes sañcalāna “movement, mobilization.”  
+- Head noun: āsana — “seat, posture.”  
+- Compound type: A karmadhāraya/tatpuruṣa-like compound where the first member qualifies the second: “the posture of movement” or “movement posture.”
+
+Putting it together: sañcalāna + āsana → Sañcalānāsana, “the movement posture,” typically understood in modern yoga naming as a dynamic lunge or locomotion-themed pose.
+
+---
+
+Phonology and orthography
+
+- Anusvāra assimilation: The prefix sam- becomes sañ- before palatal c (sam + cala → sañcala), reflected by the anusvāra plus palatal class consonant.  
+- Long vowels: The ā in -ānāsana marks the action noun suffix and the long vowel in āsana; these lengths should be preserved in IAST for accuracy.  
+- Variant spellings in practice: You will see modern forms like “Sanchalanasana,” “Sañchalanāsana,” or “Sañcalanāsana.” The most etymologically aligned form for your specified Devanagari “संचलानासन” is precisely Sañcalānāsana.
+
+---
+
+Semantics and usage
+
+- Literal sense: “Movement posture,” “locomotion seat.”  
+- Yoga naming convention: Often paired with qualifiers (e.g., “Utthitā” = extended/raised) to indicate a lunge-like, locomotor stance used in flows and transitions.  
+- Conceptual emphasis: Activation and coordination—hips, legs, and core working in concert to create forward drive and balanced stabilization.
+
+---
+
+Grammatical notes
+
+- cal- (√cal): A thematic root found across Classical Sanskrit; derivatives include cālana / calana (movement), cālita (moved), and compounds with sam- marking completeness or togetherness.  
+- -ana / -āna: Nominal suffix forming action/result nouns; the ā variant is common and aligns with many yoga coinages that prefer sonorous length.  
+- Compound scansion: Sañ-ca-lā-nā-sa-na. Preserve palatal “c,” not aspirated “ch,” unless your source explicitly writes छ.
+
+---
+
+Relationship to your earlier phrase
+
+- When expanded to “उत्थिता अश्व संचलानासन” (Utthitā Aśva Sañcalānāsana), the name layers:  
+  - Utthitā — extended, raised.  
+  - Aśva — horse.  
+  - Sañcalānāsana — movement posture.  
+Meaning: “Extended horse movement posture,” the high-lunge/runner’s-lunge family by sense.
+
 
 ---
 
