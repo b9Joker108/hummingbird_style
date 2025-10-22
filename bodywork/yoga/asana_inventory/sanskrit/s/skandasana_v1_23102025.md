@@ -126,7 +126,11 @@ Skandasana, also known as Side Lunge or Half Squat, is a yoga pose that involves
 * For support: If your heel comes up off the floor, place a blanket or block underneath it for support. 
 * To prevent rocking: To avoid leaning too far forward, place a wall behind you and use it to help keep your chest lifted and your hips back. 
 * Engage your straight leg: Keep the straight leg active and engaged for stability. 
-* Go halfway: If you can't go all the way down, simply work from a half-lunge position and gradually increase the depth as you build strength and flexibility. 
+* Go halfway: If you can't go all the way down, simply work from a half-lunge position and gradually increase the depth as you build strength and flexibility.
+
+## Vinyasa ##
+
+* https://www.instagram.com/reel/CvOt6ZlA8or/?igsh=MWlpenBwenFrZ2ltNA== (accessed: Thursday, October 23, 2025)
 
 ## Traditional Lore ##
 
