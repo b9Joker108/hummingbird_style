@@ -101,21 +101,22 @@ notes:
 
 ---
 
-Literal breakdown and meaning
+### Literal breakdown and meaning ###
+
 - Utthita — extended, raised, stretched  
 - Aśva — horse  
 - Sanchalana — moving, riding or locomotion  
 - Āsana — posture or seat  
 Literal sense: “Extended horse-riding posture” commonly rendered in English as High Lunge or Runner’s Lunge.
 
-Form and transliteration
+### Form and transliteration ###
 
 - Devanagari: संचलानासन  
 - IAST: Sañcalānāsana
 
 ---
 
-Morphology and etymology
+### Morphology and etymology ###
 
 - Root: cal- — “to move, stir, go.”  
 - Prefix: sam- → sañ- by nasal assimilation before palatal c; this yields the intensified sense “together, well, thoroughly” and in compounds often conveys coordinated or purposeful motion.  
@@ -127,7 +128,7 @@ Putting it together: sañcalāna + āsana → Sañcalānāsana, “the movement 
 
 ---
 
-Phonology and orthography
+### Phonology and orthography ###
 
 - Anusvāra assimilation: The prefix sam- becomes sañ- before palatal c (sam + cala → sañcala), reflected by the anusvāra plus palatal class consonant.  
 - Long vowels: The ā in -ānāsana marks the action noun suffix and the long vowel in āsana; these lengths should be preserved in IAST for accuracy.  
@@ -135,7 +136,7 @@ Phonology and orthography
 
 ---
 
-Semantics and usage
+### Semantics and usage ###
 
 - Literal sense: “Movement posture,” “locomotion seat.”  
 - Yoga naming convention: Often paired with qualifiers (e.g., “Utthitā” = extended/raised) to indicate a lunge-like, locomotor stance used in flows and transitions.  
@@ -143,15 +144,13 @@ Semantics and usage
 
 ---
 
-Grammatical notes
+### Grammatical notes ###
 
 - cal- (√cal): A thematic root found across Classical Sanskrit; derivatives include cālana / calana (movement), cālita (moved), and compounds with sam- marking completeness or togetherness.  
 - -ana / -āna: Nominal suffix forming action/result nouns; the ā variant is common and aligns with many yoga coinages that prefer sonorous length.  
 - Compound scansion: Sañ-ca-lā-nā-sa-na. Preserve palatal “c,” not aspirated “ch,” unless your source explicitly writes छ.
 
 ---
-
-Relationship to your earlier phrase
 
 - When expanded to “उत्थिता अश्व संचलानासन” (Utthitā Aśva Sañcalānāsana), the name layers:  
   - Utthitā — extended, raised.  
@@ -162,7 +161,8 @@ Meaning: “Extended horse movement posture,” the high-lunge/runner’s-lunge 
 
 ---
 
-Short procedural cue (practical essence)
+## Short procedural cue (practical essence) ##
+
 1. Step one foot far forward from a standing base so feet are staggered.  
 2. Bend the front knee until the thigh approaches horizontal while the back leg remains extended with the heel lifted.  
 3. Square the hips forward and lift the torso; reach arms overhead or place hands on the floor beside the front foot as required by the sequence.  
@@ -170,7 +170,8 @@ Short procedural cue (practical essence)
 
 ---
 
-Key alignment cues and emphasis
+## Key alignment cues and emphasis ##
+
 - Front knee tracks over the ankle; avoid letting it collapse inward.  
 - Hips aim to face forward; draw the back hip slightly forward to deepen the stretch in the front hip flexor.  
 - Pelvis and core engage to protect the low back; lengthen the spine rather than overarching.  
@@ -179,7 +180,8 @@ Key alignment cues and emphasis
 
 ---
 
-Primary effects and common uses
+## Primary effects and common uses ##
+
 - Stretches hip flexors (psoas) of the back leg.  
 - Strengthens quadriceps, gluteus, core and stabilizers.  
 - Improves balance and prepares the body for standing sequences (e.g., Sun Salutation variations).  
@@ -187,10 +189,15 @@ Primary effects and common uses
 
 ---
 
-Contraindications and caution
+## Contraindications and caution ##
+
 - Proceed cautiously with recent knee, hip, or low-back injuries.  
 - Modify depth or use hands on blocks if balance or knee pain occurs.  
 - Keep the front knee protected by avoiding excessive forward translation of the knee beyond the toes.
+
+## Vinyasa ##
+
+* https://www.instagram.com/reel/CvOt6ZlA8or/?igsh=MWlpenBwenFrZ2ltNA== (accessed: Thursday, October 23, 2025)
 
 # References #
 
