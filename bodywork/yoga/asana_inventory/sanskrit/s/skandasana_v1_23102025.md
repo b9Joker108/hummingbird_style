@@ -127,3 +127,12 @@ Skandasana, also known as Side Lunge or Half Squat, is a yoga pose that involves
 * To prevent rocking: To avoid leaning too far forward, place a wall behind you and use it to help keep your chest lifted and your hips back. 
 * Engage your straight leg: Keep the straight leg active and engaged for stability. 
 * Go halfway: If you can't go all the way down, simply work from a half-lunge position and gradually increase the depth as you build strength and flexibility. 
+
+## Traditional Lore ##
+
+Sri Skanda Deva, also known as Sri Kartikeya, Sri Murugan, Sti Subrahmanya and Sri Shanmukha, is portrayed across regional Indic traditions as the divinely begotten warrior-son of Sri Śiva and Srimati Pārvatī who incarnates to restore cosmic order; iconographically He is frequently shown as a youthful commander with multiple faces and arms, bearing a spear (vel) and riding a peacock, symbols that encode His martial authority, swiftness and sovereignty over unrest. 
+
+Traditional narratives concentrate on His birth and maturation as a weaponized principle of divine energy: precipitated by the devas’ need for a leader to defeat asuras like Tāraka, his origin stories vary: from maternal fosterage by the Kārttikeya nymphs to emergent forms in mountain shrines; each version triangulating themes of initiation, collective empowerment and the transmutation of feral force into disciplined guardianship.
+
+Textual and ritual traditions surrounding Skanda are layered: the Skanda Purāṇa systematises pilgrimage lore, regional traditions, and liturgical practice around His cult, whilst southern Dravidian currents (Murugan worship) and certain Upanishadic lines read Him alternately as a paradigmatic guru of jñāna and as the archetypal warrior-protector, producing a living pluralism in which martial, devotional and philosophical registers cohabit and inform local rites, festivals and ethical imagination.
+
