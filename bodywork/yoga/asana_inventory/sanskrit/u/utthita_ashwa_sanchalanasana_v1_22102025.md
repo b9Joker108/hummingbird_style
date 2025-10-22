@@ -1,3 +1,98 @@
+---
+title: "Utthitā Aśva Sañcalānāsana"
+title_english: "Extended Horse Movement Posture (High Lunge / Runner’s Lunge)"
+slug: "utthita-ashwa-sanchalanasana"
+date_created: "2025-10-22"
+language:
+  primary: "Sanskrit"
+  transliteration_scheme: "IAST"
+scripts:
+  devanagari: "उत्थिता अश्व सञ्चलनासन"
+  iast: "Utthitā Aśva Sañchalanāsana"
+  common_variants:
+    - "उत्थिता अश्व संचलनासन"  # using anusvāra before c
+    - "उत्थिता अश्व संचलानासन" # long ā in -lāna preferred by some modern sources
+    - "Utthita Ashwa Sanchalanasana" # anglicized, no diacritics
+taxonomy:
+  family: "Standing lunge"
+  subfamily: "Dynamic/locomotor-themed āsana"
+  surya_namaskar_role: "Transitional posture (often following or preceding Anjaneyāsana variations)"
+components:
+  - "Utthitā: extended, raised"
+  - "Aśva: horse"
+  - "Sañcalana: movement, locomotion (sam- + cal)"
+  - "Āsana: posture"
+morphology:
+  root: "√cal (to move, stir, go)"
+  prefix_assimilation: "sam- → sañ- before palatal c"
+  compound_type: "Tatpuruṣa/karmadhāraya (qualifying + head noun)"
+  gloss: "Extended horse movement posture"
+orthography_notes:
+  - "Prefer palatal c (c) over aspirated ch (छ) unless source dictates."
+  - "Show nasal assimilation as ñ before c (सञ्च) or with anusvāra (संच); both are acceptable conventions."
+  - "Preserve long vowels: Utthitā, Sañchalanā-/Sañcalānā-, Āsana."
+aliases:
+  - "High Lunge"
+  - "Runner’s Lunge"
+  - "Ashwa Sanchalanasana"
+  - "Utthita Ashwa Sanchalanasana"
+alignment_cues:
+  - "Front knee tracks over the ankle; avoid valgus collapse."
+  - "Back leg active: heel presses back, thigh engaged."
+  - "Square hips forward; draw back hip slightly anterior."
+  - "Neutral-lifted spine; avoid lumbar compression."
+  - "Arms overhead or hands grounded beside front foot per sequence."
+effects:
+  strengthens:
+    - "Quadriceps"
+    - "Gluteals"
+    - "Core stabilizers"
+  stretches:
+    - "Hip flexors (psoas) of the back leg"
+    - "Calf of the back leg (with heel press)"
+  benefits:
+    - "Balance and proprioception"
+    - "Preparation for standing sequences"
+contraindications:
+  - "Acute knee, hip, or low-back injury"
+  - "Front knee pain (limit depth; use props)"
+modifications:
+  - "Hands on blocks to reduce spinal load and improve balance"
+  - "Shorten stance for stability"
+  - "Back knee down (Anjaneyāsana variant) for reduced intensity"
+sequencing:
+  enters_from:
+    - "Tāḍāsana / Standing"
+    - "Adho Mukha Śvānāsana"
+  exits_to:
+    - "Vīrabhadrāsana I/II"
+    - "Parśvottānāsana"
+    - "Plank / Chaturaṅga via vinyasa"
+safety_notes:
+  - "Keep front knee roughly above ankle; do not let it pass far beyond toes."
+  - "Distribute weight through both feet; avoid dumping into front knee."
+  - "Engage lower abdomen to protect lumbar region."
+pedagogy:
+  verbal_cues:
+    - "Lengthen through crown; soften ribs; breathe steadily."
+    - "Draw inner thighs toward midline for pelvic stability."
+  drishti: "Forward or upward, as comfortable without cervical strain."
+media:
+  thumbnail_alt: "Utthitā Aśva Sañcalānāsana (High Lunge) posture"
+  thumbnail_placeholder: "img/utthita-ashwa-sanchalanasana-thumb.png"
+  reference_image: "img/utthita-ashwa-sanchalanasana-reference.png"
+provenance:
+  compiled_by: "Beauford"
+  reviewer: "Copilot"
+  rationale: "Orthographically precise IAST and Devanagari with pedagogical and morphological context for archival use."
+licensing:
+  text_license: "CC BY 4.0"
+  media_license: "CC BY-SA 4.0 (unless otherwise noted)"
+notes:
+  - "Dictionary-initials: all headwords written with long vowels per IAST."
+  - "Variant spellings retained for crosswalking modern yoga literature to classical forms."
+---
+
 # Utthita Ashwa Sanchalanasana #
 
 ## Nomenclature, Orthography and Etymology ##
