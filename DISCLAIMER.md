@@ -132,7 +132,7 @@ Here’s a professionalized formulation you can subsume into your Statement of D
 
 ### Provisional Status of Content ###
 
-Unless otherwise specified, all GitHub Flavored Markdown (*.md) documents within this repository are to be regarded as provisional drafts. A document attains authoritative, finalized or canonical status only when its YAML frontmatter explicitly declares a ```status``` field with the value ```final``` with the ```signoff``` field populated with a name of a contributor authorized to sign-off content. In the absence of such a declaration, no Markdown file should be construed as definitive, complete or binding.
+Unless otherwise specified, all GitHub Flavoured Markdown (*.md) documents within this repository are to be regarded as provisional drafts. A document attains authoritative, finalized or canonical status only when its YAML frontmatter explicitly declares a ```status``` field with the value ```final``` with the attendant ```signoff``` field populated and the signoff dated with attendant ```date of signoff``` field populated wirh ª conforming date and the name of a contributor authorized to sign-off content in the designated field. In the absence of such a declaration, no Markdown file should be construed as definitive, complete, authoritative or binding.
 
 ---
 
