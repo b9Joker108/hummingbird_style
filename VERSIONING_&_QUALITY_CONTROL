@@ -1,0 +1,87 @@
+# Versioning and Quality Control #
+
+This repository applies a single, explicit governance model to all GitHub Flavored Markdown (*.md) documents. It defines default status, quality control, and the conditions under which a document is considered authoritative.
+
+---
+
+Policy overview
+
+- Default posture: All Markdown documents are provisional unless explicitly promoted via frontmatter.
+- Authority condition: A document is authoritative only when it declares both a recognized status and quality control level in frontmatter.
+- Frontmatter location: YAML frontmatter appears at the very beginning of the file, delimited by triple dashes.
+
+---
+
+Required frontmatter keys and controlled vocabulary
+
+- Status: Editorial state of the document.
+  - Allowed values: draft, review, final, canonical, deprecated.
+- Quality_Control: Verification depth and audit trail.
+  - Required subkeys:
+    - level: none, internal-review, peer-reviewed, archival-certified
+    - reviewer: Named person(s) or body
+    - date: ISO 8601 (YYYY-MM-DD)
+    - checks: List of concrete checks performed (orthography, citations, crosswalks)
+    - notes: Short rationale or scope of verification
+
+> A document is authoritative only if status is final or canonical and Quality_Control.level is peer-reviewed or archival-certified.
+
+---
+
+Minimal and authoritative templates
+
+- Minimal template (provisional by default):
+  `yaml
+  ---
+  title: "Document title"
+  status: "draft"
+  Quality_Control:
+    level: "none"
+    reviewer: ""
+    date: ""
+    checks: []
+    notes: ""
+  ---
+  `
+
+- Authoritative template (meets repository benchmark):
+  `yaml
+  ---
+  title: "Document title"
+  status: "final"
+  Quality_Control:
+    level: "peer-reviewed"
+    reviewer: "Editorial Board"
+    date: "2025-10-22"
+    checks:
+      - "Orthography verified (script + transliteration)"
+      - "Terminology cross-checked against canonical sources"
+      - "Internal consistency + citation audit"
+    notes: "Meets repository benchmark for authoritative publication."
+  ---
+  `
+
+---
+
+Interpretation rules
+
+- Provisional default: Any Markdown file lacking frontmatter or a recognized status value is deemed provisional and non-binding.
+- Quality neutrality: Absence of Quality_Control implies no formal verification; do not infer rigor.
+- Canonical elevation: Only status: canonical indicates long-term stewardship and cross-repository adoption, and it still requires qualifying Quality_Control.level.
+- Deprecation: status: deprecated indicates superseded content; retain for archival traceability, not for active reliance.
+
+---
+
+Compliance, audit, and change management
+
+- Compliance requirement: Contributions must include the required frontmatter keys and use controlled vocabulary values.
+- Audit trail: Changes to status or Quality_Control require a commit message that states the reason and scope of the update.
+- Version signal: Elevation to final or canonical must be accompanied by a dated Quality_Control entry and an enumerated checklist of checks performed.
+- Crosswalks: Where variant orthographies or transliterations exist, include a frontmatter variants: list for reproducible mapping; variants never substitute for status or quality declarations.
+
+---
+
+One-paragraph benchmark clause
+
+All GFM (*.md) documents in this repository are provisional by default. A document is authoritative only when its YAML frontmatter declares status: final or canonical and a Quality_Control block whose level is peer-reviewed or archival-certified, together with reviewer, date, and an explicit checklist of completed verification steps. Absent these declarations, no document should be treated as definitive, complete, or binding.
+
