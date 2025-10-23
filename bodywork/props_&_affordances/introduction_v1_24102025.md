@@ -1,3 +1,6 @@
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/bodywork/props_%26_affordances/introduction_v1_24102025.md
+
+
 # Bodywork: Props and Affordances - An Introduction #
 
 Throughout my exploration of many branches of the vast tree of the Dharmic Traditions, I have come to appreciate a recurring trope or framework that manifests repeatedly throughout in different guises, stated simply it is sadhana conducted with support and/or without. This is evident in different evocations and subtraditions of the Vedic Tradition, Jainadharma, Baudhadharma, Shaivadharma, Shaktadharma, Vaishnavadharma and Sikhadharma, amongst others. It is evident in meditation, puja, deity worship, philosophy, logic, mantra sadhana, ritual, all limbs of the traditional and canonical Yoga Darshana and the other traditional Six Darshanas and are evident in both Right-handed sadhana disciplines, as well as Left-handed. Please survey. Use Sanskrit technical terms in Devanagari and IAST as required.
