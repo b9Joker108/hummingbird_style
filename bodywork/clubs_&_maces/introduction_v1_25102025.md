@@ -1,6 +1,6 @@
 # Bodywork with Clubs and Maces (etc.): An Introduction #
 
-**PERSONAL NOTE: Being advanced in contemporary Poi provides an informed prior. Poi uses a largely comparable movement mapping to juggling clubwork.**
+***PERSONAL NOTE**: Being advanced in contemporary Poi provides an informed prior. Poi uses a largely comparable movement mapping to juggling clubwork. Clubbells and their ilk are just a loaded martial application.*
 
 HISTORY OF CLUB TRAINING
 ANCIENT WAR WEAPON
