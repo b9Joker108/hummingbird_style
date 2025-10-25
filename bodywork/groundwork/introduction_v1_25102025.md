@@ -185,3 +185,58 @@ File:
 PURVIEW:
 
 On the face of it, this directory subfile may seem derivative and redundant. It is not so: From my knowledges, experiences and their mutual informing and iteration, it is of inestimable value and import. This is concerned with, especially, all forms of bodywork (subsuming floorwork), without footware of any kind, tooled or otherwise, done on naturally ocurring, non-human-made, non-synthetic, non-artificial or non-human-constructed or made surfacing or flooring of any kind. It subsumes much of the discourse and modalities of: forest bathing and grounding, for example. Particularly, their science. So, training on grass, on earth or dirt, on humus, rock, pebbles, on sand, etcetera. Water surface, swimming, water-immersion and aerials, flighted or other somesuch and related training, exercise or sporting endeavour of any kind, are not within this purview. This is not something I am doing currently, but it has been profoundly important to my manifold bodywork processes and modalities historically and will be so again. In addition to what has been stated, only true barefoot training with featherfoot-fall at-pace is entertained.
+
+
+Books (foundational and practitioner-facing)
+- Natural Born Heroes — narrative exploration of movement, resilience, and natural‑surface practice; useful for cultural context and applied examples.  
+- Becoming a Supple Leopard (Kelly Starrett) — practical mobility, joint prep, and movement hygiene with applicable protocols for groundwork.  
+- The Practice of Natural Movement (Erwan Le Corre / MovNat materials) — practical curricula and philosophy for training natural locomotion and in‑situ skill chaining.  
+- Foundations of Hand Balancing and Bodyweight Strength (gymnastics‑derived manuals, e.g., Christopher Sommer’s writings) — technical progressions for levers, holds, and continuous practice blocks.  
+- The Art and Science of Flexibility and Mobility (compilation texts) — focused frameworks and exercises for active stretching and joint control suited to variable substrates.  
+- Body by You / You Are Your Own Gym (Mark Lauren) — systematic, reproducible bodyweight progressions and calendars adaptable to natural surfaces.  
+- The Movement: Functional Movement Systems and Practical Application (collection) — applied screening and corrective protocols relevant to barefoot groundwork.
+
+Academic reviews and research papers (biomechanics, sensory, ecology)
+- Overview reviews on proprioception and balance control — survey literature explaining sensory contributions to balance on uneven substrates.  
+- Papers on barefoot locomotion biomechanics — comparative studies of shod vs barefoot gait, foot strike, and substrate interaction useful for featherfoot mechanics.  
+- Research on surface compliance and neuromuscular control — studies that quantify muscle activation changes and stability strategies across sand, grass, rock, and compliant surfaces.  
+- Ecological dynamics and skill acquisition reviews — theoretical framing for environment‑driven progression and task‑goal coupling in natural practice.  
+- Somatosensory plasticity and tactile feedback literature — studies on mechanoreceptors, cutaneous input, and sensorimotor adaptation to varied substrates.  
+- Work‑capacity and injury risk analyses for plyometrics and continuous flow training — papers examining injury incidence and mechanical loading under high‑density bodyweight practice.
+
+Practitioner manuals, curricula, and certifications
+- MovNat curriculum guides and certification notes — practical progressions for vaults, balance, rolling, and in‑situ chaining.  
+- Animal Flow instructor materials — module breakdowns (Wrist Prep; Beast; Traveling forms) and flow sequencing rules.  
+- GymnasticBodies program materials — isometric and dynamic progression templates for lever and hand‑balance skills.  
+- GMB Elements / Movement manuals — microprogression templates for strength, mobility, and flow integration.  
+- Kinstretch / CARs resources — protocols for continuous joint control and active mobility that slot into flow sessions.  
+- Z‑Health practitioner primers — sensorimotor drills and gaze/balance sequencing useful for integrating neurocentric balance work.
+
+Field guides, methodological primers, and short papers
+- Field manual for substrate assessment — pragmatic checklist for substrate inspection, hazard mapping, and contextual safety for natural‑surface sessions.  
+- Minimalist foot health and conditioning primers — progressive toe/spread/arch conditioning programs for safe barefoot adaptation.  
+- Protocols for recording and archiving field sessions — metadata templates, video capture best practices, and substrate documentation methods for reproducible archives.  
+- Practical guide to featherfoot technique — drills for soft landing, step cadence, and micro‑coordination on variable terrain.
+
+Interdisciplinary and contextual readings
+- Papers on forest bathing / grounding physiology — measured autonomic and inflammatory outcomes from prolonged natural‑surface contact (contextual, not training protocol).  
+- Ethnographies of natural locomotion and indigenous barefoot practices — cultural context for long‑duration barefoot and substrate‑specific skills.  
+- Architectural and landscape studies on ground affordances — how substrate design and natural features afford or constrain movement patterns.  
+
+Online resources, repositories, and media (practical, regularly updated)
+- Official MovNat resources and certification info (curriculum outlines and course notes).  
+- Animal Flow instructor pages for module breakdown and movement libraries.  
+- GMB and GymnasticBodies program pages for progression templates and movement tests.  
+- Free practitioner blogs and short‑form video libraries demonstrating featherfoot drills, substrate inspection, and flow examples.  
+
+How to use this reading set (recommended sequence)
+1. Start with an ecological dynamics review and barefoot biomechanics papers to set theoretical grounding.  
+2. Read practitioner manuals (MovNat, GMB, GymnasticBodies, Animal Flow) to obtain reproducible progressions and drills.  
+3. Integrate Kinstretch/CARs and mobility manuals for joint‑specific continuous elements.  
+4. Apply field guides and substrate assessment before practical sessions; use foot‑conditioning primers for safe adaptation.  
+5. Archive sessions with the protocol and metadata schema you’ve defined to create reproducible records.
+
+If you want, I will:
+- Produce a prioritized, annotated bibliography in your repository YAML/MD format with full bibliographic entries (authors, year, publisher/journal) for 30 high‑value items, or  
+- Generate a short study syllabus (6–8 week) using only open resources and practitioner manuals that maps readings to practice sessions.
+
