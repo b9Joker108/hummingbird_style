@@ -153,3 +153,37 @@ Quick next steps you can copy into repo
 
 If you prefer a different first-order name instead of locomotion I will convert the entire tree and metadata schema to that term and produce a ready-to-commit repo patch.
 
+Short answer
+No; pushbiking (cycling) is not strictly subsumed by locomotion as we defined it (upright, weight‑bearing gait and stride mechanics), but it can be included in the same first‑order area if you broaden the scope to cover human powered transport and propulsion.
+
+---
+
+Two practical options
+- Include cycling in the same first‑order directory by broadening the canonical term to something like locomotion-and-propulsion or locomotion-plus; treat cycling as a sibling modality (cycling/) with its own protocols and measurement axes.  
+- Keep cycling separate as a parallel first‑order directory (e.g., cycling/ or propulsion/) if you want to preserve a strict gait/ambulatory taxonomy and avoid conflating weight‑bearing gait protocols with wheeled‑transport mechanics.
+
+---
+
+Recommendation (archive‑friendly)
+Use a single top level named locomotion only if you explicitly accept non‑gait propulsion modes. Prefer this minimal change: rename top level to locomotion-propulsion and add a controlled‑vocab entry for cycling (pushbike) so it appears in taxonomy, metadata, and crosswalks.
+
+---
+
+Minimal repo patch (thumbnail .md style; minimal, POSIX friendly)
+- Top level: locomotion-propulsion/  
+- Add controlled vocab line in locomotion-propulsion/controlled-vocab.tsv:
+  - cycling;pushbike;non-weight-bearing;wheeled-propulsion  
+- Example folder:
+  - locomotion-propulsion/01_modalities/cycling/README.md (scope, canonical-term: cycling)  
+  - locomotion-propulsion/01modalities/cycling/protocols/cycling-rucking-interopv1.0.md
+
+---
+
+Metadata tags to add for cycling entries
+- canonical-term: cycling  
+- tags: wheeled-propulsion;non-weight-bearing;power-duration;cadence;bike-fit  
+- measurements: FTP;cadence;power;speed;HR;GPS
+
+--- 
+
+Choose whether you prefer a single inclusive namespace or strict gait-only separation and I will convert the full taxonomy, metadata schema, and examples to that choice.
