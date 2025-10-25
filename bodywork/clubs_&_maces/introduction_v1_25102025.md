@@ -1,5 +1,7 @@
 # Bodywork with Clubs and Maces (etc.): An Introduction #
 
+PERSONAL NOTE: Being advanced in contemporary Poi providea an informed prior. Poi uses a largely comparable movement mapping to juggling clubwork.
+
 HISTORY OF CLUB TRAINING
 ANCIENT WAR WEAPON
 The club was a training tool thousands of years ago in ancient Persia, warriors trained with a club to build strong shoulders and a powerful grip required for swinging heavy weapons in war.
