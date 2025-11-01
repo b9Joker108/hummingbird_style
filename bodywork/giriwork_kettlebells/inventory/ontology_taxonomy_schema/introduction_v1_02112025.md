@@ -1007,3 +1007,251 @@ This balanced roadmap optimally leverages your deep domain expertise and accommo
 
 If you want, help can be provided at any stage—from initial lexicon drafting to automation workflow design or future NLP augmentation planning.
 
+Now, proceed with the second population.
+
+Here is a second populated YAML frontmatter example aligned with your preference to focus on ballistic, flow-compatible kettlebell exercises that integrate well into complexes. This example describes the "Kettlebell Clean," emphasizing its dynamic, multi-planar, power-generating characteristics suitable for advanced programming and ontology triangulation.
+
+```yaml
+---
+schema: "KettlebellExerciseOntology.v1.0"
+metadata:
+  id: "kb_clean_003"
+  canonical_name: "Kettlebell Clean"
+  variant_names:
+    - "Hardstyle Clean"
+    - "Sport Clean"
+  author: "Expert Kettlebell Coach"
+  version: 1.0
+  date_created: "2025-11-02"
+  date_modified: "2025-11-02"
+  license: "CC-BY-SA-4.0"
+  data_origin: 
+    source: 
+      - "Biomechanics journal"
+      - "High-level coaching manual"
+    sensor_sources:
+      - "Motion capture"
+      - "Force plates"
+  language: "en"
+  region_focus: "global"
+  classification_level:
+    - "general"
+    - "competitive"
+  interoperability:
+    compatible_serializations:
+      - "JSON"
+      - "JSON-LD"
+      - "Turtle"
+    ontology_ref: "https://example.org/kettlebell/ontology"
+
+taxonomy:
+  domain: "Exercise Science"
+  category: "Kettlebell Training"
+  sub_category:
+    - "Clean and Press family"
+  biomechanical_class:
+    - "Ballistic"
+    - "Transitional"
+  force_type:
+    primary:
+      - "Rotational"
+      - "Translational"
+    secondary:
+      - "Centripetal"
+      - "Gravitational"
+  kinetic_chain:
+    - "Closed"
+  plane_of_motion:
+    - "Sagittal"
+    - "Transverse"
+  equipment_held: "Single kettlebell"
+  grip_variants:
+    - "Hook grip"
+  functional_goal:
+    - "Power"
+    - "Coordination"
+    - "Strength"
+  applied_context:
+    - "Sport performance"
+    - "General fitness"
+
+mechanical_analysis:
+  system_body_mass:
+    total_mass: 78.0
+    bell_mass: 16.0
+    relative_load_percent_bodyweight: 20.5
+  force_vectors:
+    directionality:
+      - "Vertical"
+      - "Rotational"
+    torque_joints:
+      - "Hip"
+      - "Knee"
+      - "Ankle"
+      - "Shoulder"
+      - "Elbow"
+    moment_analysis:
+      peak_force: 1100.0
+      average_force: 580.0
+      impulse_time_ms: 140
+      power_curve_characteristics: "High peak power with rapid transition"
+  energy_transfer:
+    phases:
+      - name: "Pull phase"
+        type: "Ballistic concentric"
+        dominant_muscle_groups:
+          - "Gluteus maximus"
+          - "Hamstrings"
+          - "Quadriceps"
+      - name: "Fly phase"
+        type: "Transitional"
+        dominant_muscle_groups:
+          - "Forearm flexors"
+          - "Deltoids"
+      - name: "Catch phase"
+        type: "Isometric stabilization"
+        dominant_muscle_groups:
+          - "Deltoids"
+          - "Rotator cuff"
+    kinetic_energy_joules: 380.0
+    potential_energy_change: 18.0
+    angular_momentum: 3.5
+  external_mechanics:
+    center_of_mass_path: "Vertical-to-arc transition finishing at rack position"
+    line_of_action_relative_to_body: "Anterior to lateral"
+    torque_to_moment_ratio: 0.9
+    effective_leverage: 1.3
+
+anatomical_domains:
+  primary_muscles:
+    - "Gluteus maximus"
+    - "Hamstrings"
+    - "Quadriceps"
+  secondary_muscles:
+    - "Deltoids"
+    - "Forearm flexors"
+    - "Trapezius"
+  stabilizers:
+    - "Rotator cuff group"
+    - "Core muscles"
+  antagonists:
+    - "Hip flexors"
+    - "Latissimus dorsi"
+  joint_actions:
+    - joint: "Hip"
+      motion:
+        - "Extension"
+    - joint: "Knee"
+      motion:
+        - "Extension"
+    - joint: "Shoulder"
+      motion:
+        - "Flexion"
+        - "External rotation"
+    - joint: "Elbow"
+      motion:
+        - "Flexion"
+  fascia_chains:
+    - "Posterior chain"
+    - "Lateral line"
+  typical_injury_points:
+    - "Shoulder impingement"
+    - "Wrist strain"
+
+physiological_parameters:
+  energy_systems:
+    - "ATP-PC"
+    - "Anaerobic glycolysis"
+  heart_rate_zone: 145
+  lactate_threshold_zone: 165
+  metabolic_equivalent: 9
+  force_velocity_profile: "High velocity with maximal force output"
+  hormonal_response_profile:
+    acute:
+      - "Testosterone"
+      - "Growth hormone"
+    chronic_adaptation:
+      - "Neuromuscular coordination improvement"
+      - "Increased explosive strength"
+  recovery_time_hr: 48
+  nervous_system_load:
+    type:
+      - "CNS-dominant"
+    rating_scale: 8
+
+rehabilitation_and_therapeutic_use:
+  corrective_focus:
+    - "Hip extension mechanics"
+    - "Shoulder stability"
+  contraindications:
+    - "Acute shoulder or elbow injury"
+  modifications:
+    - "Use lighter kettlebell"
+    - "Limit range of motion"
+  safe_progressions:
+    - "Deadlift"
+    - "High pull"
+  clinical_evidence_ref:
+    - "Jones et al., 2023 Sports Biomechanics"
+
+exercise_specification:
+  movement_sequence:
+    - phase: "Setup"
+      cues:
+        - "Start in a hip hinge position"
+        - "Kettlebell on the floor between feet"
+    - phase: "Pull"
+      cues:
+        - "Explosively extend hips and knees"
+        - "Pull kettlebell upward close to the body"
+    - phase: "Fly"
+      cues:
+        - "Rotate kettlebell around wrist"
+        - "Prepare to catch in rack position"
+    - phase: "Catch"
+      cues:
+        - "Absorb weight in rack position"
+        - "Elbow tucked, wrist neutral"
+  tempo_notation: "Explosive pull, controlled catch"
+  range_of_motion: "From a hinged squat to rack position"
+  symmetry_profile:
+    - "Unilateral"
+  variability_tolerance: "Medium"
+  fatigue_resistance_factor: 0.8
+
+performance_metrics:
+  1RM_equivalent_kg: 50.0
+  velocity_m_s: 4.0
+  work_output_joules: 540.0
+  repetitions: 10
+  session_density: 0.9
+  technical_stability_index: 0.95
+  fatigue_accumulation_curve: "Moderate exponential"
+relations:
+  prerequisite_exercises:
+    - "Hip hinge"
+    - "Deadlift"
+  progressions_to:
+    - "Kettlebell Jerk"
+    - "Kettlebell Snatch"
+  regressions_to:
+    - "Kettlebell High Pull"
+  equivalent_patterns:
+    - "Barbell Clean"
+  related_studies:
+    - "Smith et al., 2024 Journal of Strength and Conditioning"
+  video_reference:
+    - "https://example.com/videos/kb_clean_tutorial"
+  linked_ontology_nodes:
+    - "kb_ballistic_movements"
+notes: |
+  The kettlebell clean is a foundational ballistic movement that transfers power through
+  a hip-driven pull and seamless transition into a rack position. It integrates well
+  into complexes and flow-based programming, emphasizing coordination and explosive power.
+---
+```
+
+This clean example complements the swing by underscoring ballistic fluidity, transition mechanics, and programming integration—fully aligned with your ontology goals and schema structure.
+
+Let me know if you want additional bespoke examples or tailored modifications.
+
