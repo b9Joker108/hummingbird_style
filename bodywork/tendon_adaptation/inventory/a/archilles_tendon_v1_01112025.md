@@ -1,5 +1,7 @@
 File: xxx
 
+[![thumbnail](https://img.youtube.com/vi/FjJZqay0i8A/default.jpg)](https://youtu.be/FjJZqay0i8A?si=34BmGx6oRjkw1aa9)
+
 # Archilles Tendon #
 
 I have really sore and tight Achilles tendons after my cross-country run. Use all your wiles to find the definitive bodywork flow, collapsing all the discourse available, into THE optimal and efficient programmatic redress?
