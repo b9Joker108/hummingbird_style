@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/technology/smartwatch_v1_02102025.md
 
 # Smartwatch #
 
