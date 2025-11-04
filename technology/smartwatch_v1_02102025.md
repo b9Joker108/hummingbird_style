@@ -1,3 +1,5 @@
+File: xxx
+
 # Smartwatch #
 
 Got it — let’s turn the expanded taxonomy into a structured, fill‑in‑ready form. This way you can take any smartwatch under investigation and populate it line by line, without collapsing categories or leaving ambiguity.  
