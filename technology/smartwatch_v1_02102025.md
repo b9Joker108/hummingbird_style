@@ -1480,3 +1480,35 @@ T-Rex 3 Ultra. GPS Smart Watch 10ATM Waterproof Built-in Dual-band GNSS Compass 
 
 
 
+The FOSS Android program for communicating with smart watches is Gadget Bridge. Survey and report
+
+* https://codeberg.org/Freeyourgadget/Gadgetbridge
+* https://gadgetbridge.org/
+
+Gadgetbridge is a free and open source Android application designed to connect and manage smartwatches, fitness bands, headphones, and various other gadgets without relying on their proprietary vendor apps. It provides privacy and autonomy by avoiding reliance on cloud services or Google Play Services, and it does not have network access, ensuring all data stays local on the device.
+
+Key features and highlights of Gadgetbridge include:
+- Support for managing notifications, fitness data, media controls, and daily activity metrics.
+- Device-specific settings allowing customization for each connected gadget.
+- Compatibility with a wide range of devices from many vendors, including Amazfit, Garmin, Xiaomi, Huawei, Fossil, Casio, and more.
+- Recent versions support over 400 gadget models, with around 229 fully supported devices and many more partially supported.
+- Official signed builds available through F-Droid, emphasizing open source and privacy.
+- Support for watches running on various OS platforms including partial support for Asteroid OS.
+- Ability to communicate with multiple devices simultaneously.
+- Frequent updates improving device support, workout tracking features, pairing flow, and data export capabilities.
+
+Gadgetbridge's appeal lies in its commitment to free software principles, offering users more control over their connected devices without the need for proprietary apps or cloud hooks, making it a popular choice for privacy-conscious users and enthusiasts of open source ecosystems.
+
+In summary, Gadgetbridge is a well-established, actively developed FOSS companion app for Android that supports a broad array of smartwatches and gadgets, emphasizing privacy, open standards, and user control over data and device features [1][2][3][4][5].
+
+Citations:
+[1] Making My Proprietary Watch FOSS (Using Gadgetbridge) https://www.youtube.com/watch?v=UlE5k71wfMo
+[2] Features https://gadgetbridge.org/basics/features/
+[3] Many new devices, improvements and official builds https://gadgetbridge.org/blog/release-0_87_00/
+[4] Gadgets https://gadgetbridge.org/gadgets/
+[5] Gadgetbridge https://gadgetbridge.org
+[6] More About the Colmi P80 | etbe - Russell Coker https://etbe.coker.com.au/2025/09/22/more-colmi-p80/
+[7] What is the best device? https://gadgetbridge.org/faq/best-device/
+[8] Frequently asked questions https://gadgetbridge.org/faq/
+[9] Gadgetbridge for Android https://www.espruino.com/Gadgetbridge
+[10] Wearables https://gadgetbridge.org/gadgets/wearables/
