@@ -3459,3 +3459,54 @@ Citations:
   Lifelog Data (VITAL) to Facilitate the Clinical Use of Wearable Data: A
   Prototype and Usability Evaluation http://arxiv.org/pdf/2501.14133.pdf
 [29] Mitigating data quality challenges in ambulatory wrist-worn wearable monitoring through analytical and practical approaches https://pmc.ncbi.nlm.nih.gov/articles/PMC11289092/
+
+
+
+mobile device cameras for 3D markerless movement analysis: survey and report all salience known
+
+Mobile device cameras used for 3D markerless movement analysis employ various technologies and approaches with several salient characteristics:
+
+### General Approaches and Technologies
+
+- **RGB and RGB-D Cameras:** Standard smartphone cameras capture RGB (color) video and often incorporate depth sensing using infrared or laser-based technology (e.g., iPhone TrueDepth, LiDAR sensors), or external depth cameras (e.g., Microsoft Azure Kinect). These sensors enable simultaneous capture of color and depth to reconstruct 3D movements without physical markers [3].
+
+- **AI and Neural Networks:** AI-driven computer vision algorithms, often deep neural networks trained on large datasets, detect and track anatomical keypoints in 2D, then reconstruct 3D poses via models using inverse kinematics, rigid-body tracking, and biomechanics-informed constraints [1][4].
+
+- **Single vs Multiple Camera Systems:** Markerless systems vary; some use multiple synchronized cameras to improve accuracy and handle occlusion, while newer solutions explore single-camera setups with advanced AI to approximate 3D poses from monocular video [2][5][6].
+
+### Key Systems and Evaluations
+
+- **Theia Markerless:** Uses multiple cameras and an AI pipeline to generate highly accurate biomechanical models. It builds skeletal models, applies inverse kinematics, and tracks segment rotations for research-grade accuracy. Automated workflows reduce manual processing [1][4].
+
+- **Portable Single-Camera Systems:** Research validates systems using a single RGB camera combined with AI algorithms to capture joint range of motion and generate 3D avatars in real time for clinical or sports assessment. These systems balance portability and performance but may have limits on accuracy compared to multi-camera setups [2][5].
+
+- **Depth Camera-Based Solutions:** RGB-D cameras combine depth sensing with RGB data, providing 3D point clouds without markers. The accuracy depends on depth sensor quality and camera placement during capture, with positioning impacting gait and joint angle measurements [3].
+
+### Salient Considerations
+
+- **Accuracy:** Multi-camera and depth-camera systems generally provide higher accuracy compared to single RGB camera solutions. However, advances in AI/ML are narrowing this gap [1][5].
+
+- **Environmental Constraints:** Lighting, occlusion, clothing, background, and camera positioning critically impact data quality [3].
+
+- **Use Cases:** Markerless motion capture is extensively used in sports science, rehabilitation, ergonomic assessment, and biomechanics research [1][4][5].
+
+- **Processing Pipelines:** Often involve video capture, pose estimation, skeletal modeling, kinematic analysis, and data export for visualization and reporting [1][4].
+
+***
+
+This survey encapsulates key technical and application aspects of mobile camera-based 3D markerless movement analysis, revealing a field blending AI-driven computer vision, multi-sensor fusion, and biomechanics for practical, non-invasive movement capture [1][2][3][4][5]. If you require, the specifics about any named system or technology stack can be expanded.
+
+Citations:
+[1] Theia Markerless | Accurate 3D Biomechanical Analysis https://freedspace.com.au/products/tracklab/theia-markerless/
+[2] Reliability and Concurrent Validity of a Markerless, Single ... https://ijspt.scholasticahq.com/article/88003-reliability-and-concurrent-validity-of-a-markerless-single-camera-portable-3d-motion-capture-system-for-assessment-of-glenohumeral-mobility
+[3] Markerless Motion Analysis Using New Digital Technology https://pmc.ncbi.nlm.nih.gov/articles/PMC12445361/
+[4] Theia | Markerless Motion Capture https://www.theiamarkerless.com
+[5] Orthopaedic Or... https://pmc.ncbi.nlm.nih.gov/articles/PMC9148557/
+[6] Exploring the Validity of Smartphone Based Single Camera ... https://www.sciencedirect.com/science/article/pii/S0031940625003888
+[7] HumanTrak | Movement analysis system https://valdperformance.com/products/humantrak
+[8] AI‐smartphone markerless motion capturing of hip, knee ... https://onlinelibrary.wiley.com/doi/full/10.1002%2Fejsc.12186
+[9] Markerless Technology and Real-Time Analysis of Motion ... https://impactmagazine.ca/news-and-views/its-time-to-get-the-full-picture-of-your-motion-health/
+[10] Move AI https://www.move.ai
+
+
+
