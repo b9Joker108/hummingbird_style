@@ -1,4 +1,6 @@
-File: ...
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/r/rate_coded_strength_v1_09112025.md
+
+# Rate-Coded Strength #
 
 In Neuroscience discourse, "rate-coded strength" (or rate coding/frequency coding), refers to the mechanism by which the intensity of a stimulus or the magnitude of a motor command is encoded by the frequency (rate) of action potentials (nerve impulses) fired by a neuron. 
 
