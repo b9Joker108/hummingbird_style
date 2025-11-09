@@ -1,6 +1,6 @@
 File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/s/sixfold_virtues_v1_10112025.md
 
-The Vivekachudamani (Sanskrit: विवेकचूडामणि, romanized: vivekacūḍāmaṇi, lit. 'Crest-jewel of discernment') shloka 19:
+The [Sri Vivekachudamani](https://en.wikipedia.org/w/index.php?title=Vivekac%C5%AB%E1%B8%8D%C4%81ma%E1%B9%87i&oldid=1307717643) (Sanskrit: विवेकचूडामणि, romanized: vivekacūḍāmaṇi, lit. 'Crest-jewel of discernment') shloka 19:
 
 ```
 आदौ नित्यानित्यवस्तुविवेकः परिगम्यते ।
