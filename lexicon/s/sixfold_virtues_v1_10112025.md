@@ -2,13 +2,18 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/s/sixfol
 
 The Vivekachudamani (Sanskrit: विवेकचूडामणि, romanized: vivekacūḍāmaṇi, lit. 'Crest-jewel of discernment') shloka 19:
 
+```
 आदौ नित्यानित्यवस्तुविवेकः परिगम्यते ।
 इहामुत्रफलभोगविरागस्तदनन्तरम्
 शमादिषट्कसम्पत्तिर्मुमुक्षुत्वमिति स्फुटम् ॥ १९ ॥
+```
 
+```
 ādau nityānityavastuvivekaḥ parigamyate |
 ihāmutraphalabhogavirāgastadanantaram
 śamādiṣaṭkasampattirmumukṣutvamiti sphuṭam || 19 ||
+```
+
 
 19. First is enumerated discrimination between the Real and the unreal; next comes aversion to the enjoyment of fruits (of one’s actions) here and hereafter; (next is) the group of six attributes, viz. calmness and the rest; and (last) is clearly the yearning for Liberation.
 
