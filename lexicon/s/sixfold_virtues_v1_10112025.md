@@ -1,5 +1,21 @@
 File: xxx
 
+The Vivekachudamani (Sanskrit: विवेकचूडामणि, romanized: vivekacūḍāmaṇi, lit. 'Crest-jewel of discernment') shloka 19:
+
+आदौ नित्यानित्यवस्तुविवेकः परिगम्यते ।
+इहामुत्रफलभोगविरागस्तदनन्तरम्
+शमादिषट्कसम्पत्तिर्मुमुक्षुत्वमिति स्फुटम् ॥ १९ ॥
+
+ādau nityānityavastuvivekaḥ parigamyate |
+ihāmutraphalabhogavirāgastadanantaram
+śamādiṣaṭkasampattirmumukṣutvamiti sphuṭam || 19 ||
+
+19. First is enumerated discrimination between the Real and the unreal; next comes aversion to the enjoyment of fruits (of one’s actions) here and hereafter; (next is) the group of six attributes, viz. calmness and the rest; and (last) is clearly the yearning for Liberation.
+
+This verse is the first attestation of the ṣaṭkasampatti, which may be contracted to ṣaṭsampat or ṣaṭsampad.
+
+https://sanskrit.inria.fr/cgi-bin/SKT/sktdeclin.cgi?q=.sa.tsampad;g=Fem;font=roma
+
 Please triangulate the historicity and spatio-temporal development of: shat-sampat (six treasures of virtue).
 
 Shat-sampat, the "six treasures of virtue," is a classical grouping in Advaita Vedānta and is foundational to the soteriological program articulated in Jñāna Yoga and the Sādhana Chatuṣṭaya (the Four Pillars or Requisites for Knowledge)[1][2][3]. Its historicity is deeply entwined with the development of early Indian philosophical traditions, particularly those related to renunciation and mental discipline, and its spatio-temporal spread reflects the diffusion of Vedānta ideas across sub-regions of South Asia from the late first millennium CE[1][2]. 
