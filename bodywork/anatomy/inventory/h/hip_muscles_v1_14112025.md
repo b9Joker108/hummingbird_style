@@ -17,3 +17,8 @@ The main hip muscles include the gluteals (maximus, medius and minimus), the ili
 * **Lateral Rotation (rotating the thigh outward):** The gluteus maximus, piriformis and obturators (obturator internus and externus) are the primary muscles.
 
 * **Medial Rotation (rotating the thigh inward):** The anterior fibers of the gluteus medius and minimus, along with the tensor fasciae latae, are the primary muscles.
+
+# References #
+
+* https://teachmeanatomy.info/lower-limb/joints/hip-joint/ (accessed: Friday, November 14, 2025)
+
