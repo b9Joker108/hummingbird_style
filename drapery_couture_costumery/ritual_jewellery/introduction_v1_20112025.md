@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/drapery_couture_costumery/ritual_jewellery/introduction_v1_20112025.md
 
 # Mystical, Ritual and Magico-intentional Jewellery: An Introduction #
 
