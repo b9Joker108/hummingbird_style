@@ -2,6 +2,8 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/drapery_couture_
 
 [![Inset Video](https://img.youtube.com/vi/1b3D1W7E2rI/hqdefault.jpg)](https://youtu.be/1b3D1W7E2rI?si=Ad-_QC3qkZ4BYL8e)
 
+Deixis: https://en.wikipedia.org/w/index.php?title=The_Use_of_Ashes&oldid=1309294358
+
 # Mystical, Ritual and Magico-intentional Jewellery: An Introduction #
 
 [![Pinned Image](https://i.pinimg.com/1200x/19/4c/c8/194cc8b3174f121b96bbcfc9c906d4bb.jpg)](https://pin.it/2AatnMRRX)
