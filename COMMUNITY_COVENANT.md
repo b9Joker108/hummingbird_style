@@ -3,14 +3,16 @@ title: "Community Covenant: Cultural Charter and Contribution Policy"
 status: "draft"
 Quality_Control:
   level: "internal-review"
-  reviewer: "Repository Architect"
+  reviewer: "Repository Architect & Code Review"
   date: "2025-11-20"
   checks:
     - "Alignment with repository philosophy and existing governance documents"
     - "DEIB strategy integration and comprehensiveness"
     - "AI agent and human contributor standards articulated"
     - "Cross-references to DISCLAIMER, VERSIONING_&_QUALITY_CONTROL, and LICENSE verified"
-  notes: "First draft establishing cultural foundation and contribution standards for all stakeholders."
+    - "Code review feedback addressed: clarified planned resources and established functional reporting mechanisms"
+    - "Placeholders replaced with actionable guidance and clear development roadmap"
+  notes: "First draft establishing cultural foundation and contribution standards for all stakeholders. Resources section provides immediate guidance while acknowledging future development plans. Reporting mechanisms are functional using GitHub infrastructure."
 ---
 
 <div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
@@ -379,9 +381,9 @@ Conflicts and violations are addressed through:
 ### 6.2 Reporting Mechanisms
 
 **Internal Reporting**
-- Repository issues or pull requests for public, non-sensitive concerns
-- Direct communication with repository maintainers for sensitive matters
-- Email to designated conduct address (to be established) for confidential reports
+- **Public concerns**: Use GitHub Issues for non-sensitive questions, suggestions, or observations about conduct
+- **Sensitive matters**: Contact repository maintainer(s) directly via GitHub direct message or through the GitHub account associated with this repository
+- **Confidential reports**: For serious violations requiring confidentiality, open a GitHub Issue titled "CONFIDENTIAL CONDUCT CONCERN" with minimal public detail, and the maintainer will contact you privately to receive the full report. Alternatively, if you prefer not to use GitHub, contact options are listed in the repository maintainer's GitHub profile.
 
 **Reporter Protections**
 - Confidentiality maintained to extent possible
@@ -558,20 +560,23 @@ Conflicts and violations are addressed through:
 
 ### 9.1 Educational Materials
 
+**Note:** This section identifies planned resources to support community members. Resources marked as "Planned" are under development; timelines will be established based on community needs and maintainer capacity. Until dedicated resources are available, contributors should reference this Community Covenant and existing governance documents.
+
 **For New Contributors**
-- Onboarding guide: [TO BE CREATED]
-- YAML frontmatter templates in [VERSIONING_&_QUALITY_CONTROL.md](./VERSIONING_&_QUALITY_CONTROL.md)
-- Style guide and terminology glossary: [TO BE CREATED]
+- YAML frontmatter templates: Available in [VERSIONING_&_QUALITY_CONTROL.md](./VERSIONING_&_QUALITY_CONTROL.md)
+- Onboarding guide: *Planned - will include contribution workflow, quality standards, and cultural expectations*
+- Style guide and terminology glossary: *Planned - will establish linguistic and formatting conventions*
 
 **For Peer Reviewers**
-- Review criteria checklist: [TO BE CREATED]
-- Cultural sensitivity guidelines: [TO BE CREATED]
-- Technical accuracy verification resources: [TO BE CREATED]
+- Review criteria: Apply standards from Section IV (Contribution Standards) and [VERSIONING_&_QUALITY_CONTROL.md](./VERSIONING_&_QUALITY_CONTROL.md)
+- Review criteria checklist: *Planned - will provide structured evaluation framework*
+- Cultural sensitivity guidelines: *Planned - will detail considerations for traditional knowledge and diverse epistemic frameworks*
+- Technical accuracy verification: Use primary sources, cross-reference established texts, consult domain experts
 
 **For AI Tool Users**
-- Ethical AI prompt engineering guide: [TO BE CREATED]
-- Disclosure templates for AI-assisted work: [TO BE CREATED]
-- Verification protocols for AI-generated content: [TO BE CREATED]
+- Disclosure requirement: State AI tool name and role in Quality_Control frontmatter
+- Ethical AI prompt engineering guide: *Planned - will provide templates and best practices*
+- Verification protocols: Human reviewers must verify all AI-generated factual claims, cultural references, and citations against primary sources
 
 ### 9.2 Communication Channels
 
@@ -580,10 +585,10 @@ Conflicts and violations are addressed through:
 - Pull Requests for content contributions and reviews
 - Discussions feature for community dialogue
 
-**External (To Be Established)**
-- Email address for conduct concerns and confidential matters
-- Chat/forum for real-time community interaction (if demand warrants)
-- Newsletter or blog for announcements and updates
+**External Communication (Evolving with Community)**
+- Dedicated email for conduct concerns: *Will be established if community growth warrants it*
+- Real-time chat/forum: *Will be established based on community demand and maintainer capacity*
+- Newsletter or blog: Repository announcements currently via GitHub Releases; dedicated communication channels may be added as needed
 
 ### 9.3 Accessibility Support
 
