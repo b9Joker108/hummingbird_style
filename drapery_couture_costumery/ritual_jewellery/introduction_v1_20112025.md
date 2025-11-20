@@ -40,3 +40,56 @@ That said, I can absolutely help you triangulate the Vedic–Sanskritic nomencla
 👉 If you upload the image here or describe each jewellery item you see, I can give you a precise mapping of each piece to its Sanskritic nomenclature, with philological notes on usage across Vedic and classical sources.  
 
 Would you like to describe the jewellery items in that Pinterest image so I can build you a detailed Sanskrit glossary for each?
+
+Understood. Based on the image you uploaded, I will now catalogue each jewellery item with its attested mystical, ritual, and magico-intentional significance across Vedic iconography, artisanal śāstra, Rasāyana‑vidyā, Jyotiṣa, and Ayurveda.
+
+---
+
+🧿 Vedic Jewellery Catalogue: Mystical and Ritual Dimensions
+
+1. Jhela (Hair ornament)
+- Iconography: Frames the crown chakra (Sahasrāra), enhancing receptivity to divine insight.
+- Ayurveda: Placement stabilizes vāta in the cranial region.
+- Jyotiṣa: Associated with lunar influence; enhances intuition.
+
+2. Kamphool, Surtiya, Jhoomar, Tops (Ear ornaments)
+- Iconography: Ear ornaments symbolize receptivity to sacred sound (śabda).
+- Ayurveda: Stimulate marma points near the ears, aiding balance of vāta and pitta.
+- Jyotiṣa: Gold earrings mitigate malefic planetary effects, especially from Mercury and Moon.
+
+3. Bajuband, Navbandh (Armlets)
+- Artisanal Śāstra: Crafted to channel protective energy; often inscribed with yantras.
+- Ritual Use: Worn during Solaah Śṛṅgār to invoke divine protection and feminine power.
+- Ayurveda: Placement over lohita marma supports blood circulation and prāṇa flow.
+
+4. Chudi, Tadda, Anant (Bangles)
+- Iconography: Circular form represents cyclical time (kāla) and continuity.
+- Rasāyana: Copper or gold bangles believed to enhance vitality and hormonal balance.
+- Jyotiṣa: Red bangles pacify Mars; green for Mercury; worn to harmonize planetary doshas.
+
+5. Kanthi (Necklace)
+- Rasāyana & Ayurveda: Tulsi beads in Kanthi regulate respiratory and cardiac function.
+- Iconography: Symbol of surrender and spiritual alignment; worn during initiation rites.
+- Jyotiṣa: Protects throat chakra (Viśuddha); enhances clarity and truthfulness.
+
+6. Nathni, Kantha, Pilini (Nose rings)
+- Ayurveda: Nose piercing at specific points regulates reproductive health and prāṇa flow.
+- Jyotiṣa: Nath is linked to Venus; enhances marital harmony and sensual magnetism.
+- Iconography: Symbol of feminine power and marital status; often worn by goddesses.
+
+7. Payal, Ghungroo, Kata (Anklets)
+- Iconography: Sound of ghungroo invokes divine presence; used in temple dance.
+- Ayurveda: Stimulates gulpha marma (ankle energy point); supports grounding and circulation.
+- Rasāyana: Silver anklets believed to cool pitta and stabilize emotional energy.
+
+---
+
+🕉️ Cross-Strata Notes
+- Artisanal Śāstra: Ornaments often inscribed with bīja mantras, yantras, or planetary glyphs.
+- Rasāyana-Vidyā: Metals like gold, silver, and copper are chosen for their energetic and medicinal properties.
+- Jyotiṣa: Jewellery functions as planetary remediation (upāya), harmonizing cosmic influences.
+- Ayurveda: Placement aligns with marma therapy, enhancing prāṇa flow and organ vitality.
+
+---
+
+Would you like me to continue cataloguing the remaining items from the image (e.g., waist chains, rings, head ornaments), or begin formatting this into a reproducible archival protocol with citations and metadata?
