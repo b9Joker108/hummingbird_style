@@ -995,3 +995,66 @@ For targeted and triangulated readings on the ontological domain of Vedic era or
 
 This triangulated approach blends philological rigor, ritual praxis, and cross-disciplinary scholarship to articulate a nuanced ontological understanding of Vedic ornaments as ritual-technological entities that embody cosmic, corporeal, and social orders deeply embedded in Sanskritic worldview and practice.
 
+
+Encyclopedias of traditional Indic jewellery and personal ornamentation?
+
+For comprehensive encyclopedic references on traditional Indic jewelry and personal ornamentation, the following key works and resources serve as authoritative and richly detailed sources:
+
+***
+
+### Encyclopedias and Definitive References on Traditional Indian Jewelry
+
+1. **"Traditional Jewelry of India" by Oppi Untracht**  
+   - This seminal work draws on over 35 years of research, surveying the major Indian jewelry forms, techniques, cultural meanings, and socio-religious contexts. With nearly 900 illustrations, it covers everything from regal adornments to tribal jewelry, illuminating ritual, symbolic, and technical aspects in depth [2].
+
+2. **Encyclopedic Entries on Indian Jewelry in Encyclopædia Britannica**  
+   - Offers extensive historical and stylistic overview highlighting craftsmanship, use of precious metals, gems, regional variations, and ritual significance. It discusses the evolution from ancient times, archaeological finds, to the richness of Mughal and later styles [1].
+
+3. **"Indian Jewellery, Ornaments and Decorative Designs" (Archive.org)**  
+   - A classic treatise showcasing detailed classifications, illustrations, and descriptions of Indian jewelry types. It is invaluable for cross-referencing traditional terms suited for scholarly and practical usages [7].
+
+4. **Scholarly Articles and Online Encyclopedias (e.g., on Indian jewelry terms, motifs, and regional styles)**  
+   - These provide more granular detail on terminology, jewelry functions, and construction methods in specific cultural and ritual contexts. Examples include detailed regional nomenclature and ornamentation subtleties [3][10].
+
+***
+
+### Supplementary Scholarly Resources
+
+- Academic papers and books addressing the ritual, iconographic, and energetic functions of jewelry within Vedic and post-Vedic contexts complement the encyclopedic knowledge for a holistic view.
+- Museum collections and catalogues (e.g., works by Annie Marion Rivett-Carnac) serve as archives for traditional pieces and historical context [17].
+
+***
+
+### Summary
+
+To understand traditional Indic jewelry from both a practical and ontological perspective, **Oppi Untracht’s "Traditional Jewelry of India"** is the definitive starting point, combined with the broad historical and material overview in the **Britannica entry on Indian jewelry**. Complementing these with archival texts such as the illustrated classic "Indian Jewellery, Ornaments and Decorative Designs" and specialist regional terminology guides provides a robust encyclopedic foundation for research or practical study.
+
+This combination offers exhaustive coverage of ornament types, materials, symbolic functions, ritual meanings, and regional diversity essential for deep engagement with traditional Indic personal adornment [1][2][3][7][10][17].
+
+***
+
+If needed, access or acquisition advice for these texts can be provided, as well as guidance on how to integrate their knowledge into your cataloguing or research.
+
+Citations:
+[1] Jewelry - Indian Craftsmanship, Precious Metals, Gems https://www.britannica.com/art/jewelry/Indian
+[2] Traditional Jewelry of India - Oppi Untracht https://books.google.com/books/about/Traditional_Jewelry_of_India.html?id=D1ZQAAAAMAAJ
+[3] Indian Jewelry Encyclopedia: All Adornments Have Individual ... https://laurainrajasthan.wordpress.com/2018/10/08/indian-jewelry-encyclopedia-all-adornments-have-individual-names/
+[4] Main Facts On Indian Jewelry http://ijeais.org/wp-content/uploads/2021/2/IJAPR210228.pdf
+[5] Traditional Indian Jewellery https://indianetzone.wordpress.com/2019/11/08/traditional-indian-jewellery/
+[6] Vintage Indian Jewelry Ebook: 1909 Illustrated Guide (PDF) https://www.etsy.com/au/listing/950718642/vintage-indian-jewelry-ebook-1909
+[7] Indian Jewellery Ornaments And Decorative Designs https://ia802906.us.archive.org/22/items/in.ernet.dli.2015.128500/2015.128500.Indian-Jewellery-Ornaments-And-Decorative-Designs_text.pdf
+[8] Encyclopedia of Native American Jewelry: A Guide to History ... https://books.google.com.au/books/about/Encyclopedia_of_Native_American_Jewelry.html?id=DvdOAAAAMAAJ
+[9] Centuries of Opulence: Jewels of India https://www.gia.edu/jewels-of-india
+[10] Earrings Encyclopedia: Variety in Indian Earring Designs https://www.caratlane.com/blog/earrings-encyclopedia-discover-the-variety-in-indian-earring-designs/
+[11] Encyclopedia of Native American Jewelry:... https://www.thriftbooks.com/w/encyclopedia-of-native-american-jewelry-a-guide-to-history-people-and-terms_allison-bird-romero/9794514/
+[12] Sage Reference - Encyclopedia of Anthropology - Jewelry https://sk.sagepub.com/ency/edvol/anthropology/chpt/jewelry
+[13] Bidriware: An examination of the Indian metalware’s origins https://www.tandfonline.com/doi/pdf/10.1080/23311983.2023.2221886?needAccess=true&role=button
+[14] Metallurgical investigations of Indo-Sasanian Copper-Silver alloy coins of Gurjara-Pratiharas dynasty https://metall-mater-eng.com/index.php/home/article/download/524/390
+[15] Indian Epigraphy: A Guide to the Study of Inscriptions in Sanskrit, Prakrit, and the other Indo-Aryan Languages https://zenodo.org/record/3524126/files/Salomon%201998.pdf
+[16] INDIGENOUS HERITAGE OF TRADITIONAL EMBROIDERY PRACTICED BY MEGHWAL COMMUNITY https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/591/614
+[17] The Field Collector, Ethnographer, and Scholarly Networker: Annie Marion Rivett-Carnac and her Collection of Indian Jewellery https://journals.sagepub.com/doi/pdf/10.1177/15501906241233813
+[18] Art. VI.—Notes on Indian Coins and Seals. Part IV. Indian Seals and Clay Impressions https://zenodo.org/record/1912703/files/article.pdf
+[19] SUSTAINING THE CULTURAL HERITAGE: HANDLOOMS IN HIMACHAL PRADESH https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/573/684
+[20] Art. VI.—The Initial Coinage of Bengal https://zenodo.org/record/1924377/files/article.pdf
+
+
