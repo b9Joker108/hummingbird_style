@@ -1788,3 +1788,75 @@ This firmly anchors every statement to primary textual and academic sources, pro
 
 Citations:
 [1] 1002638144.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/4428017/aaf7f113-b374-41cb-b2e7-5c36412c8f44/1002638144.jpg
+
+
+Now in the Vaikhanasa, Pancharatra and the many Vaishnava tradition: re: jewellery of men, women and deities and deity worship
+
+The Vaikhanasa, Pancharatra, and broader Vaishnava traditions articulate highly structured roles for jewellery in deity worship and in the adornment of both men and women—each with explicit ritual, spiritual, and social meanings, deeply embedded in textual sources and temple practice.
+
+***
+
+### Vaikhanasa Tradition
+
+**Sources:** [1][2][3][4][5]
+
+- **Deity Jewellery:**  
+  - The *Vaikhanasa Agama* and associated manuals specify elaborate adornment of Vishnu and his avatars with crowns, necklaces, earrings, armlets, anklets, rings, and waistbands, often crafted of gold, gems, and silver. The main icon (dhruva-bera) and processional utsava-murti both receive multi-layered jewellery as a core part of daily and festival *archana* (ritual offering)[1][2][5].
+  - Each item is not merely decorative but signifies cosmic attributes: crowns (kiritas) represent supreme sovereignty, armlets (keyuras) strength, necklaces (hara and mala) wisdom and immortality, and rings marital and planetary harmonization[1][3].
+- **Men’s and Women’s Jewellery:**  
+  - Ritual guides indicate that male priests wear the tulasi-mala (sacred basil necklace), rings, and sometimes earrings or gold armlets—marking ritual purity and participation in deity service.
+  - Women, especially in festival or temple contexts, may wear elaborate jewellery reflecting goddess iconography—bangles, nose rings, earrings, mangalsutra, and toe rings—seen as embodying Lakshmi/Sri and often worn in marital, celebratory, or vow-making settings[6][3].
+
+***
+
+### Pancharatra (and Other Vaishnava) Traditions
+
+**Sources:** [7][8][3][5]
+
+- **Ritual Function:**  
+  - Pancharatra texts harmonize earlier Vedic, Agamic, and mythic models, prescribing that deities and icons (male or female) be ritually adorned at every major step of worship, including abhisheka (bathing), alankara (adornment), and utsava (procession)[7][8].
+  - Jewellery is affixed in set sequences, each accompanied by mantras, and the materials (gold, jewels, conch, coral) are aligned with specific planetary, protective, and dharmic energies.
+- **Identity, Transmission, and Blessing:**  
+  - Tulasi beads and other sacred ornaments are worn by both male and female Vaishnava initiates to signal devotional identity, protection, and lineage[6].
+  - The gifting and wearing of rings (e.g., Rama’s ring given to Sita in the Ramayana, as retold in Vaishnava literature) play key roles as tokens of divine love, authority, and identification—these narratives shape both temple ritual and personal Vaishnava practice[6].
+
+***
+
+### Deity and Devotee Jewellery: Function and Symbolism
+
+| Context             | Jewellery Items         | Symbolic & Ritual Function                                          | Sources         |
+|---------------------|------------------------|---------------------------------------------------------------------|-----------------|
+| Vaikhanasa Deity    | Crown, necklets, rings, armlets, anklets, waistbands | Manifest divinity, immortality, order, and divine powers               | [1][3][5] |
+| Vaikhanasa Men      | Tulasi-mala, gold/silver rings, earrings        | Ritual purity, lineage, participation in deity worship                | [1]      |
+| Vaikhanasa Women    | Bangles, mangalsutra, toe rings, earrings      | Marital auspiciousness, alignment with Sri-Lakshmi, vow rituals       | [6][3]|
+| Pancharatra Deity   | Crowns, multi-strand malas, jewel-incrusted rings | Alankara for cosmic powers, divine beauty, ritual efficacy             | [7][8]|
+| Pancharatra Devotees| Tulasi beads, sacred rings                     | Lineage protection, spiritual status, devotional vow                  | [6][5]|
+
+***
+
+### Academic and Scriptural Notes
+
+- Vaikhanasa sources (*Vaikhanasa Agama*, *Bhagava archa-shastra*) emphasize that “icon worship, with devotion and ornamentation, is the best form of surrender, as beauty captivates the mind in devotion”[7][2].
+- Prakrit and Sanskrit poetry (see Devanāyaka’s “An Ornament for Jewels”) describe the Lord’s body as perfect, further perfected by jewels that themselves seek his radiance—reversing the idea of mere human enrichment[9].
+- Vaishnava Sahajiya, Sri Vaishnava, and Pancharatra literature all document rings, necklaces, and other adoration not just as symbols but as carriers of mantric, protective, and marital energy[10].
+
+***
+
+**In summary:**  
+Jewellery for deities, men, and women in Vaikhanasa, Pancharatra, and many Vaishnava traditions is a non-trivial part of temple, ritual, and social order. Each piece is encoded with richly layered spiritual, protective, and identity-building functions, grounded in Sanskrit and vernacular sources, detailed Agamic manuals, and living temple ritual[1][7][8][2][3][4][5].
+
+Citations:
+[1] Vaikhanasa Agama | PDF | Vaishnavism | Vishnu https://www.scribd.com/doc/175714467/Vaikhanasa-Agama
+[2] Vaikhanasa Agama (वैखानस-आगमः) https://dharmawiki.org/index.php/Vaikhanasa_Agama_(%E0%A4%B5%E0%A5%88%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%B8-%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%83)
+[3] Yearly Archives: 2012 https://sreenivasaraos.com/2012/
+[4] What is Vaikhanasa Agama? - Definition from Yogapedia https://www.yogapedia.com/definition/9476/vaikhanasa-agama
+[5] Vaikhanasa https://en.wikipedia.org/wiki/Vaikhanasa
+[6] Women and Jewelry - The Spiritual Dimensions of ... https://www.exoticindiaart.com/article/jewelry/
+[7] Agama Shastra And Temple Worship https://www.srbm.co.za/wp-content/uploads/2018/10/427-GI-Agama-Shastra-and-Temple-Worship-25-06-2013.pdf
+[8] Pancharatra and Vaikhanasa: Are they really significantly ... https://goldcoasthindu.wordpress.com/2020/04/05/pancharatra-and-vaikhanasa-are-they-really-significantly-different/
+[9] An Ornament for Jewels: Seeing the Body of Devanāyaka in ... https://academic.oup.com/book/12790/chapter/162974851
+[10] A 17th-Century Vaiṣṇava Sahajiyā Text on Ritual Sexual ... https://www.academia.edu/11496357/The_Necklace_of_Immortality_A_17th_Century_Vai%E1%B9%A3%E1%B9%87ava_Sahajiy%C4%81_Text_on_Ritual_Sexual_Intercourse_and_the_Transformations_of_the_Body
+[11] 1002638144.jpg https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/4428017/aaf7f113-b374-41cb-b2e7-5c36412c8f44/1002638144.jpg
+
+
+
