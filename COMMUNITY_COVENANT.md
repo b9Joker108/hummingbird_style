@@ -3,16 +3,19 @@ title: "Community Covenant: Cultural Charter and Contribution Policy"
 status: "draft"
 Quality_Control:
   level: "internal-review"
-  reviewer: "Repository Architect & Code Review"
+  reviewer: "Repository Architect & Code Review (2 iterations)"
   date: "2025-11-20"
   checks:
     - "Alignment with repository philosophy and existing governance documents"
     - "DEIB strategy integration and comprehensiveness"
     - "AI agent and human contributor standards articulated"
-    - "Cross-references to DISCLAIMER, VERSIONING_&_QUALITY_CONTROL, and LICENSE verified"
+    - "Cross-references to DISCLAIMER, VERSIONING_&_QUALITY_CONTROL, and LICENSE verified and corrected"
     - "Code review feedback addressed: clarified planned resources and established functional reporting mechanisms"
     - "Placeholders replaced with actionable guidance and clear development roadmap"
-  notes: "First draft establishing cultural foundation and contribution standards for all stakeholders. Resources section provides immediate guidance while acknowledging future development plans. Reporting mechanisms are functional using GitHub infrastructure."
+    - "Confidential reporting mechanism improved for genuine privacy"
+    - "Transliteration reference clarified as verification rather than standards"
+    - "AI collaboration terminology future-proofed"
+  notes: "First draft establishing cultural foundation and contribution standards for all stakeholders. Resources section provides immediate guidance while acknowledging future development plans. Reporting mechanisms are functional using GitHub infrastructure with genuine privacy options."
 ---
 
 <div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
@@ -28,9 +31,9 @@ This **Community Covenant** serves as the cultural constitution of the **humming
 We recognize that knowledge transmission is a sacred act requiring transparency, mutual respect, and accountability across the entire 360-degree purview of this repository's lifecycle: from ideation and authorship through publication, usage, and archival stewardship.
 
 This document subsumes and extends:
-- The repository's [Statement of Disclaimer](./DISCLAIMER.md)
-- [Versioning and Quality Control](./VERSIONING_&_QUALITY_CONTROL.md) standards
-- The [GNU General Public License v3](./LICENSE)
+- The repository's [DISCLAIMER](./DISCLAIMER.md) (Statement of Disclaimer)
+- [VERSIONING_&_QUALITY_CONTROL](./VERSIONING_&_QUALITY_CONTROL.md) standards
+- The [LICENSE](./LICENSE) (GNU General Public License v3)
 - Diversity, Equity, Inclusion, and Belonging (DEIB) commitments
 - Standards for human and AI-agent collaboration
 
@@ -86,7 +89,7 @@ This repository celebrates and actively seeks diversity across:
 **Cultural and Geographic Dimensions**
 - Traditions from all continents, cultures, and wisdom lineages
 - Indigenous knowledge systems and their contemporary custodians
-- Multilingual documentation with transliteration standards per [VERSIONING_&_QUALITY_CONTROL.md](./VERSIONING_&_QUALITY_CONTROL.md)
+- Multilingual documentation with transliteration verification per [VERSIONING_&_QUALITY_CONTROL.md](./VERSIONING_&_QUALITY_CONTROL.md) quality checks
 
 **Epistemological Plurality**
 - Scientific, empirical, phenomenological, and contemplative methodologies
@@ -383,7 +386,7 @@ Conflicts and violations are addressed through:
 **Internal Reporting**
 - **Public concerns**: Use GitHub Issues for non-sensitive questions, suggestions, or observations about conduct
 - **Sensitive matters**: Contact repository maintainer(s) directly via GitHub direct message or through the GitHub account associated with this repository
-- **Confidential reports**: For serious violations requiring confidentiality, open a GitHub Issue titled "CONFIDENTIAL CONDUCT CONCERN" with minimal public detail, and the maintainer will contact you privately to receive the full report. Alternatively, if you prefer not to use GitHub, contact options are listed in the repository maintainer's GitHub profile.
+- **Confidential reports**: Contact the repository maintainer directly via the contact information in their GitHub profile (available by clicking their username). For maximum privacy, use email or direct message outside of public GitHub spaces. If a private channel outside GitHub is not accessible to you, you may open a GitHub Issue titled "Request for Private Communication - Conduct Matter" without revealing details, and the maintainer will initiate private contact.
 
 **Reporter Protections**
 - Confidentiality maintained to extent possible
@@ -575,7 +578,7 @@ Conflicts and violations are addressed through:
 
 **For AI Tool Users**
 - Disclosure requirement: State AI tool name and role in Quality_Control frontmatter
-- Ethical AI prompt engineering guide: *Planned - will provide templates and best practices*
+- AI collaboration guidelines: *Planned - will provide interaction protocols and best practices for effective human-AI partnership*
 - Verification protocols: Human reviewers must verify all AI-generated factual claims, cultural references, and citations against primary sources
 
 ### 9.2 Communication Channels
