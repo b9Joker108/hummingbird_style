@@ -32,7 +32,7 @@ Required frontmatter keys and controlled vocabulary
 Minimal and authoritative templates
 
 - Minimal template (provisional by default):
-  `yaml
+  ```yaml
   ---
   title: "Document title"
   status: "draft"
@@ -43,10 +43,10 @@ Minimal and authoritative templates
     checks: []
     notes: ""
   ---
-  `
+  ```
 
 - Authoritative template (meets repository benchmark):
-  `yaml
+  ```yaml
   ---
   title: "Document title"
   status: "final"
@@ -60,7 +60,7 @@ Minimal and authoritative templates
       - "Internal consistency + citation audit"
     notes: "Meets repository benchmark for authoritative publication."
   ---
-  `
+  ```
 
 ---
 
