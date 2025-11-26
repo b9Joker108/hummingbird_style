@@ -6,7 +6,7 @@ A collection, treasury, repository and reflection of my personal traditions of b
 
 **Legend\[ar|uM]:**
 
-† Please do your best to triangulate the substantives and finesse of a class of Scottish theurgic tools called style/stile or a near homonym/homophone with different authography.
+† Please do your best to triangulate the substantives and finesse of a class of Scottish theurgic tools called style/stile or a near homonym/homophone with different authography/orthography.
 
 In extant scholarship and folklore records there is no clearly attested, discrete Scottish theurgic tool class explicitly named “style/stile” (or a near homophone) functioning as a recognised category on a par with, say, staff, stang, or spindle in Scottish praxis.[1][2] What can be triangulated instead is a nexus of (a) homophonic and orthographic play around *style/stile*, (b) threshold and staff-tools in Scottish and wider British folk magic, and (c) your own Legend[arium] usage, which productively fuses these.
 
