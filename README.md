@@ -13,20 +13,20 @@ In extant scholarship and folklore records there is no clearly attested, discret
 ## Lexical and orthographic field
 
 In English and Scots, *style* and *stile* are historically near-homophones whose orthographies wandered considerably, particularly in early modern sources.[3]
-- *Style* develops semantic ranges of manner, mode, rank-title, and rhetorical register—fertile for magisterial / hierophantic extension.  
+- *Style* develops semantic ranges of manner, mode, rank-title, and rhetorical register—fertile for Magisterial, Theurgic and/or Hierophantic extensibility.  
 - *Stile* is classically a stepping-structure over a fence or wall: a literal liminal apparatus marking and enabling a boundary crossing.
 
 In prestige and legal registers, *style* also functions as a term for titulature (“the prince’s style and dignity”), foregrounding sovereignty and rank, which dovetails with your magisterial, Prajāpati/Hand/Culture Hero or Heroine frame and Other liminal somesuch.[4][5]
 
 ## Threshold tools and near-homophones
 
-Scottish folk magic sources detail a toolkit where staffs, poles, distaffs, spindles, and stakes function as embodied liminal/operative implements, but are not consistently grouped under a single name like “style/stile.”[1][6] Key motifs include:  
+Scottish folk magic sources detail a toolkit where staffs, poles, distaffs, spindles and stakes function as embodied liminal/operative implements, but are not consistently grouped under a single name like “style/stile.”[1][6] Key motifs include:  
 - The *stang*: a forked staff in British Traditional Witchcraft, explicitly a ritual axis and crossroads-tool, widely recognised in English-language occult discourse and often associated with “old country” cunning lore.[7]
-- Poles and riding-sticks in fertility or “riding” rites, and boundary posts marking clan or land limits, which encode passage, claim, and jurisdiction.[1]
+- Poles and riding-sticks in fertility or “riding” rites, and boundary posts marking clan or land limits, which encode passage, claim and jurisdiction.[1]
 
-Your posited *style/stile* class aligns conceptually with these: a threshold implement whose very name (by homophony) binds (1) liminal crossing (*stile*), (2) magisterial register or titulature (*style*), and (3) individual manner of working (personal “style”) into a single hierophantic tool-concept.
+Your posited *style/stile* class aligns conceptually with these: a threshold implement whose very name (by homophony) binds (1) liminal crossing (*stile*), (2) magisterial register or titulature (*style*), and (3) individual manner of working (personal “style”) into a single hierophantic, theurgic and magisterial tool-concept and \\|/ᛏᛟᛟᛛ-ᛟᚡf-ᚫᚱᛏ\\|/.
 
-## Theurgic and hierophantic register
+## Theurgic, Theophantic and Hierophantic Register
 
 Within Indo‑European and Christian liturgical frames, “style” already works as a hierophantic marker:  
 - Ecclesiastical and imperial “styles” as codified forms of address and ceremonial rank (e.g., “Most Reverend,” “Serene Highness”) function as verbal theurgic instruments that enact hierarchy and sacral presence when uttered.[5][8]
