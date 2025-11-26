@@ -8,7 +8,11 @@ A collection, treasury, repository, thesaurus, reflection and bejewelled looking
 
 Temporary Dei\[ᚸ]is: https://symbl.cc/en/unicode/blocks/bamum-supplement/?utm_source=perplexity (accessed: Wednesday, November 26, 2025) @ 9.44 pm 
 
-**Note:** I received the formal investiture of \\|/IKon WR|TinG\\|/ in the \\|/High Anglican\\|/ way. I chose this with precision and purpose.
+**Note:** I received the formal investiture of \\|/IKon WR|TinG\\|/ in the \\|/High Anglican\\|/ way from St Peter's Eastern Hill, Melbourne, Victoria, Australia. The Runes drew me there as they are part of the palette.
+
+
+
+I chose this with precision and purpose.
 
 **Legend\[ar|uM]:**
 
