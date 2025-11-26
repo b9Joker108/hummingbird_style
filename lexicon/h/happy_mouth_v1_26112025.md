@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/h/happy_mouth_v1_26112025.md
 
 # Happy Mouth: Signal of Endochrinal Adaptation and Other Metabolic Pathway Keening #
 
