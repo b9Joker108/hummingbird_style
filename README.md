@@ -16,7 +16,7 @@ In English and Scots, *style* and *stile* are historically near-homophones whose
 - *Style* develops semantic ranges of manner, mode, rank-title, and rhetorical register—fertile for magisterial / hierophantic extension.  
 - *Stile* is classically a stepping-structure over a fence or wall: a literal liminal apparatus marking and enabling a boundary crossing.
 
-In prestige and legal registers, *style* also functions as a term for titulature (“the prince’s style and dignity”), foregrounding sovereignty and rank, which dovetails with your magisterial, Prajāpati/Hand/Culture Hero frame.[4][5]
+In prestige and legal registers, *style* also functions as a term for titulature (“the prince’s style and dignity”), foregrounding sovereignty and rank, which dovetails with your magisterial, Prajāpati/Hand/Culture Hero or Heroine frame and Other liminal somesuch.[4][5]
 
 ## Threshold tools and near-homophones
 
