@@ -8,11 +8,7 @@ A collection, treasury, repository, thesaurus, reflection and bejewelled looking
 
 Temporary Dei\[ᚸ]is: https://symbl.cc/en/unicode/blocks/bamum-supplement/?utm_source=perplexity (accessed: Wednesday, November 26, 2025) @ 9.44 pm 
 
-**Note:** I received the formal investiture of \\|/IKon WR|TinG\\|/ in the \\|/High Anglican\\|/ way from \\|/[St Peter's Eastern Hill](https://en.wikipedia.org/w/index.php?title=St_Peter%27s_Church,_Eastern_Hill&oldid=1295873095)\\|/, Melbourne, Victoria, Australia. The Runes drew me there as they are part of the palette. The Head that did the rite, then and there, referred to me expressly as a \\|/[Vitki](https://en.wikipedia.org/w/index.php?title=Old_Norse_religion&oldid=1321989323#Mysticism,_magic,_animism_and_shamanism)\\|/, he could see. I paid for joining and secured the dedicated volume on the Dark Arts for that is the term-of-art that refers to the discipline and never returned to the school. They were all already my juniors you see. But, they had virtues and fruit and I honour them. I still go on occasion into the \\ᛉ/Sanctuary\\ᛉ/ . But, \\|/Dark\\|/ and \\|/Art\\|/ are in a particular register, denotation, standard, style and gloss, other than what are generally denoted by the terms to the uninitiated.
-
-
-
-I chose this with precision and purpose.
+**Note:** I received the formal investiture of \\|/IKon WR|TinG\\|/ in the \\|/High Anglican\\|/ way from \\|/[St Peter's Eastern Hill](https://en.wikipedia.org/w/index.php?title=St_Peter%27s_Church,_Eastern_Hill&oldid=1295873095)\\|/, Melbourne, Victoria, Australia. The Runes drew me there as they are part of the palette. The Head that did the rite, then and there, referred to me expressly as a \\|/[Vitki](https://en.wikipedia.org/w/index.php?title=Old_Norse_religion&oldid=1321989323#Mysticism,_magic,_animism_and_shamanism)\\|/, he could see. I paid for joining and secured the dedicated volume on the Dark Arts for that is the term-of-art that refers to the discipline and never returned to the school. They were all already my juniors you see. But, they had virtues and fruit and I honour them. I still go on occasion into the \\ᛉ/Sanctuary\\ᛉ/ . But, \\|/Dark\\|/ and \\|/Art\\|/ are in a particular register, denotation, standard, style and gloss, other than what are generally denoted by the terms to the uninitiated. I chose this tradition with precision and purpose as I was Christened in the Old Heathen Way, \\|/Presbyterian\\|/.
 
 **Legend\[ar|uM]:**
 
