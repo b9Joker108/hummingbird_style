@@ -1,6 +1,4 @@
 <div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
-<div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ [वाग्देव्यै](https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177) नमः ༽ ༻</div>
-<p align="center">
 ༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ <a href="https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177">वाग्देव्यै</a> नमः ༽ ༻
 </p>
 
