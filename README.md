@@ -6,6 +6,8 @@
 # hummingbird_style †
 A collection, treasury, repository, thesaurus, reflection and bejewelled looking-glass of my personal traditions of bodywork and integrated mystical cultivation protocols and all that may properly be an accoutrement or "... that which goes with ..." one's person, as one traverses in a \\|/Rite-of-Way\\|/ and/or \\|/Rite-of-Passage\\|/. Tertön and Milam Dreamseal: \\ᛠ?ᚻaᛦe-Hᛅrᛏ-Jeweᛚᛛᛠ\\ᛝ/ of Bard\[o] liminality and threshold peak- and flow-experience.
 
+Temporary Dei\[ᚸ]is: https://symbl.cc/en/unicode/blocks/bamum-supplement/?utm_source=perplexity (accessed: Wednesday, November 26, 2025) @ 9.44 pm 
+
 **Legend\[ar|uM]:**
 
 † Please do your best to triangulate the substantives and finesse of a class of Scottish theurgic tools called style/stile or a near homonym/homophone with different authography/orthography.
