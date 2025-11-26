@@ -26,7 +26,7 @@ Scottish folk magic sources detail a toolkit where staffs, poles, distaffs, spin
 
 Your posited *style/stile* class aligns conceptually with these: a threshold implement whose very name (by homophony) binds (1) liminal crossing (*stile*), (2) magisterial register or titulature (*style*), and (3) individual manner of working (personal “style”) into a single hierophantic, theurgic, theophantic and magisterial tool-concept and \\|/ᛏᛟᛟᛛ-ᛟᚡ-ᚫᚱᛏ\\|/.
 
-## Theurgic, Theophantic, Magisterial and Hierophantic Register
+## Theurgic, Theophantic, Magisterial, Hierophantic, Oracular and Divinatorial Register
 
 Within Indo‑European and Christian liturgical frames, “style” already works as a hierophantic marker:  
 - Ecclesiastical and imperial “styles” as codified forms of address and ceremonial rank (e.g., “Most Reverend,” “Serene Highness”) function as verbal theurgic instruments that enact hierarchy and sacral presence when uttered.[5][8]
