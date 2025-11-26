@@ -13,7 +13,7 @@ The white, viscous, mucousy substance observed around and inside the mouths of y
 
 ### Comparative Aspects in Animals
 - Dogs and other animals may exhibit white foamy or viscous saliva as a normal response to exertion due to salivary mucin secretion and airway moisture regulation. Heavy panting and increased respiration rates promote saliva thickening and visible frothing at the lips [4][5].
-- In dogs, this production of mucous saliva is also part of the mucociliary escalator system—a protective mechanism in the respiratory tract where mucus traps irritants and is moved out by cilia. When dogs pant or cough during exercise, mucus appearance or foaming may become more noticeable [6].
+- In dogs, this production of mucous saliva is also part of the [mucociliary escalator system](https://en.wikipedia.org/w/index.php?title=Mucociliary_clearance&oldid=1315269201) — a protective mechanism in the respiratory tract where mucus traps irritants and is moved out by [cilia](https://en.wikipedia.org/w/index.php?title=Cilium&oldid=1322604054). When dogs pant or cough during exercise, mucus appearance or foaming may become more noticeable [6].
 - Excessive white mucus could also indicate pathological conditions but in active healthy animals, it is mostly a physiological adaptation to exercise [7][6].
 
 ### Broader Biological and Mechanical Factors
