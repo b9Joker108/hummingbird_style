@@ -1,6 +1,5 @@
 <div align="center">༺ ༼ <a href="https://en.wikipedia.org/w/index.php?title=Unus_pro_omnibus,_omnes_pro_uno&oldid=1307771354">𑀐𑀁</a> ༽ ༻</div>
-<h3>
-༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ <a href="https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177">वाग्देव्यै</a> नमः ༽ ༻
+<h3>༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ <a href="https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177">वाग्देव्यै</a> नमः ༽ ༻
 </h3>
 
 # hummingbird_style †
