@@ -2,7 +2,7 @@
 <div align="center">༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ वाग्देव्यै नमः ༽ ༻</div>
 
 # hummingbird_style †
-A collection, treasury, repository and reflection of my personal traditions of bodywork and integrated mystical cultivation protocols.
+A collection, treasury, repository and reflection of my personal traditions of bodywork and integrated mystical cultivation protocols and all that may properly be an accoutrement or ",,, that which goes with ..." ones person as one traverses in a \\|/Rite-of-Way\\|/ or \\|/Rite-of-Passage\\|/. Tertön and Milam Dreamseal: \\ᛠ?ᚻaᛦe-Hᛅrᛏ-Jeweᛚᛛᛠ\\ᛝ/
 
 **Legend\[ar|uM]:**
 
