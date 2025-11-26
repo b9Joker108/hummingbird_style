@@ -75,8 +75,8 @@ Citations:
 
 * Evan John Jones, ‘The Witches Stang’ in The Roebuck in the Thicket (2001).
 * James Baker, ‘White Witches: Historic Fact and Romantic Fantasy’ in Magical Religion and Modern Witchcraft (1996).
-* Ronald Hutton, Triumph of the Moon (1999), pg. 315
-* Arkon Daraul, A History of Secret Societies (1962), pg. 168-169
+* Ronald Hutton, Triumph of the Moon (1999).
+* Arkon Daraul, A History of Secret Societies (1962).
 * https://en.wiktionary.org/wiki/stang
 * John Brand, Observations on Popular Antiquities Vol. 2 (1841).
 * sarahannelawless.com/2010/03/10/on-staves/
