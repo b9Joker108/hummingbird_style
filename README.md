@@ -1,7 +1,7 @@
 <div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
-<p>
+<h3 align="center">
 ༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ <a href="https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177">वाग्देव्यै</a> नमः ༽ ༻
-</p>
+</h3>
 
 # hummingbird_style †
 A collection, treasury, repository, thesaurus, reflection and bejewelled looking-glass of my personal traditions of bodywork and integrated mystical cultivation protocols and all that may properly be an accoutrement or "... that which goes with ..." one's person, as one traverses in a \\|/Rite-of-Way\\|/ and/or \\|/Rite-of-Passage\\|/. Tertön and Milam Dreamseal: \\ᛠ?ᚻaᛦe-Hᛅrᛏ-Jeweᛚᛛᛠ\\ᛝ/ of Bard\[o] liminality and threshold peak- and flow-experience.
