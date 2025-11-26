@@ -8,6 +8,8 @@ A collection, treasury, repository, thesaurus, reflection and bejewelled looking
 
 Temporary Dei\[ᚸ]is: https://symbl.cc/en/unicode/blocks/bamum-supplement/?utm_source=perplexity (accessed: Wednesday, November 26, 2025) @ 9.44 pm 
 
+**Note:** I received the formal investiture of \\|/IKon WR|TinG\\|/ in the \\|/High Anglican\\|/ way.
+
 **Legend\[ar|uM]:**
 
 † Please do your best to triangulate the substantives and finesse of a class of Scottish theurgic tools called style/stile or a near homonym/homophone with different authography/orthography.
