@@ -1,4 +1,4 @@
-<div align="center">༺ ༼ 𑀐𑀁 ༽ ༻</div>
+<div align="center">༺ ༼ [𑀐𑀁](https://en.wikipedia.org/w/index.php?title=Unus_pro_omnibus,_omnes_pro_uno&oldid=1307771354) ༽ ༻</div>
 <h3 align="center">
 ༺ ༼ ॐ ह्रीं ऐं ह्रीं ॐ <a href="https://en.wikipedia.org/w/index.php?title=V%C4%81c&oldid=1261736177">वाग्देव्यै</a> नमः ༽ ༻
 </h3>
