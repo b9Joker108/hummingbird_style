@@ -71,3 +71,21 @@ Citations:
 [22] Word-List.txt https://pages.pathcom.com/~vadco/Word-List.txt
 [23] Shrinking magic in folklore? https://www.reddit.com/r/folklore/comments/1nxy0au/shrinking_magic_in_folklore/
 
+# To-Be-Harvested #
+
+* Evan John Jones, ‘The Witches Stang’ in The Roebuck in the Thicket (2001).
+* James Baker, ‘White Witches: Historic Fact and Romantic Fantasy’ in Magical Religion and Modern Witchcraft (1996).
+* Ronald Hutton, Triumph of the Moon (1999), pg. 315
+* Arkon Daraul, A History of Secret Societies (1962), pg. 168-169
+* https://en.wiktionary.org/wiki/stang
+* John Brand, Observations on Popular Antiquities Vol. 2 (1841).
+* sarahannelawless.com/2010/03/10/on-staves/
+* Doreen Valiente, An ABC of Witchcraft (1973).
+* John Jamieson, An Etymological Dictionary of the Scottish Language (1818).
+* Doreen Valiente, An ABC of Witchcraft (1973).
+* Julian Goodare, The European Witch-Hunt (2016).
+* Gemma Gary, A Cornish Book of Ways (2008).
+* http://www.cornishdictionary.org.uk/cornish/gwelen
+* Gemma Gary, A Cornish Book of Ways (2008).
+* Gemma Gary, The Devil’s Dozen (2015).
+
