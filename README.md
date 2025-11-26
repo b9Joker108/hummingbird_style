@@ -8,7 +8,7 @@ A collection, treasury, repository, thesaurus and reflection of my personal trad
 
 † Please do your best to triangulate the substantives and finesse of a class of Scottish theurgic tools called style/stile or a near homonym/homophone with different authography/orthography.
 
-In extant scholarship and folklore records there is no clearly attested, discrete Scottish theurgic tool class explicitly named “style/stile” (or a near homophone) functioning as a recognised category on a par with, say, staff, stang, or spindle in Scottish praxis.[1][2] What can be triangulated instead is a nexus of (a) homophonic and orthographic play around *style/stile*, (b) threshold and staff-tools in Scottish and wider British folk magic, and (c) your own Legend[arium] usage, which productively fuses these.
+In extant scholarship and folklore records there is no clearly attested, discrete Scottish theurgic tool class explicitly named “style/stile” (or a near homophone) functioning as a recognised category on a par with, say, staff, stang, or spindle in Scottish praxis.[1][2] What can be triangulated instead is a nexus of (a) homophonic and orthographic play around *style/stile*, (b) threshold and staff-tools in Scottish and wider British folk magic, and (c) your own Legend\[arium] usage, which productively fuses these.
 
 ## Lexical and orthographic field
 
@@ -24,7 +24,7 @@ Scottish folk magic sources detail a toolkit where staffs, poles, distaffs, spin
 - The *stang*: a forked staff in British Traditional Witchcraft, explicitly a ritual axis and crossroads-tool, widely recognised in English-language occult discourse and often associated with “old country” cunning lore.[7]
 - Poles and riding-sticks in fertility or “riding” rites, and boundary posts marking clan or land limits, which encode passage, claim and jurisdiction.[1]
 
-Your posited *style/stile* class aligns conceptually with these: a threshold implement whose very name (by homophony) binds (1) liminal crossing (*stile*), (2) magisterial register or titulature (*style*), and (3) individual manner of working (personal “style”) into a single hierophantic, theurgic, theophantic and magisterial tool-concept and \\|/ᛏᛟᛟᛛ-ᛟᚡf-ᚫᚱᛏ\\|/.
+Your posited *style/stile* class aligns conceptually with these: a threshold implement whose very name (by homophony) binds (1) liminal crossing (*stile*), (2) magisterial register or titulature (*style*), and (3) individual manner of working (personal “style”) into a single hierophantic, theurgic, theophantic and magisterial tool-concept and \\|/ᛏᛟᛟᛛ-ᛟᚡ-ᚫᚱᛏ\\|/.
 
 ## Theurgic, Theophantic, Magisterial and Hierophantic Register
 
@@ -42,9 +42,9 @@ Reading your question’s register, *style/stile* emerges less as a historically
 From this triangulation, a Scottish theurgic “style/stile” class may coherently denote:  
 - Tools of sovereign boundary-work: marking who may pass, under what name and title and in what manner.  
 - Instruments of magisterial self-presentation: the forked staff, cane, or walking-stick as embodied “style” that inscribes ancestry, rank, and vow into posture and movement, analogous to the stang’s axis mundi role.[7]
-- Script and inscription as tools: the written *style* (orthography, sigil, or titulature) on a stone, staff, or paper becoming the functional “stile” one crosses through in rite—especially resonant with Pictish stones and your Gankyil/Dharmachakra visionary~continuum.
+- Script and inscription as tools: the written *style* (orthography, sigil, or titulature) on a stone, staff, or paper becoming the functional “stile” one crosses through in rite—especially resonant with [Pictish standing stones](https://en.wikipedia.org/w/index.php?title=Pictish_stone&oldid=1261254408) and your [Gankyil](https://en.wikipedia.org/w/index.php?title=Gankyil&oldid=1293137196)/[Dharmachakra](https://en.wikipedia.org/w/index.php?title=Sudarshana_Chakra&oldid=1317981720) visionary~continuum.
 
-So, whilst a historically documented and attested Scottish tool-type formally called *style/stile* cannot be pointed to in the archives, the homophonic field around *style/stile* provides a highly coherent, theurgically fertile category: a family of sovereign, threshold-governing implements in which orthography, titulature, bodily carriage, and staff/threshold objects converge into a single hierophantic register of ritual cum ritual-use.[1][2][7]
+So, whilst a historically documented and attested Scottish tool-type formally called *style/stile* cannot be pointed to in the archives, the homophonic field around *style/stile* provides a highly coherent, theurgically fertile category: a family of sovereign, threshold-governing implements in which authography/orthography, titulature, bodily carriage, and staff/threshold/liminal/boundary objects converge into a single hierophantic register of ritual cum ritual-use and affordances and workings of somesuch and their ilk.[1][2][7]
 
 Citations:
 [1] Folk practitioner tools vs. witchcraft - a discussion on history https://cailleachs-herbarium.com/2015/06/folk-practitioner-tools-vs-witchcraft-a-discussion-on-history/
