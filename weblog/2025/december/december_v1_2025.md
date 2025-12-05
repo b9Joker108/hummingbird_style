@@ -1,4 +1,4 @@
-File: ...
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/december/december_v1_2025.md
 
 # December 2025 #
 
