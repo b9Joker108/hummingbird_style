@@ -2,6 +2,13 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Sunday, December 7, 2025 ###
+
+DeiXEs:
+* https://unior.academia.edu/GIACOMELLAOROFINO
+
+Orofino, is one of my godsisters or Vajra-mantra-kin and a scholar, researcher, writer and Tibetologist, whom I hold in particular personal esteem and warmth.
+
 ### Saturday, December 6, 2025 ###
 
 Deixis: https://www.flickr.com/photos/191652790@N03/albums/
