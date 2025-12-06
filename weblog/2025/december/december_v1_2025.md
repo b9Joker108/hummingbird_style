@@ -7,6 +7,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 DeiXEs:
 * https://unior.academia.edu/GIACOMELLAOROFINO
 
+
 Orofino, is one of my godsisters or vajra-mantra-kin and a scholar, researcher, writer and Tibetologist of substandard, whom I hold in particular personal esteem and heart-warmth.
 
 **Orofino, Giacomella (2025). 'The Dawn of Physical Yoga: Dispelling the Hindrances of Immortality'. Naples.**
@@ -134,6 +135,9 @@ Resources to use while studying: bilingual glossaries, short business bios in Ge
 ---
 
 Final note: I integrated the German alongside English, explained grammar and vocabulary, and gave practical exercises you can use immediately. If you want, I can convert the practice into printable flashcards, create more dialogues tailored to buying/selling books, or build a four‑week lesson plan with daily micro‑tasks.
+
+[<img src="https://img.youtube.com/vi/6lR2jJF-D2I/hqdefault.jpg" width="120"/>](https://youtu.be/6lR2jJF-D2I)
+
 
 ### Saturday, December 6, 2025 ###
 
