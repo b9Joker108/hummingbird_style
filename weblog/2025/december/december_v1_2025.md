@@ -210,7 +210,7 @@ Citations:
 
 **Sami Pienimäki of Jolla, tell me all about them please?**
 
-Sami Pienimäki is a Finnish entrepreneur and co‑founder of Jolla, best known as the long‑time CEO steering the Sailfish OS project that grew out of Nokia’s MeeGo efforts. [1][2] His career revolves around keeping an independent, Linux‑based mobile OS alive in a market dominated by Android and iOS. [1][3]
+[Sami Pienimäki](https://fi.wikipedia.org/w/index.php?title=Sami_Pienim%C3%A4ki&oldid=22013954) (b. 1976) is a Finnish entrepreneur and co‑founder of Jolla, best known as the long‑time CEO steering the Sailfish OS project that grew out of Nokia’s MeeGo efforts. [1][2] His career revolves around keeping an independent, Linux‑based mobile OS alive in a market dominated by Android and iOS. [1][3]
 
 **Background and role at Jolla**
 
