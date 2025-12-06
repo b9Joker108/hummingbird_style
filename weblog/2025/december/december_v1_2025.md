@@ -7,7 +7,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 DeiXEs:
 * https://unior.academia.edu/GIACOMELLAOROFINO
 
-Orofino, is one of my godsisters or Vajra-mantra-kin and a scholar, researcher, writer and Tibetologist, whom I hold in particular personal esteem and warmth.
+Orofino, is one of my godsisters or vajra-mantra-kin and a scholar, researcher, writer and Tibetologist of substandard, whom I hold in particular personal esteem and heart-warmth.
 
 ### Saturday, December 6, 2025 ###
 
