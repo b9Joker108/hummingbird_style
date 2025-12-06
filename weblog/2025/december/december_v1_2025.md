@@ -10,6 +10,38 @@ DeiXEs:
 
 Orofino, is one of my godsisters or vajra-mantra-kin and a scholar, researcher, writer and Tibetologist of substandard, whom I hold in particular personal esteem and heart-warmth.
 
+Gist: Giacomella Orofino is a Full Professor of Tibetan Language and Civilization at the University of Naples “L’Orientale,” directs its Centre for Buddhist Studies, and leads the Italian Association of Tibetan, Himalayan, and Mongolian Studies; her scholarship centers on Tibetan religious history with a strong emphasis on Buddhist and Bon tantric literature.
+
+Profile (English / Deutsch)
+English: Giacomella Orofino teaches Tibetan language, literature, and Indo‑Tibetan religions at the University of Naples “L’Orientale” and holds a full professorship in Tibetan Language and Civilization.  
+Deutsch: Giacomella Orofino ist Professorin für Tibetische Sprache und Zivilisation an der Universität Neapel „L’Orientale“ und leitet dort Lehr‑ und Forschungsaktivitäten im Bereich Tibetologie.
+
+Research focus and signature topics
+- Primary fields: Tibetan religious history; Buddhist and Bon tantric literature; philology and textual history.  
+- Methodology: philological editing, historical contextualization, and comparative Indo‑Tibetan approaches.  
+- Representative output: monographs, critical editions, and essays on tantric and ritual texts that trace transmission and doctrinal developments in Tibet.
+
+Institutional roles and public engagement
+- Centre for Buddhist Studies: She directs the university’s interdisciplinary centre that promotes research on Buddhist philosophy, literature, art, and culture and organizes seminars, conferences, and publications.  
+- AISTHiM: She serves as President of the Italian Association of Tibetan, Himalayan, and Mongolian Studies, a professional network that fosters scholarship and collaboration across Italy and internationally.
+
+How to read, follow, or contact (practical next steps)
+- Read her recent work and lectures: look for her monographs and recorded talks such as The Dawn of Physical Yoga lecture and related events (recordings and program notes are publicly available).  
+- Academic entry points: search the University of Naples “L’Orientale” faculty pages and academic CVs for publication lists and contact details.  
+- Engage: attend Centre for Buddhist Studies events, join AISTHiM activities, or request copies of specific articles via interlibrary loan or academic networks.
+
+Key considerations, clarifying questions, and decision points
+- Purpose: Are you researching Tibetan tantric literature, seeking collaboration, or looking for a course/lecture to attend?  
+- Language: Many primary publications and lectures may be in Italian or English; check language before requesting materials.  
+- Access: Do you have institutional access for paywalled journals, or will you need open‑access copies or translations?
+
+Risks, limitations, and practical tips
+- Access barriers: Some critical editions and monographs may be behind paywalls or published in limited print runs; allow time for interlibrary requests.  
+- Language barrier: Scholarly Italian and technical Tibetan terms can be dense—use bilingual summaries or reach out to the Centre for recommended introductory readings.  
+- Verification: For up‑to‑date event schedules or contact details, always consult the university pages and association notices rather than third‑party summaries.
+
+Sources: University CV and faculty pages; Centre and association profiles; event listings and recorded lectures.
+
 **Orofino, Giacomella (2025). 'The Dawn of Physical Yoga: Dispelling the Hindrances of Immortality'. Naples.**
 
 REVIEW of Orofino (2025) by Peter Eisenegger of Garuda Books:
