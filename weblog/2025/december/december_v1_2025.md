@@ -17,6 +17,124 @@ REVIEW of Orofino (2025) by Peter Eisenegger of Garuda Books:
 >
 >Through a close and comprehensive analysis of this little-known text, the study offers fresh insights into the origins and early development of physical yoga. It highlights the rich and dynamic transmission of yogic knowledge across regional and cultural boundaries, shedding light on the deeply interconnected trajectories of tantric physical practices in India and Tibet. As such, it represents a rigorous and insightful contribution to the scholarship on the origins and cross-cultural evolution of haṭhayoga."
 
+Bilingual profile: Peter Eisenegger and Garuda Books / Garuda Verlag
+
+German: Peter Eisenegger leitet den Garuda Verlag und betreibt Garuda Books, einen auf Bücher über Asien spezialisierten Kleinverlag und Buchhandel mit Sitz in Schongau, Kanton Luzern, Schweiz. Er ist selbstständig tätig und betreibt einen Online‑Shop unter shop.garudabooks.ch.  
+English: Peter Eisenegger runs Garuda Verlag and operates Garuda Books, a small publisher and bookseller specializing in books about Asia, based in Schongau, Lucerne canton, Switzerland. He works self‑employed and runs an online shop at shop.garudabooks.ch.
+
+---
+
+Key vocabulary and useful phrases for business profiles
+
+| German | Pronunciation | English |
+|---|---:|---|
+| leitet | LYE-tet | leads / runs |
+| Verlag | FAIR-lahg | publisher |
+| Buchhandel | BOOK-hahn-del | book trade / bookseller |
+| spezialisiert auf | shpeh-tsee-ah-LEE-ziert owf | specialized in |
+| selbstständig | ZELBST-shten-dig | self‑employed / independent |
+| Online‑Shop | ON-line shop | online shop |
+| Sitz | sits | headquarters / based in |
+| Besuche nach Vereinbarung | beh-ZOO-khe nahkh fer-ine-BAH-roong | visits by appointment |
+
+Teaching note: each German noun has a gender (der, die, das). In short profiles, Verlag is masculine (der Verlag), Buchhandlung/Buchhandel is feminine/masculine depending on word choice (die Buchhandlung, der Buchhandel).
+
+---
+
+Short grammar points illustrated with profile language
+
+Articles and noun gender
+- der Verlag (masculine) → der Verlag veröffentlicht Bücher.  
+- die Firma (feminine) → die Firma hat ihren Sitz in Schongau.  
+- das Geschäft (neuter) → das Geschäft ist online.
+
+Tip: When introducing a person’s role, use leitet or führt:  
+- Er leitet den Verlag. (He runs the publisher.)  
+- Sie führt das Geschäft. (She runs the business.)
+
+Verbs and word order
+- Main clause: Peter leitet Garuda Books. (Subject – verb – object.)  
+- Subordinate clause: ..., weil er sich auf Asien spezialisiert hat. (Subordinator pushes verb to the end.)
+
+Teaching note: German often places the conjugated verb second in main clauses and at the end in subordinate clauses.
+
+---
+
+Sample bilingual sentences and short paragraph (useful for a LinkedIn or shop bio)
+
+German (short bio):  
+Peter Eisenegger ist Inhaber und Leiter des Garuda Verlags sowie Betreiber von Garuda Books, einem Kleinverlag und Buchhandel, der sich auf Literatur über Asien spezialisiert hat. Er arbeitet als Selbstständiger in Schongau, Kanton Luzern, und betreibt einen Online‑Shop für Neu‑ und Gebrauchtbücher.
+
+English (translation):  
+Peter Eisenegger is the owner and head of Garuda Verlag and the operator of Garuda Books, a small publisher and bookseller specializing in literature about Asia. He works as a self‑employed person in Schongau, Lucerne canton, and runs an online shop for new and used books.
+
+Language tip: Notice how German compounds nouns (e.g., Buchhandel, Online‑Shop) and often repeats the subject for clarity in short bios.
+
+---
+
+Dialogues for practice with role scenarios
+
+Dialogue 1: Inquiry about a book (phone / email)
+German:  
+Kunde: Guten Tag, ich interessiere mich für ein Buch über buddhistische Kunst. Haben Sie das vorrätig?  
+Peter: Guten Tag. Welchen Titel meinen Sie genau? Wir führen sowohl neue als auch gebrauchte Exemplare; Versand ist möglich.
+
+English:  
+Customer: Hello, I am interested in a book about Buddhist art. Do you have it in stock?  
+Peter: Hello. Which title do you mean exactly? We carry both new and used copies; shipping is possible.
+
+Teaching notes:  
+- Guten Tag is a polite greeting.  
+- Haben Sie das vorrätig? = Do you have it in stock? (formal Sie used in business contexts).
+
+Dialogue 2: Arranging a visit
+German:  
+Kunde: Kann ich die Bücher im Laden ansehen?  
+Peter: Ja, Besuche sind nach Vereinbarung möglich. Wann passt es Ihnen?
+
+English:  
+Customer: Can I view the books in the shop?  
+Peter: Yes, visits are possible by appointment. When would suit you?
+
+Teaching notes:  
+- nach Vereinbarung = by appointment.  
+- Use Wann passt es Ihnen? for polite scheduling.
+
+---
+
+Practice exercises with answers
+
+1. Translate to German: "He runs a small publisher in Lucerne."  
+   Answer: Er leitet einen kleinen Verlag in Luzern.
+
+2. Fill the blank (article): \\\_ Verlag (publisher)  
+   Answer: der Verlag
+
+3. Rewrite in German using formal address: "Do you ship internationally?"  
+   Answer: Versenden Sie international? or Versenden Sie ins Ausland?
+
+4. Conjugation practice: Conjugate leiten for ich / du / er.  
+   Answer: ich leite / du leitest / er leitet
+
+Teaching tip: Practice aloud to improve pronunciation and rhythm.
+
+---
+
+Pronunciation tips and study plan
+
+- Pronunciation focus: German vowels are generally purer than English vowels. Practice e in Verlag (short, like 'e' in "bed") and the rolled or tapped r depending on dialect.  
+- Weekly plan (4 weeks):  
+  - Week 1: Core vocabulary and pronunciation (15–20 minutes daily).  
+  - Week 2: Short bios and simple sentences; practice writing a 3‑sentence German bio.  
+  - Week 3: Role‑play dialogues and phone/email phrases; record and compare.  
+  - Week 4: Read product descriptions from a German bookshop and summarize in English and German.
+
+Resources to use while studying: bilingual glossaries, short business bios in German, audio recordings of native speakers, and spaced‑repetition flashcards for vocabulary.
+
+---
+
+Final note: I integrated the German alongside English, explained grammar and vocabulary, and gave practical exercises you can use immediately. If you want, I can convert the practice into printable flashcards, create more dialogues tailored to buying/selling books, or build a four‑week lesson plan with daily micro‑tasks.
+
 ### Saturday, December 6, 2025 ###
 
 Deixis: https://www.flickr.com/photos/191652790@N03/albums/
