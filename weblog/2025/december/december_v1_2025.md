@@ -170,6 +170,45 @@ Final note: I integrated the German alongside English, explained grammar and voc
 
 [<img src="https://img.youtube.com/vi/6lR2jJF-D2I/hqdefault.jpg" width="120"/>](https://youtu.be/6lR2jJF-D2I)
 
+**Jolla Phone**
+
+Jolla Phone the independent European Do It Together Linux phone. Please deeply and exhaustively triangulate ALL saliences.
+
+The “independent European Do It Together (DIT) Linux phone” is Jolla’s new Sailfish OS 5 smartphone, a community‑defined, privacy‑centric device now in a conditional pre‑order campaign aimed at getting it into production for mid‑2026 delivery. [1][2][3] It positions itself as a “real Linux phone” with a European, Google‑independent software stack, hardware privacy features, and a funding model that explicitly involves the community in shaping priorities and final configuration. [1][3][4]
+
+**Core identity**
+
+The new Jolla Phone is developed by Finnish company Jolla, creator of Sailfish OS, a Linux‑based mobile operating system that traces back to Nokia/MeeGo heritage and has long marketed itself as Europe’s only indigenous mobile OS. [1][5][6] The device is branded as an “independent European Do It Together Linux phone” to underline three pillars: jurisdiction in Europe, independence from Google and large US/Chinese ecosystem vendors, and a participatory development process involving backers and the Sailfish community. [1][2][4]
+
+**DIT funding and community model**
+
+Production is contingent on reaching at least 2,000 backers via a refundable 99‑euro reservation, effectively turning the launch into a community validation and co‑design exercise. [1][2] Early backers pay a discounted device price (around 499 euros) compared with the later projected retail range (roughly 599–699 euros), and Jolla is explicitly pitching this as a “community‑funded” and “community‑defined” campaign where supporter feedback steers final features and options. [1][2][4] The Do It Together framing builds on Jolla’s past practice of developer‑centric devices (like Jolla C) and community programs but formalises it around hardware funding, design choices and long‑term support expectations. [1][7][8]
+
+**Hardware and longevity**
+
+The phone combines contemporary mid‑to‑upper hardware (such as a 50‑megapixel main camera, Wi‑Fi 6, NFC, dual nano‑SIM and fingerprint reader) with design choices tailored to repairability and long life. [1][3] Jolla highlights a user‑replaceable 5,500 mAh battery, replaceable back covers, and a spare‑parts program, alongside a promise of at least five years of Sailfish OS updates, explicitly framing this as an antidote to disposable, short‑support smartphones. [1][3] The industrial design keeps a minimalist, Scandinavian aesthetic and offers swappable rear shells in several colours, echoing the “Other Half” concept from the original 2013 Jolla Phone. [1][6][9]
+
+**Software, privacy and “real Linux”**
+
+Sailfish OS 5 is described as a privacy‑first, Linux‑based OS with no unsolicited telemetry, no built‑in tracking, and optional Android app compatibility via Jolla’s AppSupport layer. [1][3][7] Jolla explicitly markets the device as a “real Linux phone” in contrast to Android’s heavily modified Linux base, emphasising a closer relationship to a conventional Linux userspace and the ability to run native Sailfish/Qt applications as well as sandboxed Android apps. [3][5] A hardware privacy switch is a headline feature, allowing users to physically disable components such as the microphone, Bluetooth, or even the Android compatibility subsystem, reinforcing the device’s positioning around user control and trust. [1][3]
+
+**Position in Jolla’s history**
+
+The new DIT phone is framed as a spiritual and practical successor to Jolla’s first smartphone (2013) and later limited community devices like Jolla C, but with far more emphasis on sustainability, privacy and user co‑governance. [1][6][8] While earlier Jolla hardware focused on showcasing the Sailfish gesture‑driven UI and Android‑compatible app layer, the 2025 campaign explicitly connects European digital sovereignty, long‑term updates and community funding as central selling points, aiming to offer a credible alternative to mainstream Android and iOS ecosystems. [1][5][3]
+
+Citations:
+[1] Jolla Launches Community-Funded Linux Phone https://linuxiac.com/jolla-launches-community-funded-linux-phone/
+[2] New Jolla Phone Now Available for Pre-Order as an ... https://9to5linux.com/new-jolla-phone-now-available-for-pre-order-as-an-independent-linux-phone/amp
+[3] Jolla announces the new Jolla Phone with Sailfish OS 5 and a physical privacy switch https://www.gsmarena.com/new_jolla_phone_features_price_sale_date-news-70598.php
+[4] Pre-Order Now: The New Jolla Phone - A Fresh Take on ... https://www.chicagovps.net/blog/pre-order-now-the-new-jolla-phone-a-fresh-take-on-independent-linux-smartphones/
+[5] Sailfish OS - Wikipedia https://en.wikipedia.org/wiki/Sailfish_Alliance
+[6] Jolla (smartphone) https://en.wikipedia.org/wiki/Jolla_(smartphone)
+[7] Jolla C2 Community Phone https://commerce.jolla.com/products/jolla-community-phone
+[8] Jolla C - The Privacy Respecting European OS and AI ... https://jolla.com/jollac/
+[9] History of Sailfish OS 1.0 by Jolla https://reviewjolla.blogspot.com/2015/07/history-of-sailfish-os-10-by-jolla.html
+[10] Jolla smartphone lets fly with Sailfish OS https://www.cnet.com/tech/mobile/jolla-smartphone-lets-fly-with-sailfish-os/
+
+
 
 ### Saturday, December 6, 2025 ###
 
