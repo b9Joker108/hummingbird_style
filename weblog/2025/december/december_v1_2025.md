@@ -208,6 +208,38 @@ Citations:
 [9] History of Sailfish OS 1.0 by Jolla https://reviewjolla.blogspot.com/2015/07/history-of-sailfish-os-10-by-jolla.html
 [10] Jolla smartphone lets fly with Sailfish OS https://www.cnet.com/tech/mobile/jolla-smartphone-lets-fly-with-sailfish-os/
 
+**Sami Pienimäki of Jolla, tell me all about them please?**
+
+Sami Pienimäki is a Finnish entrepreneur and co‑founder of Jolla, best known as the long‑time CEO steering the Sailfish OS project that grew out of Nokia’s MeeGo efforts. [1][2] His career revolves around keeping an independent, Linux‑based mobile OS alive in a market dominated by Android and iOS. [1][3]
+
+**Background and role at Jolla**
+
+Pienimäki co‑founded Jolla in 2011–2012 with a group of ex‑Nokia staff after Nokia abandoned the MeeGo platform, aiming to continue that work as Sailfish OS. [1][2] He has served as CEO and is often described as a founder‑CEO who sees it as his responsibility to “captain the ship” and keep a third mobile OS option viable. [1][2]
+
+**Nokia/MeeGo roots**
+
+Before Jolla, he worked at Nokia in roles connected to product and platform development, contributing to the lineage that became Maemo and MeeGo. [4][5] This experience in Nokia’s Linux‑based smartphone projects directly informed the technical and strategic foundations of Sailfish OS. [1][4]
+
+**Vision and strategy**
+
+Pienimäki consistently argues that a privacy‑respecting, open, Linux‑based alternative to the Android–iOS duopoly is both possible and strategically important, especially for governments and enterprises. [1][6] Under his leadership Jolla shifted focus away from mass‑market hardware into licensing Sailfish OS and related technologies to corporate and public‑sector customers, which he has said was necessary to reach profitability. [1][7]
+
+**Public persona and interests**
+
+Jolla’s own blog describes him as an “opportunistic entrepreneur” who enjoys family life, skiing and cars, reflecting a hands‑on, founder‑driven culture rather than a distant corporate image. [2] He frequently appears in interviews and conference talks as the primary public face of Jolla, explaining its business model, technical roadmap and the broader politics of mobile operating systems. [1][7]
+
+Citations:
+[1] The Finns who refuse to give up on Sailfish OS https://www.engadget.com/2018-03-01-jolla-sailfish-os-team-interview-mwc.html
+[2] The Original Jolla Phone turns 7 today https://blog.jolla.com/jolla7/
+[3] Sailfish OS - Wikipedia https://en.wikipedia.org/wiki/Sailfish_Alliance
+[4] The story of Nokia MeeGo - Muropaketti.com https://muropaketti.com/mobiili/the-story-of-nokia-meego/
+[5] The story of Nokia's Maemo and MeeGo https://www.osnews.com/story/26461/the-story-of-nokias-maemo-and-meego/
+[6] Interview: Jolla (Sailfish OS) CEO Sami Pienimäki https://www-.iono.fm/e/692030
+[7] Interview: Jolla (Sailfish OS) CEO Sami Pienimäki https://www.youtube.com/watch?v=Dk-QJSB2n5g
+[8] Sami Pienimäki https://www.imdb.com/name/nm9741320/
+[9] Interview: Jolla (Sailfish OS) CEO Sami Pienimäki https://www.facebook.com/TechCentralZA/videos/interview-jolla-sailfish-os-ceo-sami-pienim%C3%A4ki/1272189032957409/
+[10] Jolla Information https://rocketreach.co/jolla-profile_b5ee75b3f42e75c4
+[11] TechCrunch interview with CEO Sami Pienimäki out now https://www.facebook.com/jollaofficial/posts/techcrunch-interview-with-ceo-sami-pienim%C3%A4ki-out-now-a-deep-dive-into-jollas-pos/4495403267177848/
 
 
 ### Saturday, December 6, 2025 ###
