@@ -6,6 +6,12 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 Deixis: https://www.flickr.com/photos/191652790@N03/albums/
 
+**Intertextuality**
+
+<a href="https://youtu.be/8a4JzMoNSFM?si=qsoOCMxMWyBzifvt">
+  <img src="https://img.youtube.com/vi/8a4JzMoNSFM/0.jpg" width="120"/>
+</a>
+
 ### xxx, December 1, 2025 - Friday, December 5, 2025 ###
 
 DeixMs: 
