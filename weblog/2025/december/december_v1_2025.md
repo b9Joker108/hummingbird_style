@@ -12,6 +12,8 @@ Deixis: https://www.flickr.com/photos/191652790@N03/albums/
   <img src="https://img.youtube.com/vi/8a4JzMoNSFM/0.jpg" width="120"/>
 </a>
 
+* https://www.instagram.com/reel/DQ_2Ga9ghSy/?igsh=MXU5dWg0N3d1cWRhMQ== NB: Friggin' worthy of note. Study. Integrate.
+
 ### xxx, December 1, 2025 - Friday, December 5, 2025 ###
 
 DeixMs: 
