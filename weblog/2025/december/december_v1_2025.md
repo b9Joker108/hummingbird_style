@@ -2,6 +2,12 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Saturday, December 6, 2025 ###
+
+Deixis: https://www.flickr.com/photos/191652790@N03/albums/
+
+### xxx, December 1, 2025 - Friday, December 5, 2025 ###
+
 DeixMs: 
 * https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/w/weh1y-_v1_05122025.md
 * https://en.wikipedia.org/wiki/Bridget_of_Sweden
