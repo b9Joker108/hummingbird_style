@@ -128,7 +128,7 @@ Classical and religious Chinese includes lofty terms used in ritual and imperial
 
 ### Japanese Analogues
 Japanese ritual and religious registers, with many Sino-Japanese borrowings and native honorifics:
-- **Theurgic/Ceremonial:** 神祓 (Kannabi) purification rituals; 祭礼 (Saitei) festivals.
+- **Theurgic/Ceremonial:** [神](https://en.wiktionary.org/w/index.php?title=%E7%A5%9E&oldid=88135026)祓 (Kannabi) purification rituals; 祭礼 (Saitei) festivals.
 - **Theophantic/Magisterial:** 聖 (Sei) sacred/holy; 大僧正 (Daisōjō) a high priestly rank.
 - **Oracular/Divinatorial:** 占い (Uranai) divination; 神託 (Shintaku) oracle.
 - Superlatives are expressed through prefixing 大 (Dai), meaning “great” or “supreme.”
