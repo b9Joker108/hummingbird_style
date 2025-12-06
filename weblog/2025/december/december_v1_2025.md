@@ -66,7 +66,7 @@ German (short bio):
 Peter Eisenegger ist Inhaber und Leiter des Garuda Verlags sowie Betreiber von Garuda Books, einem Kleinverlag und Buchhandel, der sich auf Literatur über Asien spezialisiert hat. Er arbeitet als Selbstständiger in Schongau, Kanton Luzern, und betreibt einen Online‑Shop für Neu‑ und Gebrauchtbücher.
 
 English (translation):  
-Peter Eisenegger is the owner and head of Garuda Verlag and the operator of Garuda Books, a small publisher and bookseller specializing in literature about Asia. He works as a self‑employed person in Schongau, Lucerne canton, and runs an online shop for new and used books.
+Peter Eisenegger is the owner and head of Garuda Verlag and the operator of Garuda Books, a small publisher and bookseller specializing in literature about Asia. He works as a self‑employed person in [Schongau](https://en.wikipedia.org/w/index.php?title=Schongau,_Lucerne&oldid=1278351639), Lucerne canton, and runs an online shop for new and used books.
 
 Language tip: Notice how German compounds nouns (e.g., Buchhandel, Online‑Shop) and often repeats the subject for clarity in short bios.
 
