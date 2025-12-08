@@ -2,7 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/bodywork/giriwor
 
 # Giriwork (Russian Kettlebell) & Other Protocols: Introduction #
 
-Now, just to be precious clear and fair, I honour and favour the Russian Giriwork Tradition. I just found out about a Ch*nese precursor. The truth is, history is unknowable, we just reconstruct it. But, I feel this Chinese martial Shaolin tooling and art, is worthy of note.
+Now, just to be precious clear and fair, I honour and favour the Russian Giriwork Tradition. I just found out about an indirect non-lineal Chinese precursor of sorts. The truth is, history is unknowable, we just reconstruct it. But, I feel this Chinese martial Shaolin tooling and art, is worthy of note and of umport.
 
 
 that's all nonsense, triangulate Chinese origins and intersperse English with Chinese
