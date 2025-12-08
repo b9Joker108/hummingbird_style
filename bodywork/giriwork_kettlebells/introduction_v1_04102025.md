@@ -1,4 +1,39 @@
+File: xxx
+
 # Giriwork (Russian Kettlebell) & Other Protocols: Introduction #
+
+
+that's all nonsense, triangulate Chinese origins and intersperse English with Chinese
+
+The “Wen Li” vignette is mythic, but it sits in a real Sinosphere lineage of 把手重物 — handled weights — that look very much like proto‑kettlebells.[1][2] Think of modern kettlebells as one branch of a broader family that includes Chinese 石锁 shísuǒ (stone locks), stone wheels, and ring‑handled weights used in martial and military training since at least the Song dynasty 宋朝.[3][4]
+
+## Chinese handled weights
+
+Long before the Russian гиря *girya* appears in 18th‑century sources, Chinese martial traditions used padlock‑shaped “stone locks,” carved to resemble traditional locks and swung, pressed, and tossed much like kettlebells today.[3][2] Records describe 石锁 practice from the Northern Song (960–1279) with particular popularity in the Ming and Qing — 北宋到明清时期，武人常用石锁练力气 — with routines that look strikingly like modern ballistic kettlebell drills.[3][4]
+
+## Martial and civil training
+
+Stone locks and stone wheels (石轮) show up in accounts of military examinations and martial arts schools, where feats of lifting, swinging, and throwing heavy implements sat alongside archery, horsemanship, and classical literacy.[3] One 19th‑century description of Chinese boxing training has the pugilist grasp a “stone lock” in each hand and repeatedly thrust them out at arm’s length — 拿着石锁，反复向前推出 — exactly the sort of loaded, rhythmic work that stresses both musculature and 心肺功能 (cardiopulmonary function).[3]
+
+## From China to “kettlebells”
+
+Modern histories note that many cultures created “weight with handle” devices, but explicitly point to Shaolin and other Chinese systems using padlock‑shaped stone weights as functional analogues and possible inspirations for later ring‑handled tools elsewhere.[1][5] Contemporary commentators even remark that today’s stone‑lock seniors in China — 中国大爷大妈甩石锁 — are effectively doing kettlebell‑style strength and power training, just with granite instead of cast iron.[4]
+
+## Heart and vessel angle
+
+Separate from kettlebells, systematic reviews of traditional Chinese exercise (太极, 气功, 八段锦等) in coronary heart disease show meaningful improvements in blood pressure, heart‑rate indices, and cardiopulmonary markers, framing East Asian movement culture as a long‑standing non‑pharmacological strategy for 心血管养生.[6][7] That is, whether via slow internal forms or heavy stone locks, Chinese practice has long linked regular, rhythmical loading of body and breath with protection of 心与血脉 — the heart and vessels.[6][7]
+
+Citations:
+[1] Kettlebell Series Part 1: A Brief History of the Kettlebell - REBEL Store https://rebelstore.co.za/a-brief-history-of-the-kettlebell/
+[2] Kettlebell - Wikipedia https://en.wikipedia.org/wiki/Kettlebell
+[3] Through a Lens Darkly (22): Heavy Knives and Stone Locks https://chinesemartialstudies.com/2014/03/10/through-a-lens-darkly-22-heavy-knives-and-stone-locks-strength-training-in-the-traditional-chinese-martial-arts/
+[4] Chinese Seniors Are Throwing Stones Around Like Kettlebells to ... https://barbend.com/stone-locks-workout/
+[5] Kettlebell History Goes Back Much Further Than Russia - BarBend https://barbend.com/news/kettlebell-history/
+[6] Effects of traditional Chinese exercise on physiological indicators and quality of life in patients with coronary heart disease: A systematic review and meta-analysis https://pmc.ncbi.nlm.nih.gov/articles/PMC10313288/
+[7] Tai Chi Boosts Quality of Life in Patients with Heart Disease https://www.cardiosmart.org/news/2016/4/tai-chi-boosts-quality-of-life-in-patients-with-heart-disease
+[8] Chinese stone lock weight lifting inspiration - Facebook https://www.facebook.com/groups/StroongmanArchaeology/posts/437276993062684/
+[9] Kettlebell - Real Life Mag https://reallifemag.com/kettlebell/
+[10] Stone lock training is so cool. Featuring “strength unknown ... - TikTok https://www.tiktok.com/@squatuniversity/video/7267572619606592811
 
 Russian giriwork (kettlebells) favours training in all seasons and in all weather, barefood, on grass or the earthy ground.
 
