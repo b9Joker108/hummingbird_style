@@ -160,7 +160,7 @@ While "Alpha Terrestrial" is not a documented term in English martial tradition,
 |-----------------------------|--------------------------|---------------|----------------------|
 | Superset of Gender Traits   | Rare, not for
 
-Divya Yantra-Yatra Deha
+# Divya Yantra-Yatra Deha #
 
 ## Phrase Breakdown
 
