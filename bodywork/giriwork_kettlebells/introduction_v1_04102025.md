@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/bodywork/giriwork_kettlebells/introduction_v1_04102025.md
 
 # Giriwork (Russian Kettlebell) & Other Protocols: Introduction #
 
