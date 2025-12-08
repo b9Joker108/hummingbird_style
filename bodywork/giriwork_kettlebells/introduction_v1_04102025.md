@@ -5,7 +5,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/bodywork/giriwor
 
 that's all nonsense, triangulate Chinese origins and intersperse English with Chinese
 
-The “Wen Li” vignette is mythic, but it sits in a real Sinosphere lineage of [把](https://en.wiktionary.org/w/index.php?title=%E6%8A%8A&oldid=88350166)手重物 — handled weights — that look very much like proto‑kettlebells.[1][2] Think of modern kettlebells as one branch of a broader family that includes Chinese 石锁 shísuǒ (stone locks), stone wheels, and ring‑handled weights used in martial and military training since at least the Song dynasty 宋朝.[3][4]
+The “Wen Li” vignette is mythic, but it sits in a real Sinosphere lineage of [把](https://en.wiktionary.org/w/index.php?title=%E6%8A%8A&oldid=88350166)[手](https://en.wiktionary.org/w/index.php?title=%E6%89%8B&oldid=87968110)重物 — handled weights — that look very much like proto‑kettlebells.[1][2] Think of modern kettlebells as one branch of a broader family that includes Chinese 石锁 shísuǒ (stone locks), stone wheels, and ring‑handled weights used in martial and military training since at least the Song dynasty 宋朝.[3][4]
 
 ## Chinese handled weights
 
