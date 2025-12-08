@@ -160,3 +160,37 @@ While "Alpha Terrestrial" is not a documented term in English martial tradition,
 |-----------------------------|--------------------------|---------------|----------------------|
 | Superset of Gender Traits   | Rare, not for
 
+Divya Yantra-Yatra Deha
+
+## Phrase Breakdown
+
+"Divya Yantra-Yatra Deha" appears to be a Sanskrit-inspired compound phrase without direct attested matches in standard lexicons, likely a neologism or tantric formulation. [1] It breaks down as *divya* ("divine, celestial"), *yantra* ("instrument, mystical diagram for harnessing energies"), *-yatra* ("journey, pilgrimage, process"), and *deha* ("body"). [1][3][9]
+
+## Possible Interpretation
+
+This could denote "Divine Instrument-Journey of the Body," evoking a sacred tantric pilgrimage (*yatra*) through the physical form (*deha*) using yantric meditation, akin to navigating the Sri Yantra's nine enclosures toward divine consciousness. [2][6] Related terms like *dehayātrā* mean "body's journey" as life's sustenance, nourishment, or death, paralleling yogic body-transformation paths. [1]
+
+## Tantric Context
+
+In Sri Vidya traditions, yantras like Sri Yantra map the body's subtle energies (*deha*) as a progressive divine voyage (*yatra*), invoking deities for liberation from material bonds. [2][4] Such phrasing aligns with rituals merging mantra, yantra, and tantra for embodied spiritual ascent. [3][6]
+
+Citations:
+[1] Dehayatra, Deha-yatra, Dēhayātrā, Dehayātrā: 9 definitions https://www.wisdomlib.org/definition/dehayatra
+[2] Sri Yantra: The Sacred Architecture of Divine Consciousness https://tantrasadhana.app/blog/sri-yantra-the-sacred-architecture-of-divine-consciousness
+[3] Yantra, Meaning, Types of Yantra, Benefits, Puja - Chakra ... https://chakrayog.com/yantras/
+[4] How to Use the Shree Yantra for Wealth and Harmony:13 ... https://yantrachants.com/how-to-use-the-shree-yantra-for-wealth/
+[5] Meaning, Symbols, Astrology, and How Yantra Works https://www.rudraksha-ratna.com/articles/yantra
+[6] Yantra - Harnessing the Power of Mystical Geometry https://www.yoginiashram.com/yantra-harnessing-the-power-of-mystical-geometry/
+[7] The Powers of Yantra – Unveiling the Mystical Veda ... https://vedayantra.com/blogs/news/the-powers-of-yantra-unveiling-the-mystical-veda-yantra-powers
+[8] Sri Yantra Sri Yantra is one of the most sacred symbols in ... https://www.facebook.com/thekarmicclique/posts/sri-yantra-sri-yantra-is-one-of-the-most-sacred-symbols-in-hindu-spirituality-re/1251562503792727/
+[9] Yantra | Hinduism, Rituals, Symbols https://www.britannica.com/topic/yantra
+[10] YANTRA https://www.aghori.it/yantra_eng.htm
+[11] Yantra | Jai Guru Dev - WordPress.com https://omshivam.wordpress.com/trikal-sandhya/yantra/
+[12] The Meaning of Jāmi, Māyu, and Devagavā https://zenodo.org/record/2450096/files/article.pdf
+[13] Yantra and Yagya http://ijyr.dsvv.ac.in/index.php/ijyr/article/download/114/140
+[14] Deciphering ‘Idam-na-mama– This is not mine’ as the core tenet of a Yagya based life-style http://ijyr.dsvv.ac.in/index.php/ijyr/article/download/32/49
+[15] Baudhāyana Paribhāṣāsūtra, Khaṇḍa VII https://zenodo.org/record/2323283/files/article.pdf
+[16] Ancient Science of Mantras – Wisdom of the Sages https://pmc.ncbi.nlm.nih.gov/articles/PMC6937880/
+[17] THE RHYTHM OF RITUALS OF TAMIL NADU – A DESCRIPTIVE STUDY https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/601/612
+
+
