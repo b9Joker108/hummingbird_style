@@ -2,10 +2,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/wayfinding/intro
 
 # Wayfinding: An Introduction #
 
-...
-
-
-Now, in the Martial Tradition in the English, complexities of different kinds of Third Gender and diversity in both Male and Female typologies and Others that do not easily set within this frame. I am an Alpha Terrestrial. I hold a superset of Male and Female qualities and attributes and also have a gifting for ranging territoriality and reconaissance. One of the ways this is determined, that territorials, regardless of gender, get a bit 'funky', 'wild' or 'go native' and 'primal' etc.
+In the Martial Tradition in the English, complexities of different kinds of Third Gender and diversity in both Male and Female typologies and Others that do not easily set within this frame. I am an Alpha Terrestrial or Terratorial. I read this in contemporary American military lore. But, do not presently remember the academic monograph. I hold a superset of Male and Female qualities and attributes and also have a gifting for ranging terrestriality or territoriality and reconaissance. One of the ways this is determined, in the literature and in the contemporary martial traditions, is that territorials, regardless of gender, get a bit 'funky', 'wild' or 'go native' and exhibit a 'primal' nature, etc.
 
 What you are describing lines up very closely with a cluster of archetypes that show up again and again in martial cultures, but are rarely named clearly in English: liminal, third‑way figures who sit “between” conventional male/female coding and between “civilised” and “wild.”
 
