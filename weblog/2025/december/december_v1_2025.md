@@ -13,6 +13,7 @@ I annotated the above Insta clip with the following:
 > This is very accomplished kettlebell work. Here, you can clearly see, the intersection of juggling, club, baton, poi and kettlebell work and flow, collapsed into one movement complex or pattern. I am an adept at contemporary poi, but am presently a bit rusty. I am also friggin' annoyed that soon, I will be endeavouring and taking political asylum from Australia for a third time, and the second time proper, with Sweden and abandoning much of my superlative hard-won wealth, such as my four (4) kettlebells.
 
 **Intertextuality**
+
 <img src="https://img.youtube.com/vi/OuWHH_5sfSU/hqdefault.jpg" width="120" />
 
 
