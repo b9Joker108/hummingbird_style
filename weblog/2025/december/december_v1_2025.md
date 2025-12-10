@@ -2,11 +2,22 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Wednesday, December 10, 2025 ###
+
+Deixis:
+
+* https://www.instagram.com/reel/DR4xJrdDVo1/?igsh=dTQ1cDV4YjYyNGF4
+
+I annotated the above Insta clip with the following:
+
+> This is very accomplished kettlebell work. Here, you can clearly see, the intersection of juggling, club, baton, poi and kettlebell work and flow, collapsed into one movement complex or pattern. I am an adept at contemporary poi, but am presently a bit rusty. I am also friggin' annoyed that soon, I will be endeavouring and taking political asylum from Australia for a third time, and the second time proper, with Sweden and abandoning much of my superlative hard-won wealth, such as my four (4) kettlebells.
+
+
+
 ### Sunday, December 7, 2025 ###
 
-DeiXEs:
+Deixis:
 * https://unior.academia.edu/GIACOMELLAOROFINO
-
 
 Orofino, is one of my godsisters or vajra-mantra-kin and a scholar, researcher, writer and Tibetologist of substandard, whom I hold in particular personal esteem and heart-warmth.
 
