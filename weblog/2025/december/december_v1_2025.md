@@ -14,8 +14,11 @@ I annotated the above Insta clip with the following:
 
 **Intertextuality**
 
+* https://en.wikipedia.org/wiki/Yang-Hui_He
+
 <img src="https://img.youtube.com/vi/OuWHH_5sfSU/hqdefault.jpg" width="120" />
 
+* Into the groovey cioccone youth & b-side of Substandard
 
 
 ### Sunday, December 7, 2025 ###
