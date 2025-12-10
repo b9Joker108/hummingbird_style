@@ -2,6 +2,9 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+
+![Bucketsquad Cherry Blossom Shorts](https://raw.githubusercontent.com/b9Joker108/hummingbird_style/main/assets/images/sportsware/shortsyshorts/Bucketsquad%20Collection%202025%20(Label%20~%20BKTSQD)%20Cherry%20Blossom%20Spring%20Sky%20Youth%20Shorts.jpg)
+
 ### Thursday, December 11, 2025 ###
 
 **Bucketsquad Shorts: Triangulate deeply from all angles**
