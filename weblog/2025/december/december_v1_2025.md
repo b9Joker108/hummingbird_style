@@ -18,7 +18,7 @@ I annotated the above Insta clip with the following:
 
 <img src="https://img.youtube.com/vi/OuWHH_5sfSU/hqdefault.jpg" width="120" />
 
-* Into the groovey cioccone youth & b-side of Substandard
+* Ciccone Youth (Sonic Youth) - Into The Groove(y) / Burnin' Up (1986) full 12" Single
 
 
 ### Sunday, December 7, 2025 ###
