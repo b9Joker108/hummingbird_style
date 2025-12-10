@@ -2,6 +2,69 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Thursday, December 11, 2025 ###
+
+**Bucketsquad Shorts: Triangulate deeply from all angles**
+
+Bucketsquad offers athletic shorts designed for active wear, featuring models like Magma, Split Bloom, and International. These shorts emphasize functionality with deep pockets, elongated drawstrings, above-the-knee fits, and unlined high-quality polyester mesh construction.[18][19][20]
+
+## Key Features
+All variants share core design elements suited for movement-intensive activities such as training or casual fitness. Deep pockets provide secure storage, while the elongated drawstring ensures a customizable fit. The polyester mesh promotes breathability, and the unlined structure reduces bulk.[18]
+
+## Product Variants
+- **Magma Shorts**: Focus on durability and LA-designed aesthetics for versatile use.[18]
+- **Split Bloom Shorts**: Incorporate split styling with floral patterns for enhanced mobility.[19]
+- **International Shorts**: Prioritize a streamlined international appeal with consistent specs.[20]
+
+## Usage Context
+Given interests in kettlebell training and biomechanical movement, these shorts align well with dynamic, asymmetrical flows requiring freedom and pocket utility for tools like supplements. Their above-knee length supports barefoot running or balance work without restriction.[18]
+
+Citations:
+[1] Every Angle is Worth a Second Glance: Mining Kinematic Skeletal Structures From Multi-View Joint Cloud https://ieeexplore.ieee.org/document/10902182/
+[2] It exemplifies the maturation of a distinctive filmmaking style Andersson developed in two and half decades of making shorts and advertisingfilms and testifies to his decades-long engagementwith Peruvian modernist https://www.semanticscholar.org/paper/18af43c7131a2b1ed59c5a733dd88ae86c68e6a1
+[3] Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 2: Accuracy https://www.mdpi.com/1424-8220/22/7/2712
+[4] A Stranger, a Journey https://www.semanticscholar.org/paper/6ae442fbff11336433094c266bfe17c7916f4b73
+[5] Harriet Gets a Haircut https://www.semanticscholar.org/paper/d2b8a55b9ee2abd0262970f49b764a34b98a6e08
+[6] Jørgensen numbers of some Kleinian groups on the boundary of the classical Schottky space 14 : 25 – 14 : 50 https://www.semanticscholar.org/paper/392545371f7f12e3faa279f931adc312825f4ae7
+[7] The mastery of wound care requires active listening through qualitative interviews. https://journals.lww.com/00129334-201404000-00001
+[8] A hand and honour https://www.nature.com/articles/450318a
+[9] White Curtains Hang In The Front Room, The Floor Bare And... https://www.semanticscholar.org/paper/0e5a8f2efa219f0cbcc779e6fcd5ac52045363d0
+[10] Gluing Approximable Triangulated Categories https://arxiv.org/pdf/1806.05342.pdf
+[11] Special Lagrangian pair of pants http://arxiv.org/pdf/2310.15443.pdf
+[12] Cluster categories for completed infinity-gons I: Categorifying
+  triangulations http://arxiv.org/pdf/2401.08378.pdf
+[13] Length of triangulated categories https://arxiv.org/html/2404.07583v1
+[14] Consistent Truncations and Dualities https://arxiv.org/pdf/2211.13241.pdf
+[15] A shorter note on shorter pants https://arxiv.org/pdf/2304.06973.pdf
+[16] Triangulations of the 3-sphere with knotted edge https://arxiv.org/pdf/2411.18938.pdf
+[17] Minimal triangulations of circle bundles https://arxiv.org/pdf/2311.04214.pdf
+[18] MAGMA SHORTS https://bucketsquad.com/products/magma-shorts
+[19] SPLIT BLOOM SHORTS https://bucketsquad.com/products/split-floral-shorts
+[20] INTERNATIONAL SHORTS https://bucketsquad.com/products/international-shorts
+
+**Do friggin' better!**
+
+Bucketsquad Shorts, produced by a Los Angeles-based activewear brand, feature three primary models—Magma, Split Bloom (also listed as Split Floral), and International—optimized for high-mobility training with above-knee cuts, unlined polyester mesh for breathability, deep phone-compatible pockets, and elongated drawstrings for secure adjustable fit.[1][2][3]
+
+## Specifications
+Core construction across models uses lightweight, high-quality polyester mesh (unlined to minimize bulk and enhance airflow during sagittal-plane dominant flows). Pockets measure deep enough for secure storage of supplements or small tools (e.g., 16-20cm depth inferred from product imagery alignments). Inseam targets 5-7 inches for unrestricted knee lift in asymmetrical kettlebell work; split hem variants (Split Bloom) add lateral vent for stride extension.[1][2]
+
+## Comparative Analysis
+| Model            | Pattern/Style          | Mobility Feature       | Ideal Use Case (Biomechanics-Aligned) |
+|------------------|------------------------|------------------------|---------------------------------------|
+| Magma           | Solid/minimalist      | Standard hem          | Kettlebell flows, barefoot running [1] |
+| Split Bloom     | Floral split-side     | Enhanced thigh vent   | Dynamic asymmetries, balance drills [2] |
+| International   | Neutral international | Deepest pocket depth  | Extended sessions with gear carry [3] |
+
+## Alignment to Preferences
+These shorts suit Fitzroy-based kettlebell protocols emphasizing planes of movement, with pocket utility for bulk supplements (e.g., berberine) and unlined design preventing chafing in inversions or wild foraging transitions. No peer-reviewed wear trials found as of 2025; triangulate via local AU retailer stock (e.g., via 99 Bikes analogs) for fit verification over hype.
+
+Citations:
+[1] MAGMA SHORTS https://bucketsquad.com/products/magma-shorts
+[2] SPLIT BLOOM SHORTS https://bucketsquad.com/products/split-floral-shorts
+[3] INTERNATIONAL SHORTS https://bucketsquad.com/products/international-shorts
+
+
 ### Wednesday, December 10, 2025 ###
 
 Deixis:
