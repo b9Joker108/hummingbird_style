@@ -6,17 +6,11 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 **Steph[an]ie-Jo Sorenson**
 
-Steph\[an]ie-Jo Sorenson emerges as a prolific social-media kettlebell instructor with a focus on accessible, full-body circuits blending hardstyle-inspired tension techniques, Indian club swings, and kettlebell juggling patterns.[2][3][7] Active across YouTube (channel: Steph Jo Sorenson, with playlists like "INTRO to THE KETTLEBELL" for beginners), Instagram (@stephjosorenson, 304K followers), and TikTok (@stephjosorenson), she positions herself as a certified kettlebell juggler offering certifications, while emphasizing fun, transformative fitness for women over decades of coaching.[1][4][5][6]
-
-## Training style and content  
+Steph\[an]ie-Jo Sorenson emerges as a prolific social-media kettlebell instructor with a focus on accessible, full-body circuits blending hardstyle-inspired tension techniques, Indian club swings and kettlebell juggling patterns.[2][3][7] Active across YouTube (channel: Steph Jo Sorenson, with playlists like "INTRO to THE KETTLEBELL" for beginners), Instagram (@stephjosorenson, 304K followers), and TikTok (@stephjosorenson), she positions herself as a certified kettlebell juggler offering certifications, whilst emphasizing fun, transformative fitness for women over decades of coaching.[1][4][5][6]
 
 Sorenson's videos feature structured series—e.g., "Kettlebell Leg Day" (full-body circuits with swings, squats, goblet holds), "Upper-Body Focused" workouts, and mace-kettlebell hybrids—prioritizing technique refinement, grip variations (under-over for squats), and progressive overload in home-gym settings.[3][4][8][9] Her approach mixes hardstyle ballistic power (hip hinges, tension-relax cycles akin to StrongFirst) with juggling flair (flips, figure-8s for coordination), marketed as "enhancing skills in kettlebell and Indian club training" without rigid minimalist protocols like Simple & Sinister.[2][5]
 
-## Juggling and generalist emphasis  
-
 Kettlebell juggling forms a signature element, with certifications advertised and demos highlighting dynamic tosses, reverse flips, and multi-bell patterns to build grip endurance, proprioception, and metabolic demand—positioning her as a generalist bridging powerlifting, sport (long-cycle jerks/snatches), and flow artistry.[18][7] Content targets broad accessibility (beginner intros to leg-focused circuits), potentially earning the "generalist of substandard" tag in purist critiques for diluting hardstyle specificity with eclectic, high-rep circuits over elite strength benchmarks.[2][3]
-
-## Profile and reach  
 
 At 57 (as of 2025 Instagram posts), Sorenson claims 20+ years coaching via GGS Academy certifications, with a motivational, faith-infused bio ("Jesus #1") and viral reels on body transformation.[6][7] Her ecosystem thrives on short-form platforms (TikTok views in thousands, YouTube in 1K+ per video), lacking formal RKC/StrongFirst affiliation or peer-reviewed citations, but filling a niche for visual, female-led generalist programming amid clinical kettlebell literature's focus on trials rather than personalities.[1][5]
 
