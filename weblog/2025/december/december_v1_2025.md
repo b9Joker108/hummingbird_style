@@ -2,6 +2,44 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Wednesday, December 17, 2025 ###
+
+**Steph[an]ie-Jo Sorenson**
+
+Steph\[an]ie-Jo Sorenson emerges as a prolific social-media kettlebell instructor with a focus on accessible, full-body circuits blending hardstyle-inspired tension techniques, Indian club swings, and kettlebell juggling patterns.[2][3][7] Active across YouTube (channel: Steph Jo Sorenson, with playlists like "INTRO to THE KETTLEBELL" for beginners), Instagram (@stephjosorenson, 304K followers), and TikTok (@stephjosorenson), she positions herself as a certified kettlebell juggler offering certifications, while emphasizing fun, transformative fitness for women over decades of coaching.[1][4][5][6]
+
+## Training style and content  
+
+Sorenson's videos feature structured series—e.g., "Kettlebell Leg Day" (full-body circuits with swings, squats, goblet holds), "Upper-Body Focused" workouts, and mace-kettlebell hybrids—prioritizing technique refinement, grip variations (under-over for squats), and progressive overload in home-gym settings.[3][4][8][9] Her approach mixes hardstyle ballistic power (hip hinges, tension-relax cycles akin to StrongFirst) with juggling flair (flips, figure-8s for coordination), marketed as "enhancing skills in kettlebell and Indian club training" without rigid minimalist protocols like Simple & Sinister.[2][5]
+
+## Juggling and generalist emphasis  
+
+Kettlebell juggling forms a signature element, with certifications advertised and demos highlighting dynamic tosses, reverse flips, and multi-bell patterns to build grip endurance, proprioception, and metabolic demand—positioning her as a generalist bridging powerlifting, sport (long-cycle jerks/snatches), and flow artistry.[18][7] Content targets broad accessibility (beginner intros to leg-focused circuits), potentially earning the "generalist of substandard" tag in purist critiques for diluting hardstyle specificity with eclectic, high-rep circuits over elite strength benchmarks.[2][3]
+
+## Profile and reach  
+
+At 57 (as of 2025 Instagram posts), Sorenson claims 20+ years coaching via GGS Academy certifications, with a motivational, faith-infused bio ("Jesus #1") and viral reels on body transformation.[6][7] Her ecosystem thrives on short-form platforms (TikTok views in thousands, YouTube in 1K+ per video), lacking formal RKC/StrongFirst affiliation or peer-reviewed citations, but filling a niche for visual, female-led generalist programming amid clinical kettlebell literature's focus on trials rather than personalities.[1][5]
+
+Citations:
+[1] Steph Sorenson https://www.tiktok.com/discover/steph-sorenson
+[2] Steph Jo Sorenson https://www.youtube.com/channel/UCF5xrBoe8JRUR1oAGTQpMTA/playlists
+[3] Steph Jo Sorenson https://www.youtube.com/channel/UCF5xrBoe8JRUR1oAGTQpMTA
+[4] Upper-Body Focused, Full-Body Kettlebell Workout by ... https://www.youtube.com/watch?v=DZpPcu0GeeM
+[5] Mastering Your Fitness: Tips for Kettlebell Training https://www.tiktok.com/@stephjosorenson/video/7544917246733307166
+[6] Steph Sorenson turns 57 this April and is having fun ... https://www.instagram.com/reel/C4lzda_peit/
+[7] Steph Sorenson (@stephjosorenson) https://www.instagram.com/stephjosorenson/?hl=en
+[8] Mace & Kettlebell #20. Leg Focused, Full-Body workout ... https://www.youtube.com/watch?v=yt7rYfreMbs
+[9] a full-body circuit. #kettlebelltraining with Steph Jo Sorenson https://www.youtube.com/watch?v=-zbwfafBN1U
+[10] Enhancing Athletic Performance: A Comprehensive Review on Kettlebell Training https://assets.cureus.com/uploads/review_article/pdf/206113/20240203-2654-5v1gvg.pdf
+[11] Kettlebell training for musculoskeletal and cardiovascular health: a randomized controlled trial. https://www.sjweh.fi/download.php?abstract_id=3136&file_nro=1
+[12] Effects of kettlebell swing training on cardiorespiratory and metabolic demand to a simulated competition in young female artistic gymnasts https://dx.plos.org/10.1371/journal.pone.0283228
+[13] The effects of kettlebell training versus resistance training using the own body mass on physical fitness and physiological adaptations in obese adults: a randomized controlled trial https://pmc.ncbi.nlm.nih.gov/articles/PMC11077891/
+[14] Effects of a Low-Volume Kettlebell Strength Program on Vertical Jump and Isometric Strength in Dancers: A Pilot Study https://www.mdpi.com/2411-5142/10/2/130
+[15] Body Composition and Strength Symmetry of Kettlebell Sport Athletes https://www.mdpi.com/2079-7737/12/3/440/pdf?version=1678631672
+[16] Effects of kettlebell swing training on cardiorespiratory and metabolic demand to a simulated competition in young female artistic gymnasts https://pmc.ncbi.nlm.nih.gov/articles/PMC10124852/
+[17] Kettlebell Training for Female Ballet Dancers: Effects on Lower Limb Power and Body Balance https://pmc.ncbi.nlm.nih.gov/articles/PMC7706648/
+[18] KB juggling ideas https://www.reddit.com/r/kettlebell/comments/1o1kerb/kb_juggling_ideas/
+
 ### Tuesday, December 16, 2025 ###
 
 I am elated, relieved and proud to relate, that I may now touch my toes and beyond whilst seated onground with straight outstretched legs that are touching throughout their inner-length with superlative back alighnment . Drishti and mahabandhas and hatha ashthanga samyama and ornamentation, that is mudras, nyasas, etc., are yet to be applied. But, at minimum, I feel I may deprecate outdoor bodywork and progress in my now disintegrating and formerly once-beautiful dedicated inner-mandhira. I have just re-freshed the boiling water in my orange and white Bauddhadharma Ashtamangla teapot and am letting it draw. I needsmust rest and haven't yet got to putting in my new Amaysim SIM in my somewhat smart smartwatch.
