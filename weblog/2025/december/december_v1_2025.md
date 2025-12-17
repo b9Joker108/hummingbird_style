@@ -36,7 +36,7 @@ Citations:
 
 ### Tuesday, December 16, 2025 ###
 
-I am elated, relieved and proud to relate, that I may now touch my toes and beyond whilst seated onground with straight outstretched legs that are touching throughout their inner-length with superlative back alighnment . Drishti and mahabandhas and hatha ashthanga samyama and ornamentation, that is mudras, nyasas, etc., are yet to be applied. But, at minimum, I feel I may deprecate outdoor bodywork and progress in my now disintegrating and formerly once-beautiful dedicated inner-mandhira. I have just re-freshed the boiling water in my orange and white Bauddhadharma Ashtamangla teapot and am letting it draw. I needsmust rest and haven't yet got to putting in my new Amaysim SIM in my somewhat smart smartwatch.
+I am elated, relieved and proud to relate, that I may now touch my toes and beyond whilst seated onground with straight outstretched legs that are touching throughout their inner-length with superlative back alignment. Drishti and mahabandhas and hatha ashthanga samyama and ornamentation, that is mudras, nyasas, etc., are yet to be applied. But, at minimum, I feel I may deprecate outdoor bodywork and progress in my now disintegrating and formerly once-beautiful dedicated inner-mandhira of my home in Fitzroy Street, Fitzroy, Australia. I have just re-freshed the boiling water in my orange and white Bauddhadharma Ashtamangla teapot and am letting it draw. I needsmust rest and haven't yet got to putting in my new Amaysim SIM in my somewhat smart smartwatch.
 
 Deix|s:
 
