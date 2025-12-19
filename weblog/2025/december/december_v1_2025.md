@@ -8,14 +8,17 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 The John Rylands Library in Manchester stands as a neo-Gothic masterpiece, renowned for its breathtaking exterior and interior that evoke a cathedral dedicated to knowledge. Its intricate stone carvings, vaulted ceilings, stained glass windows, and grand reading room—often called the "Cathedral of Books"—frequently inspire profound emotional responses from visitors [1][2][3].
 
-## Construction History
+**Construction History**
+
 Enriqueta Rylands commissioned architect Basil Champneys in 1889 as a memorial to her late husband, John, with construction spanning 1890 to 1899 at a final cost of over £224,000—nearly triple the estimate [1][3][4]. The Victorian neo-Gothic design draws from church architecture, featuring Perpendicular and Decorated Gothic elements like flying buttresses, lancet windows, and ornate pillars, built from durable Cumbrian sandstone to withstand Manchester's polluted air [2][5][6]. It opened to the public on January 1, 1900, housing over 70,000 volumes initially [1][4].
 
-## Architectural Beauty
+**Architectural Beauty**
+
 The three-story Historic Reading Room captivates with its awe-inspiring vaulted ceiling, dark oak panels illuminated by colorful stained glass, and statues of the Rylands facing each other like bookends [1][3][5]. Art Nouveau touches appear in bronze railings and light fixtures, while bespoke furniture with velvet-sealed metal doors protects rare books in cloister-like bays [3]. Major renovations from 2003–2007 added a pitched roof as originally envisioned, enhancing its fortress-like presence on Deansgate [3][4].
 
-## Worker Sacrifices
-No historical records confirm worker deaths or lives "listed" during construction, despite the era's common hazards in large-scale Victorian projects; accounts focus instead on Enriqueta's grief-fueled dedication and Champneys' design challenges [7][4][6]. One staff death occurred later, during World War I, unrelated to building [4]. The intuitive sense of human toll may stem from the building's monumental scale and labor-intensive Gothic craftsmanship [5].
+**Worker Sacrifices**
+
+No historical records confirm worker deaths or lives lost during construction, despite the era's common hazards in large-scale Victorian projects; accounts focus instead on Enriqueta's grief-fueled dedication and Champneys' design challenges [7][4][6]. One staff death occurred later, during World War I, unrelated to building [4]. The intuitive sense of human toll may stem from the building's monumental scale and labor-intensive Gothic craftsmanship [5].
 
 Citations:
 [1] Manchester - John Rylands Library https://explorial.com/sights/manchester-john-rylands-library/
