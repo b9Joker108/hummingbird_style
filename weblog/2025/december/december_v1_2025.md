@@ -2,7 +2,9 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
-### Friday, December 19, 2025 ###
+### Friday, December 19, 2025 ~ 'Earthwalk' ###
+
+I defer to Ms. Darlene Rollins to explain the Medicinwheelways of 'Earthwalk' proper. I have full confidence in her acumen and presence.
 
 ![](https://img.youtube.com/vi/6njqgavf5TI/default.jpg)
 
