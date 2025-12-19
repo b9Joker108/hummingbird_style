@@ -4,7 +4,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 ### Friday, December 19, 2025 ###
 
-**The most beautiful building I have so far seen in this earthwalk is the John Rylands Building in Manchester, England, U.K. Both the exterior and interior are indescribably beautiful. I cried when I saw its exterior for the first time in my spontaneous exploration. I also cried again when I entered its interior. I also knew, without researching or being told, that many, many people lost their lives in its construction.**
+**The most beautiful building I have so far seen in this earthwalk is the John Rylands Building in Manchester, England, U.K. Both the exterior and interior are indescribably beautiful. I cried when I saw its exterior for the first time in my spontaneous exploration. I also cried again when I entered its interior. I also knew, without researching or being told, that many, many people lost their lives in its construction. The building is founded on blood.**
 
 The John Rylands Library in Manchester stands as a neo-Gothic masterpiece, renowned for its breathtaking exterior and interior that evoke a cathedral dedicated to knowledge. Its intricate stone carvings, vaulted ceilings, stained glass windows, and grand reading room—often called the "Cathedral of Books"—frequently inspire profound emotional responses from visitors [1][2][3].
 
