@@ -4,6 +4,12 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 ### Friday, December 19, 2025 ###
 
+![](https://img.youtube.com/vi/6njqgavf5TI/default.jpg)
+
+Deix|s:
+
+* https://www.youtube.com/live/6njqgavf5TI?si=jwlcOqFmzpYb_e__ 
+
 **The most beautiful building I have so far seen in this earthwalk is the [John Rylands Building](https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library) in Manchester, England, U.K. Both the exterior and interior are indescribably beautiful. From me, that is of course [hyperbole](https://en.wiktionary.org/w/index.php?title=hyperbole&oldid=88481189). I cried in [transportment](https://en.wiktionary.org/w/index.php?title=transportment&oldid=81274906) when I saw its exterior for the first time in my spontaneous exploration. To be clear and fair, I had never read nor heard of this building and I did not know of the monumental collection it housed. I also cried again when I entered its interior. I also knew, without researching or being told, that many, many people lost their lives in its construction. The building is founded on blood. This building and Beauford share a commonality, you just don't get the truth of us from representation.**
 
 The John Rylands Library in Manchester stands as a neo-Gothic masterpiece, renowned for its breathtaking exterior and interior that evoke a cathedral dedicated to knowledge. Its intricate stone carvings, vaulted ceilings, stained glass windows, and grand reading room—often called the "Cathedral of Books"—frequently inspire profound emotional responses from visitors [1][2][3].
