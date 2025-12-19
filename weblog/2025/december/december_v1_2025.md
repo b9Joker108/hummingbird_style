@@ -6,9 +6,10 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 ![](https://img.youtube.com/vi/6njqgavf5TI/default.jpg)
 
-Deix|s:
+DeixMs:
 
-* https://www.youtube.com/live/6njqgavf5TI?si=jwlcOqFmzpYb_e__ 
+* https://www.youtube.com/live/6njqgavf5TI?si=jwlcOqFmzpYb_e__
+* https://github.com/b9Joker108/a_glockenspiel_magistery/blob/main/sadhana_practice_diary_and_log/2025/december_2025_v1_10122025.md#friday-december-19-2025--everyday-enchantment-enchantment-everyday
 
 **The most beautiful building I have so far seen in this earthwalk is the [John Rylands Building](https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library) in Manchester, England, U.K. Both the exterior and interior are indescribably beautiful. From me, that is of course [hyperbole](https://en.wiktionary.org/w/index.php?title=hyperbole&oldid=88481189). I cried in [transportment](https://en.wiktionary.org/w/index.php?title=transportment&oldid=81274906) when I saw its exterior for the first time in my spontaneous exploration. To be clear and fair, I had never read nor heard of this building and I did not know of the monumental collection it housed. I also cried again when I entered its interior. I also knew, without researching or being told, that many, many people lost their lives in its construction. The building is founded on blood. This building and Beauford share a commonality, you just don't get the truth of us from representation.**
 
