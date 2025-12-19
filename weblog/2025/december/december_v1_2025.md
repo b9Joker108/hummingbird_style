@@ -2,6 +2,41 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Friday, December 19, 2025 ###
+
+**The most beautiful building I have so far seen in this earthwalk is the John Rylands Building in Manchester, England, U.K. Both the exterior and interior are indescribably beautiful. I cried when I saw its exterior for the first time in my spontaneous exploration. I also cried again when I entered its interior. I also knew, without researching or being told, that many, many people lost their lives in its construction.**
+
+The John Rylands Library in Manchester stands as a neo-Gothic masterpiece, renowned for its breathtaking exterior and interior that evoke a cathedral dedicated to knowledge. Its intricate stone carvings, vaulted ceilings, stained glass windows, and grand reading room—often called the "Cathedral of Books"—frequently inspire profound emotional responses from visitors [1][2][3].
+
+## Construction History
+Enriqueta Rylands commissioned architect Basil Champneys in 1889 as a memorial to her late husband, John, with construction spanning 1890 to 1899 at a final cost of over £224,000—nearly triple the estimate [1][3][4]. The Victorian neo-Gothic design draws from church architecture, featuring Perpendicular and Decorated Gothic elements like flying buttresses, lancet windows, and ornate pillars, built from durable Cumbrian sandstone to withstand Manchester's polluted air [2][5][6]. It opened to the public on January 1, 1900, housing over 70,000 volumes initially [1][4].
+
+## Architectural Beauty
+The three-story Historic Reading Room captivates with its awe-inspiring vaulted ceiling, dark oak panels illuminated by colorful stained glass, and statues of the Rylands facing each other like bookends [1][3][5]. Art Nouveau touches appear in bronze railings and light fixtures, while bespoke furniture with velvet-sealed metal doors protects rare books in cloister-like bays [3]. Major renovations from 2003–2007 added a pitched roof as originally envisioned, enhancing its fortress-like presence on Deansgate [3][4].
+
+## Worker Sacrifices
+No historical records confirm worker deaths or lives "listed" during construction, despite the era's common hazards in large-scale Victorian projects; accounts focus instead on Enriqueta's grief-fueled dedication and Champneys' design challenges [7][4][6]. One staff death occurred later, during World War I, unrelated to building [4]. The intuitive sense of human toll may stem from the building's monumental scale and labor-intensive Gothic craftsmanship [5].
+
+Citations:
+[1] Manchester - John Rylands Library https://explorial.com/sights/manchester-john-rylands-library/
+[2] Visit of the John Rylands Library in Manchester - Road Trips around the World https://www.roadtripsaroundtheworld.com/john-rylands-library-in-manchester/
+[3] The world-renowned library inspired and created by love https://ilovemanchester.com/john-rylands-library-history
+[4] John Rylands Research Institute and Library - Wikipedia https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library
+[5] Manchester’s Twentieth-Century Library: The John Rylands Library https://www.visitmanchester.com/ideas-and-inspiration/blog/post/manchester-s-twentieth-century-library-the-john-rylands-library/
+[6] John Rylands Research Institute and Library - Wikipedia https://en.wikipedia.org/wiki/John_Rylands_University_Library
+[7] Heartbreaking Story Behind John Rylands Library https://propermanchester.com/feature/the-heartbreaking-story-behind-manchesters-iconic-john-rylands-library/
+[8] John Rylands Library | A local guide by Premier Inn https://www.premierinn.com/gb/en/things-to-do/manchester/john-rylands-library.html
+[9] Visiting the John Rylands Library - Life In The Mouse House https://mousehouselife.wordpress.com/2023/12/15/visiting-john-rylands-library/
+[10] Visit (The University of Manchester Library) https://www.library.manchester.ac.uk/rylands/visit/
+[11] Unknown lady who funded a Hogwarts-style library https://www.bbc.com/news/articles/c864p0w7wjlo
+[12] A gothic tale | John Rylands Research Institute and Library, ... https://www.museumsassociation.org/museums-journal/reviews/2025/12/a-gothic-tale-john-rylands-research-institute-and-library/
+[13] Enriqueta Rylands, a Woman Ahead of her Time https://blogs.bodleian.ox.ac.uk/oxfordtrainees/constructing-a-noble-library-enriqueta-rylands-a-woman-ahead-of-her-time/
+[14] The John Rylands Library | Nissen Richards Studio https://www.archello.com/project/the-john-rylands-library
+[15] Building Design and Manchester's https://www.jstor.org/stable/3527048
+[16] The man, the myth, the building: John Rylands https://mancunion.com/2021/12/18/the-man-the-myth-the-building-john-rylands/
+[17] Why DC won at the John Rylands Library https://blog.scienceandindustrymuseum.org.uk/john-rylands-library-dc/
+
+
 ### Wednesday, December 17, 2025 ###
 
 **Steph[an]ie-Jo Sorenson**
