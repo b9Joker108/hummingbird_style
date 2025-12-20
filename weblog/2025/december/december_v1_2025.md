@@ -2,6 +2,128 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### ..., December 20, 2025 ###
+
+**Zoom isn't available on my somewhat smart smartwatch: Are there SOTA sovereign alt.'s?**
+
+Here’s the straight, defensible picture, Beauford: Grounded in the search results and then filtered through your actual constraint ~ A “somewhat smart” smartwatch that cannot run Zoom, and your desire for SOTA, sovereign‑leaning alternatives.
+
+**🧭 First: What the search results actually tell us**
+
+* The sources list mainstream Zoom alternatives: RingCentral, Dialpad, Microsoft Teams, etc., .... 
+* None of them mention smartwatch‑native support, and none are “sovereign” in the sense of self‑hosted, privacy‑preserving or non‑US‑cloud‑dependent.
+
+So we have to interpret your question through two filters:
+
+1. Sovereign / self‑hosted / privacy‑respecting  
+2. Lightweight enough to run on a constrained wearable OS
+
+The search results don’t directly answer that, so I’ll synthesize the landscape for you.
+
+**🛡️ Sovereign, SOTA, Lightweight Alternatives to Zoom**
+
+NB: Ranked by feasibility on a smartwatch.
+
+**1. Jitsi Meet (self‑hosted or EU‑hosted)**
+
+- Open‑source, sovereign‑friendly  
+- Can be run on your own server  
+- Browser‑based mode sometimes works on wearable browsers  
+- Most realistic option for a smartwatch because it can degrade to audio‑only
+
+**Feasibility on smartwatch**
+
+✔ Audio‑only mode often works  
+✖ Full video unlikely  
+✔ Sovereign control if self‑hosted
+
+**2. Mumble (VoIP, ultra‑lightweight, open‑source)**
+
+- Not video, but state‑of‑the‑art low‑latency audio  
+- Extremely light — runs on tiny hardware  
+- Fully self‑hostable  
+- Many smartwatch OSes can run Mumble clients or wrappers
+
+**Feasibility**
+
+✔ Excellent  
+✔ Sovereign  
+✖ No video (but arguably better for wearable ergonomics)
+
+**3. Matrix + Element Call (WebRTC, decentralised)**
+
+- Fully sovereign, decentralised, open‑protocol  
+- Element Call is browser‑based  
+- Some wearables can run lightweight Matrix clients  
+- Video is heavy, but audio‑only is plausible
+
+**Feasibility**
+
+✔ Audio‑only  
+✖ Video unlikely  
+✔ Strong sovereignty
+
+**4. Linphone (SIP, open‑source)**
+
+- SIP‑based calling  
+- Very light  
+- Self‑hostable PBX (Asterisk, FreePBX)  
+- Some smartwatch OSes support SIP clients
+
+**Feasibility**
+
+✔ High for audio  
+✖ No conferencing unless paired with a SIP bridge  
+✔ Sovereign
+
+**5. BigBlueButton (open‑source, education‑grade)**
+
+- Sovereign, self‑hostable  
+- Heavy for a smartwatch  
+- Only viable if joining via audio‑only browser mode
+
+**Feasibility**
+
+✔ Audio‑only possible  
+✖ Heavy  
+✔ Sovereign
+
+**🧩 What’s not viable on a smartwatch**
+
+The mainstream Zoom alternatives from the search results ~ RingCentral, Dialpad, Teams, etc., are:
+
+- Too heavy  
+- Not sovereign  
+- Not wearable‑friendly  
+- Require full mobile OS support  
+
+So they’re out.
+
+**🥇 Your best sovereign options, realistically**
+
+If you want true sovereignty + smartwatch compatibility, the hierarchy is:
+
+1. Mumble — if audio‑only is acceptable  
+2. Jitsi (self‑hosted) — if you need occasional video but can tolerate audio‑only on the watch  
+3. Matrix/Element — if you want decentralised identity + audio fallback  
+4. Linphone (SIP) — if you want pure VoIP with full sovereignty
+
+
+**🔧 If you want, I can map this to your exact smartwatch model**
+
+Because “somewhat smart smartwatch” could mean:
+
+- WearOS  
+- ZeppOS (Amazfit)  
+- Garmin OS  
+- Huawei LiteOS  
+- Samsung’s older Tizen  
+- A proprietary fitness‑watch OS  
+
+Each has different capabilities.
+
+If you tell me the model, I can give you a precise, protocol‑grade compatibility matrix.
+
 ### Friday, December 19, 2025 ~ 'Earthwalk' ###
 
 I defer to Ms. Darlene Rollins to explain the Medicinwheelways of 'Earthwalk' proper. I have full confidence in her acumen and presence.
