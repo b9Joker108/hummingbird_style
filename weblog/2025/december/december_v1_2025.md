@@ -124,6 +124,138 @@ Each has different capabilities.
 
 If you tell me the model, I can give you a precise, protocol‑grade compatibility matrix.
 
+**Now, SOTA FOSS sovereign IRC for Android and/or webbrowser. On this placeholder phone, I am not presently going to install Termux, but I may push-the-envelope with it before I sovrn|src**
+
+Here’s a sovereign‑first shortlist, tuned for your “placeholder phone” constraint (no Termux yet), with a clean split between Android app and pure browser.
+
+---
+
+Core options snapshot
+
+| Layer | Name | Platform | FOSS | Sovereign fit | Notes |
+|------|------|----------|------|---------------|-------|
+| Client | Revolution IRC | Android | Yes | High | Modern FOSS Android IRC client (F‑Droid/Play) |
+| Client | Quasseldroid | Android | Yes | High | For Quassel core; great if you self‑host later |
+| Client | KiwiIRC | Browser | Yes | Medium–High | Can be self‑hosted; also offered by Libera as web client |
+| Client | gamja | Browser | Yes | High | Lightweight FOSS web client; Libera‑blessed |
+| Client | The Lounge | Browser | Yes | High | Always‑on self‑hosted web IRC client |
+| Bouncer | ZNC | Server | Yes | Very High | Classic self‑hosted IRC bouncer |
+| Bouncer | soju | Server | Yes | Very High | Modern minimalist bouncer (IRCv3‑aware) |
+
+> Sources: curated IRC lists and self‑hosted web client overviews.
+
+---
+
+1. What “SOTA FOSS sovereign IRC” actually means here
+
+For your stack and temperament, I’m reading your ask as:
+
+- FOSS: Code inspectable, redistributable, no opaque cloud dependencies.  
+- Sovereign: You can point it at your own IRCd / bouncer, or at least a non‑BigTech network, and later fold it into a fully self‑hosted pipeline (ZNC/soju + web/Android client).  
+- SOTA:  
+  - IRCv3 support (CAP, SASL, account-tag, chghost, etc.).  
+  - TLS, SASL auth, optional history playback (via bouncer), decent UX.  
+
+The tools the search surfaces (awesome‑irc, Libera’s client page, self‑hosted web IRC reviews) confirm that ZNC, The Lounge, KiwiIRC, and friends are still the backbone of the modern stack.
+
+---
+
+2. Android‑side: what to run now on your placeholder phone
+
+Without Termux, your most sovereign‑compatible path is:
+
+Revolution IRC (Android client)
+
+- Why it fits you:  
+  - FOSS Android client, modern, supports multiple servers and SASL.  
+  - You can start by pointing it directly at Libera/OFTC/etc., and later switch it to your own bouncer (ZNC/soju) without changing your phone UX.  
+- Sovereign trajectory:  
+  - Phase 1: direct connect to public IRC network.  
+  - Phase 2: when you sovereign‑up, run ZNC/soju on a box you control and just repoint the hostname/port in Revolution IRC.
+
+(Exact client names aren’t in the search results; they come from general ecosystem knowledge. The sovereign pattern — “FOSS client ↔ self‑hosted bouncer” — is the canon in those curated lists.)
+
+Quasseldroid (if you like the Quassel architecture)
+
+- Pattern: Quassel splits into a core (always‑on daemon) and clients (desktop, Android).  
+- Why you might like it:  
+  - Architecturally elegant for someone who cares about protocol as ritual object.  
+  - Once you host a Quassel core on your own hardware, your Android client is just a thin terminal into that.
+
+---
+
+3. Browser‑only options for maximum portability
+
+For the “placeholder phone” with minimal install surface, web IRC buys you a lot. Libera itself recommends web clients that are FOSS.
+
+KiwiIRC (web, FOSS, can be self‑hosted)
+
+- Current use:  
+  - Libera offers a pre‑configured KiwiIRC instance you can use without installing anything.  
+- Sovereign path:  
+  - Later, you self‑host KiwiIRC behind your own domain and point it at either:  
+    - Your own IRCd  
+    - Or your own bouncer (ZNC/soju)  
+- The self‑hosted‑web‑IRC overviews list KiwiIRC among the primary options for running your own instance.
+
+gamja (web, light, FOSS)
+
+- Libera also offers gamja as a lightweight, compact web client.  
+- It’s designed to be small and efficient — good for lower‑power/placeholder devices with a browser.  
+- You can deploy your own gamja instance to keep everything in your own infra later.
+
+The Lounge (always‑on web client)
+
+- Featured in curated IRC resources as a modern, self‑hosted, always‑on web IRC client.  
+- Once you’re ready to sovereign‑up properly, you can install The Lounge on your own server, access it from any browser (phone, laptop, etc.), and keep history server‑side.
+
+---
+
+4. The bouncer layer (for when you do sovereign|src)
+
+You don’t need this today, but it’s the structural spine of a sovereign IRC setup.
+
+ZNC (classic FOSS bouncer)
+
+- Widely regarded as the reference self‑hosted IRC bouncer; appears in multiple “best self‑hosted IRC” resources.  
+- Stays connected to networks 24/7 and holds your buffers, then feeds them to clients (Android, web, desktop).
+
+soju (modern minimalist bouncer)
+
+- Listed in curated IRC resources as a modern, IRCv3‑aware bouncer.  
+- Minimalist codebase, good if you want something slimmer than ZNC.
+
+Pattern in practice
+
+1. Host: ZNC/soju on a VPS or home server.  
+2. Client(s):  
+   - Android: Revolution IRC / Quasseldroid.  
+   - Browser: self‑hosted KiwiIRC, gamja, or The Lounge.  
+3. Result:  
+   - Full sovereignty over logs and identity.  
+   - Thin clients on “placeholder” or transient devices.
+
+---
+
+5. What I’d actually recommend for you, stepwise
+
+Given your constraints and your future plan to “push-the-envelope … before I sovrn|src”:
+
+1. Right now (minimal install):  
+   - Use Libera’s web client: KiwiIRC or gamja in your browser.  
+   - This lets you get into IRC with zero system footprint, using FOSS tooling.
+
+2. Next (once you’re okay installing an app):  
+   - Install Revolution IRC on Android.  
+   - Point it straight at Libera/OFTC or wherever you want to lurk.
+
+3. Then (when you’re ready to sovereign|src):  
+   - Stand up ZNC or soju on hardware you control.  
+   - Move your browser access to a self‑hosted KiwiIRC/gamja/The Lounge instance.  
+   - Flip Revolution IRC’s server settings to point at your bouncer.
+
+If you tell me which IRC network(s) you’re considering (Libera, OFTC, tildeverse, a cultic‑history enclave, etc.), I can sketch a tiny, archivally‑ready config pattern (nick, SASL, channels, connection options) that you can drop into any of these clients later, as a living protocol.
+
 ### Friday, December 19, 2025 ~ 'Earthwalk' ###
 
 I defer to Ms. Darlene Rollins to explain the Medicinwheelways of 'Earthwalk' proper. I have full confidence in her acumen and presence.
