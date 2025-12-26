@@ -2,6 +2,11 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+Deix|s:
+
+* https://www.sidpaulson.com/
+
+
 ### ..., December 20, 2025 ###
 
 **Zoom isn't available on my somewhat smart smartwatch: Are there SOTA sovereign alt.'s?**
