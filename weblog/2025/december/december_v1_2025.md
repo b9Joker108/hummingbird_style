@@ -2,10 +2,12 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
-Deix|s:
+### Sunday, December 28, 2025 ###
+
+DeixMs:
 
 * https://www.sidpaulson.com/
-
+* https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/p/post_activation_potentiation_v1_28122025.md
 
 ### ..., December 20, 2025 ###
 
