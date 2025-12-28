@@ -6,7 +6,7 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/p/post_a
 
 # Post Activation Potentiation (PEP) #
 
-Post Activation Potentiation: precursors, first attestation, spatio-temporality, historicity and development. Deeply triangulate and survey. Present as a lexical encyclopaedic entry of length. Prestige dialect; academic register.
+**Post Activation Potentiation: precursors, first attestation, spatio-temporality, historicity and development. Deeply triangulate and survey. Present as a lexical encyclopaedic entry of length. Prestige dialect; academic register.**
 
 Post-activation potentiation (PAP) designates a short-lived increase in contractile output of skeletal muscle following a preceding bout of activation, conventionally quantified as an augmentation of electrically evoked twitch force and rate of force development for a given stimulus intensity.[1][2] In contemporary usage it is increasingly distinguished from “post-activation performance enhancement” (PAPE), which refers to the improvement of voluntary performance variables (strength, power, speed) after conditioning contractions rather than to the underlying twitch-level phenomenon.[2][3]
 
