@@ -1,4 +1,4 @@
-File: xxx
+File: https://github.com/b9Joker108/hummingbird_style/blob/main/lexicon/p/post_activation_potentiation_v1_28122025.md
 
 **Tip of the Cap**
 
