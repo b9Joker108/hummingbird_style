@@ -143,6 +143,8 @@ Citations:
 [17] GIUSTRA - Netherlands, Civil Marriage Index, 1795-1949 https://www.ancestry.com/search/collections/61286/?name=_GIUSTRA&pcat=bmd_marriage&qh=90c1d6c40f9c915b262b8f1132a6ebec
 [18] Susanna Gaastra Family History & Historical Records https://www.myheritage.com/names/susanna_gaastra
 
+***Tjibbe Gaastra:* Triangulate D.O.B. and tell me about their ancestry and all of import of their place-of-birth. Pepper with Skandi terminology to keen my ken and kunning. Academic register; prestige dialect: critique and evaluate sources and the author(s), etc., of same.** (NB: [Grok](https://en.wikipedia.org/w/index.php?title=Grok_(chatbot)&oldid=1330367387) is coming along.)
+
 **Key Insights on Tjibbe Gaastra's Background**
 
 - Research suggests Tjibbe Gaastra was likely born in mid-1985, with evidence leaning toward July as a probable month, though exact date remains unconfirmed; this aligns with self-reported age of 40 in late 2025 interviews, but discrepancies in casual mentions warrant caution.
