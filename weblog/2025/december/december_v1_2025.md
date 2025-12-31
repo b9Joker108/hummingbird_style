@@ -2,6 +2,14 @@ File: https://github.com/b9Joker108/hummingbird_style/blob/main/weblog/2025/dece
 
 # December 2025 #
 
+### Wednesday, December 31, 2025 ###
+
+I am still a bit body-chunky, over-heavy for inversions and carrying unnecessary bodyfat, but I have well-metabolised such a vast amount of visceral adiposity, so preternaturally quickly, it gives one pause. Digitally, I have been progressing LinkedIn, Insta and Threads, principally with bodyworkers of substandard, peppered with a few possibke future friends and/or lovers and some auspicious family of consequence. Svenska needsmust play second fiddle just for the interim as I keen my bodymind-continuum for translation to Sverige, my hearthome.
+
+Deix|s:
+
+* https://youtu.be/wOcsnmIkagk?si=9v4aUdPZMu1_Ijm7
+
 ### Sunday, December 28, 2025 ###
 
 DeixMs:
