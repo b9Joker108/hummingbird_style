@@ -8,7 +8,7 @@ Deix|s:
 
 * https://youtu.be/wOcsnmIkagk?si=9v4aUdPZMu1_Ijm7
 * https://www.threads.com/@worldeconomicforum/post/DS6y3mPDoaC?xmt=AQF0xWHDcAr54RpPdzmuUaXb13gZK-gZh-MFA2oHKfSlPxh7K9svhnRdNUHlJY0q6eUMUr6Q&slof=1
-* 
+* https://sv.wikipedia.org/w/index.php?title=Hedvig_Eleonora_av_Holstein-Gottorp&oldid=56172368
 
 I am still a bit body-chunky, over-heavy for inversions and carrying unnecessary bodyfat, but I have well-metabolised such a vast amount of visceral adiposity, so preternaturally quickly, it gives one pause. Digitally, I have been progressing LinkedIn for future linkages according to my Divine and Auspicious Vision; as well as Insta and Threads, principally with bodyworkers of substandard, peppered with a few possible future friends and/or lovers and some auspicious family of consequence. Svenska needsmust play second fiddle just for the interim as I keen my bodymind-continuum for translation to Sverige, my hearthome. Even though somewhat chunky, my skyclad form is now aesthetic to my hawkeye. That said, I still do not understand why people value and appreciate one physical form of mine as-different to-another. It perplexes me greatly. I think and feel no more or less about a person according to their station, bodytype or dress, etc. I do appreciate fashion, finesse, fine things, but I am not beholden to them and they do not constrain and confound me. This world will be saved and preserved within the ken of my Divine and Auspicious Vision. I plan on getting a puppy of substandard as-soon-as-possible in Sverige and will take advisement on breed and bloodline. I too, wish to secure a Gotland pony for my own personal reasons. I am not sure presently, exactly why. But, it accords with my vision.
 
