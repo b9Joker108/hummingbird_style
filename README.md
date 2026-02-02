@@ -261,3 +261,11 @@ Citations:
 ---
 Sealed 
 Beauford Anton Stenberg [|](https://github.com/mctrinh/awesome-mcp-servers)
+
+
+---
+
+P.S.
+
+* https://youtu.be/XQcoQ8XL7s8?si=fbu1wAER00fyJaS3
+
